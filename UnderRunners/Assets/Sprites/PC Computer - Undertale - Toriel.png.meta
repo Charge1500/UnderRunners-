@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 2c4525d3159a1f04b918a96c2360e3ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -369467330547988116
+    second: PC Computer - Undertale - Toriel_0
+  - first:
+      213: 4827479612453600946
+    second: PC Computer - Undertale - Toriel_1
+  - first:
+      213: 6746971553533565699
+    second: PC Computer - Undertale - Toriel_2
+  - first:
+      213: 8161745416155901259
+    second: PC Computer - Undertale - Toriel_3
+  - first:
+      213: 1418861613062867051
+    second: PC Computer - Undertale - Toriel_4
+  - first:
+      213: -544095193575019833
+    second: PC Computer - Undertale - Toriel_5
+  - first:
+      213: -7710583744514725541
+    second: PC Computer - Undertale - Toriel_6
+  - first:
+      213: 4542038068768887229
+    second: PC Computer - Undertale - Toriel_7
+  - first:
+      213: 724469314535294702
+    second: PC Computer - Undertale - Toriel_8
+  - first:
+      213: 1417938987359176060
+    second: PC Computer - Undertale - Toriel_9
+  - first:
+      213: 8825583422785836083
+    second: PC Computer - Undertale - Toriel_10
+  - first:
+      213: -4488775939998836569
+    second: PC Computer - Undertale - Toriel_11
+  - first:
+      213: -764266821701195461
+    second: PC Computer - Undertale - Toriel_12
+  - first:
+      213: 450914453256685601
+    second: PC Computer - Undertale - Toriel_13
+  - first:
+      213: 1756724708943251145
+    second: PC Computer - Undertale - Toriel_14
+  - first:
+      213: -2822356438820963106
+    second: PC Computer - Undertale - Toriel_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 190
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69439e9b636fdaf0800000000000000
+      internalID: -369467330547988116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 189
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bebcb46127aef240800000000000000
+      internalID: 4827479612453600946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 190
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b980681ee02ad50800000000000000
+      internalID: 6746971553533565699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 189
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d25259638544170800000000000000
+      internalID: 8161745416155901259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 129
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68cc00ae1fc0b310800000000000000
+      internalID: 1418861613062867051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 129
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caa6fedd4cf278f0800000000000000
+      internalID: -544095193575019833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 129
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b596c41dfe08ef490800000000000000
+      internalID: -7710583744514725541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 129
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1554d0f8f880f30800000000000000
+      internalID: 4542038068768887229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee60c8fc005dd0a00800000000000000
+      internalID: 724469314535294702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 68
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7588b61ff78da310800000000000000
+      internalID: 1417938987359176060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 68
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334d9b2fc55ca7a70800000000000000
+      internalID: 8825583422785836083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 68
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a89c0ca01aa4b1c0800000000000000
+      internalID: -4488775939998836569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3922eaff57c465f0800000000000000
+      internalID: -764266821701195461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 7
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12844726e48f14600800000000000000
+      internalID: 450914453256685601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 8
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6c6b4b0d3216810800000000000000
+      internalID: 1756724708943251145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc3a8ab5c9f4d8d0800000000000000
+      internalID: -2822356438820963106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3af707bdfbf5c664da88994986e48074
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Undertale - Toriel_0: -369467330547988116
+      PC Computer - Undertale - Toriel_1: 4827479612453600946
+      PC Computer - Undertale - Toriel_10: 8825583422785836083
+      PC Computer - Undertale - Toriel_11: -4488775939998836569
+      PC Computer - Undertale - Toriel_12: -764266821701195461
+      PC Computer - Undertale - Toriel_13: 450914453256685601
+      PC Computer - Undertale - Toriel_14: 1756724708943251145
+      PC Computer - Undertale - Toriel_15: -2822356438820963106
+      PC Computer - Undertale - Toriel_2: 6746971553533565699
+      PC Computer - Undertale - Toriel_3: 8161745416155901259
+      PC Computer - Undertale - Toriel_4: 1418861613062867051
+      PC Computer - Undertale - Toriel_5: -544095193575019833
+      PC Computer - Undertale - Toriel_6: -7710583744514725541
+      PC Computer - Undertale - Toriel_7: 4542038068768887229
+      PC Computer - Undertale - Toriel_8: 724469314535294702
+      PC Computer - Undertale - Toriel_9: 1417938987359176060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

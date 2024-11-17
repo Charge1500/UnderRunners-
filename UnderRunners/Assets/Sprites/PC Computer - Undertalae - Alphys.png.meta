@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 9223a834c9fbca44690252c07842b6c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9083432179866493446
+    second: PC Computer - Undertalae - Alphys_0
+  - first:
+      213: -7773632844898875800
+    second: PC Computer - Undertalae - Alphys_1
+  - first:
+      213: -5609865394715663267
+    second: PC Computer - Undertalae - Alphys_2
+  - first:
+      213: -6335595395947854779
+    second: PC Computer - Undertalae - Alphys_3
+  - first:
+      213: -2888895264543442704
+    second: PC Computer - Undertalae - Alphys_4
+  - first:
+      213: -1996847828284051793
+    second: PC Computer - Undertalae - Alphys_5
+  - first:
+      213: -1387510187941206841
+    second: PC Computer - Undertalae - Alphys_6
+  - first:
+      213: 3129175116551908207
+    second: PC Computer - Undertalae - Alphys_7
+  - first:
+      213: -4534679097029789610
+    second: PC Computer - Undertalae - Alphys_8
+  - first:
+      213: -7124411822433234314
+    second: PC Computer - Undertalae - Alphys_9
+  - first:
+      213: -1379950344552909509
+    second: PC Computer - Undertalae - Alphys_10
+  - first:
+      213: 1049088190155378133
+    second: PC Computer - Undertalae - Alphys_11
+  - first:
+      213: -3001999413773941886
+    second: PC Computer - Undertalae - Alphys_12
+  - first:
+      213: -2179892681706293346
+    second: PC Computer - Undertalae - Alphys_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 114
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd94b9fe8a21f180800000000000000
+      internalID: -9083432179866493446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 113
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8664e713d128e1490800000000000000
+      internalID: -7773632844898875800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 114
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5467365521c522b0800000000000000
+      internalID: -5609865394715663267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 113
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5448de70e817318a0800000000000000
+      internalID: -6335595395947854779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 77
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8749b101598e7d0800000000000000
+      internalID: -2888895264543442704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 77
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae6e9cda75c944e0800000000000000
+      internalID: -1996847828284051793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 77
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4678dd5d29ebce0800000000000000
+      internalID: -1387510187941206841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 77
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b611e70301d6b20800000000000000
+      internalID: 3129175116551908207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 40
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658762313659111c0800000000000000
+      internalID: -4534679097029789610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 40
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672164ab131012d90800000000000000
+      internalID: -7124411822433234314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 40
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35fe31197e69dce0800000000000000
+      internalID: -1379950344552909509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 40
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddc440962c1f8e00800000000000000
+      internalID: 1049088190155378133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283c21e3071c656d0800000000000000
+      internalID: -3001999413773941886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertalae - Alphys_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e973c62d7277fb1e0800000000000000
+      internalID: -2179892681706293346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d04e1befcebf270458b6b9494f0eb085
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Undertalae - Alphys_0: -9083432179866493446
+      PC Computer - Undertalae - Alphys_1: -7773632844898875800
+      PC Computer - Undertalae - Alphys_10: -1379950344552909509
+      PC Computer - Undertalae - Alphys_11: 1049088190155378133
+      PC Computer - Undertalae - Alphys_12: -3001999413773941886
+      PC Computer - Undertalae - Alphys_13: -2179892681706293346
+      PC Computer - Undertalae - Alphys_2: -5609865394715663267
+      PC Computer - Undertalae - Alphys_3: -6335595395947854779
+      PC Computer - Undertalae - Alphys_4: -2888895264543442704
+      PC Computer - Undertalae - Alphys_5: -1996847828284051793
+      PC Computer - Undertalae - Alphys_6: -1387510187941206841
+      PC Computer - Undertalae - Alphys_7: 3129175116551908207
+      PC Computer - Undertalae - Alphys_8: -4534679097029789610
+      PC Computer - Undertalae - Alphys_9: -7124411822433234314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

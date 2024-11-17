@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 8dee524eef0ff274ab04d481eab91a51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1280780148458686973
+    second: PC Computer A- Undertale - Sans_0
+  - first:
+      213: 7456937375144482613
+    second: PC Computer A- Undertale - Sans_1
+  - first:
+      213: 1108248787170410603
+    second: PC Computer A- Undertale - Sans_2
+  - first:
+      213: 4250933021376788468
+    second: PC Computer A- Undertale - Sans_3
+  - first:
+      213: -7233889217614506081
+    second: PC Computer A- Undertale - Sans_4
+  - first:
+      213: 6484542617081062429
+    second: PC Computer A- Undertale - Sans_5
+  - first:
+      213: 3999223875921448575
+    second: PC Computer A- Undertale - Sans_6
+  - first:
+      213: 5747345910000289938
+    second: PC Computer A- Undertale - Sans_7
+  - first:
+      213: -4933234346536650564
+    second: PC Computer A- Undertale - Sans_8
+  - first:
+      213: -6082105467391235643
+    second: PC Computer A- Undertale - Sans_9
+  - first:
+      213: 4731027226071771743
+    second: PC Computer A- Undertale - Sans_10
+  - first:
+      213: 2496934427890898222
+    second: PC Computer A- Undertale - Sans_11
+  - first:
+      213: 5229365617491789177
+    second: PC Computer A- Undertale - Sans_12
+  - first:
+      213: -602163905256745901
+    second: PC Computer A- Undertale - Sans_13
+  - first:
+      213: -3481317438733203325
+    second: PC Computer A- Undertale - Sans_14
+  - first:
+      213: -981172947192999721
+    second: PC Computer A- Undertale - Sans_15
+  - first:
+      213: 52374952065775474
+    second: PC Computer A- Undertale - Sans_16
+  - first:
+      213: -707630321228774519
+    second: PC Computer A- Undertale - Sans_17
+  - first:
+      213: 1739911904441517635
+    second: PC Computer A- Undertale - Sans_18
+  - first:
+      213: 108261503057356037
+    second: PC Computer A- Undertale - Sans_19
+  - first:
+      213: 3261558017931193549
+    second: PC Computer A- Undertale - Sans_20
+  - first:
+      213: -4937828894618243954
+    second: PC Computer A- Undertale - Sans_21
+  - first:
+      213: 83994150971818483
+    second: PC Computer A- Undertale - Sans_22
+  - first:
+      213: -6407212254742634182
+    second: PC Computer A- Undertale - Sans_23
+  - first:
+      213: 3768582321725916305
+    second: PC Computer A- Undertale - Sans_24
+  - first:
+      213: 443163363006788741
+    second: PC Computer A- Undertale - Sans_25
+  - first:
+      213: -8355242360135606824
+    second: PC Computer A- Undertale - Sans_26
+  - first:
+      213: 7345056435880414060
+    second: PC Computer A- Undertale - Sans_27
+  - first:
+      213: -2505749672485597586
+    second: PC Computer A- Undertale - Sans_28
+  - first:
+      213: -3276859084807792923
+    second: PC Computer A- Undertale - Sans_29
+  - first:
+      213: 7576162285692637550
+    second: PC Computer A- Undertale - Sans_30
+  - first:
+      213: 2726821694963535792
+    second: PC Computer A- Undertale - Sans_31
+  - first:
+      213: -1678804585098384031
+    second: PC Computer A- Undertale - Sans_32
+  - first:
+      213: 5436490177668395661
+    second: PC Computer A- Undertale - Sans_33
+  - first:
+      213: 7746950088772025184
+    second: PC Computer A- Undertale - Sans_34
+  - first:
+      213: -7051977416956836957
+    second: PC Computer A- Undertale - Sans_35
+  - first:
+      213: -3170543409882068621
+    second: PC Computer A- Undertale - Sans_36
+  - first:
+      213: -6194822680115616146
+    second: PC Computer A- Undertale - Sans_37
+  - first:
+      213: -5415932259511570180
+    second: PC Computer A- Undertale - Sans_38
+  - first:
+      213: -7517431198433611735
+    second: PC Computer A- Undertale - Sans_39
+  - first:
+      213: 3182786438143709591
+    second: PC Computer A- Undertale - Sans_40
+  - first:
+      213: 2415602264496762150
+    second: PC Computer A- Undertale - Sans_41
+  - first:
+      213: -3850989260751504437
+    second: PC Computer A- Undertale - Sans_42
+  - first:
+      213: -1770974485383374455
+    second: PC Computer A- Undertale - Sans_43
+  - first:
+      213: -9001687194820912408
+    second: PC Computer A- Undertale - Sans_44
+  - first:
+      213: 7720085887478025199
+    second: PC Computer A- Undertale - Sans_45
+  - first:
+      213: 3155379524166337652
+    second: PC Computer A- Undertale - Sans_46
+  - first:
+      213: -2621804245903538776
+    second: PC Computer A- Undertale - Sans_47
+  - first:
+      213: -6553952903642985464
+    second: PC Computer A- Undertale - Sans_48
+  - first:
+      213: -3165171734069355022
+    second: PC Computer A- Undertale - Sans_49
+  - first:
+      213: -8228671618797381963
+    second: PC Computer A- Undertale - Sans_50
+  - first:
+      213: -2548339372126878133
+    second: PC Computer A- Undertale - Sans_51
+  - first:
+      213: 8861870350350591986
+    second: PC Computer A- Undertale - Sans_52
+  - first:
+      213: -8908498847781711827
+    second: PC Computer A- Undertale - Sans_53
+  - first:
+      213: -9116272626980973775
+    second: PC Computer A- Undertale - Sans_54
+  - first:
+      213: -1831235976930669595
+    second: PC Computer A- Undertale - Sans_55
+  - first:
+      213: 2502164680915280725
+    second: PC Computer A- Undertale - Sans_56
+  - first:
+      213: -1181975393766010909
+    second: PC Computer A- Undertale - Sans_57
+  - first:
+      213: -7791215239303283394
+    second: PC Computer A- Undertale - Sans_58
+  - first:
+      213: -3044085439310901719
+    second: PC Computer A- Undertale - Sans_59
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 169
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c92fa14d45089ba0800000000000000
+      internalID: -6082105467391235643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 168
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aa5b0323cf7a140800000000000000
+      internalID: 4731027226071771743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 169
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2551e102a4e6a220800000000000000
+      internalID: 2496934427890898222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 168
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9754d3f9250729840800000000000000
+      internalID: 5229365617491789177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 118
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1c2eb3c386a2100800000000000000
+      internalID: 83994150971818483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 118
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a312983b6620517a0800000000000000
+      internalID: -6407212254742634182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 118
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1944a41a7a1bc4430800000000000000
+      internalID: 3768582321725916305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 118
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584bc7d0bbe662600800000000000000
+      internalID: 443163363006788741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 67
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37906052197fff3d0800000000000000
+      internalID: -3170543409882068621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66ec211891970aa0800000000000000
+      internalID: -6194822680115616146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 67
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0fb380e4eb6d4b0800000000000000
+      internalID: -5415932259511570180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_39
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 67
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920fce17728bca790800000000000000
+      internalID: -7517431198433611735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a50f44edea7d9bd0800000000000000
+      internalID: -2621804245903538776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c48b7fe8eab05a0800000000000000
+      internalID: -6553952903642985464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 16
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd50b1e31d0314d0800000000000000
+      internalID: -3165171734069355022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer A- Undertale - Sans_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b65e3492c2edcd80800000000000000
+      internalID: -8228671618797381963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5a57ab3fd4e0bd14392aa367c89dabf5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer A- Undertale - Sans_0: 1280780148458686973
+      PC Computer A- Undertale - Sans_1: 7456937375144482613
+      PC Computer A- Undertale - Sans_10: 4731027226071771743
+      PC Computer A- Undertale - Sans_11: 2496934427890898222
+      PC Computer A- Undertale - Sans_12: 5229365617491789177
+      PC Computer A- Undertale - Sans_13: -602163905256745901
+      PC Computer A- Undertale - Sans_14: -3481317438733203325
+      PC Computer A- Undertale - Sans_15: -981172947192999721
+      PC Computer A- Undertale - Sans_16: 52374952065775474
+      PC Computer A- Undertale - Sans_17: -707630321228774519
+      PC Computer A- Undertale - Sans_18: 1739911904441517635
+      PC Computer A- Undertale - Sans_19: 108261503057356037
+      PC Computer A- Undertale - Sans_2: 1108248787170410603
+      PC Computer A- Undertale - Sans_20: 3261558017931193549
+      PC Computer A- Undertale - Sans_21: -4937828894618243954
+      PC Computer A- Undertale - Sans_22: 83994150971818483
+      PC Computer A- Undertale - Sans_23: -6407212254742634182
+      PC Computer A- Undertale - Sans_24: 3768582321725916305
+      PC Computer A- Undertale - Sans_25: 443163363006788741
+      PC Computer A- Undertale - Sans_26: -8355242360135606824
+      PC Computer A- Undertale - Sans_27: 7345056435880414060
+      PC Computer A- Undertale - Sans_28: -2505749672485597586
+      PC Computer A- Undertale - Sans_29: -3276859084807792923
+      PC Computer A- Undertale - Sans_3: 4250933021376788468
+      PC Computer A- Undertale - Sans_30: 7576162285692637550
+      PC Computer A- Undertale - Sans_31: 2726821694963535792
+      PC Computer A- Undertale - Sans_32: -1678804585098384031
+      PC Computer A- Undertale - Sans_33: 5436490177668395661
+      PC Computer A- Undertale - Sans_34: 7746950088772025184
+      PC Computer A- Undertale - Sans_35: -7051977416956836957
+      PC Computer A- Undertale - Sans_36: -3170543409882068621
+      PC Computer A- Undertale - Sans_37: -6194822680115616146
+      PC Computer A- Undertale - Sans_38: -5415932259511570180
+      PC Computer A- Undertale - Sans_39: -7517431198433611735
+      PC Computer A- Undertale - Sans_4: -7233889217614506081
+      PC Computer A- Undertale - Sans_40: 3182786438143709591
+      PC Computer A- Undertale - Sans_41: 2415602264496762150
+      PC Computer A- Undertale - Sans_42: -3850989260751504437
+      PC Computer A- Undertale - Sans_43: -1770974485383374455
+      PC Computer A- Undertale - Sans_44: -9001687194820912408
+      PC Computer A- Undertale - Sans_45: 7720085887478025199
+      PC Computer A- Undertale - Sans_46: 3155379524166337652
+      PC Computer A- Undertale - Sans_47: -2621804245903538776
+      PC Computer A- Undertale - Sans_48: -6553952903642985464
+      PC Computer A- Undertale - Sans_49: -3165171734069355022
+      PC Computer A- Undertale - Sans_5: 6484542617081062429
+      PC Computer A- Undertale - Sans_50: -8228671618797381963
+      PC Computer A- Undertale - Sans_51: -2548339372126878133
+      PC Computer A- Undertale - Sans_52: 8861870350350591986
+      PC Computer A- Undertale - Sans_53: -8908498847781711827
+      PC Computer A- Undertale - Sans_54: -9116272626980973775
+      PC Computer A- Undertale - Sans_55: -1831235976930669595
+      PC Computer A- Undertale - Sans_56: 2502164680915280725
+      PC Computer A- Undertale - Sans_57: -1181975393766010909
+      PC Computer A- Undertale - Sans_58: -7791215239303283394
+      PC Computer A- Undertale - Sans_59: -3044085439310901719
+      PC Computer A- Undertale - Sans_6: 3999223875921448575
+      PC Computer A- Undertale - Sans_7: 5747345910000289938
+      PC Computer A- Undertale - Sans_8: -4933234346536650564
+      PC Computer A- Undertale - Sans_9: -6082105467391235643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
