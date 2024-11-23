@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 9b0cdaa664c1b3b45b634e20288725c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8004994436108344136
+    second: PC Computera - Undertale - Papyrus_0
+  - first:
+      213: -2065263148863790636
+    second: PC Computera - Undertale - Papyrus_1
+  - first:
+      213: 2974367269712021954
+    second: PC Computera - Undertale - Papyrus_2
+  - first:
+      213: 7084940125401868571
+    second: PC Computera - Undertale - Papyrus_3
+  - first:
+      213: 9006511952553203160
+    second: PC Computera - Undertale - Papyrus_4
+  - first:
+      213: 5971919429866573467
+    second: PC Computera - Undertale - Papyrus_5
+  - first:
+      213: 791224787173671389
+    second: PC Computera - Undertale - Papyrus_6
+  - first:
+      213: -941291077709858534
+    second: PC Computera - Undertale - Papyrus_7
+  - first:
+      213: 8322951294265278463
+    second: PC Computera - Undertale - Papyrus_8
+  - first:
+      213: 2330936676810550982
+    second: PC Computera - Undertale - Papyrus_9
+  - first:
+      213: -6963801129909686447
+    second: PC Computera - Undertale - Papyrus_10
+  - first:
+      213: 5776428483050216537
+    second: PC Computera - Undertale - Papyrus_11
+  - first:
+      213: -4186888008637501845
+    second: PC Computera - Undertale - Papyrus_12
+  - first:
+      213: 8537650711096285207
+    second: PC Computera - Undertale - Papyrus_13
+  - first:
+      213: -8425677879368023443
+    second: PC Computera - Undertale - Papyrus_14
+  - first:
+      213: 9105292792938324152
+    second: PC Computera - Undertale - Papyrus_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 148
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b57310704771f60800000000000000
+      internalID: 8004994436108344136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 147
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1e44cbb16b653e0800000000000000
+      internalID: -2065263148863790636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 148
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9cbbed543174920800000000000000
+      internalID: 2974367269712021954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 147
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b196d75a183c25260800000000000000
+      internalID: 7084940125401868571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 99
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d55e3df6ee8dfc70800000000000000
+      internalID: 9006511952553203160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 99
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e4374b41580e250800000000000000
+      internalID: 5971919429866573467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 99
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd188f870cefafa00800000000000000
+      internalID: 791224787173671389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 99
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19fbd280ccdfe2f0800000000000000
+      internalID: -941291077709858534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff3f81fa10118370800000000000000
+      internalID: 8322951294265278463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 50
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cee837ce86295020800000000000000
+      internalID: 2330936676810550982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fe445a4cb9b5f90800000000000000
+      internalID: -6963801129909686447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 50
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c18aab91ff92050800000000000000
+      internalID: 5776428483050216537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ea1da0a8f25e5c0800000000000000
+      internalID: -4186888008637501845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718514b5614db7670800000000000000
+      internalID: 8537650711096285207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6207602c9af11b80800000000000000
+      internalID: -8425677879368023443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computera - Undertale - Papyrus_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b06303ad8f7c5e70800000000000000
+      internalID: 9105292792938324152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e0d4e673c25fd6a42a86ccdddab6f61f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computera - Undertale - Papyrus_0: 8004994436108344136
+      PC Computera - Undertale - Papyrus_1: -2065263148863790636
+      PC Computera - Undertale - Papyrus_10: -6963801129909686447
+      PC Computera - Undertale - Papyrus_11: 5776428483050216537
+      PC Computera - Undertale - Papyrus_12: -4186888008637501845
+      PC Computera - Undertale - Papyrus_13: 8537650711096285207
+      PC Computera - Undertale - Papyrus_14: -8425677879368023443
+      PC Computera - Undertale - Papyrus_15: 9105292792938324152
+      PC Computera - Undertale - Papyrus_2: 2974367269712021954
+      PC Computera - Undertale - Papyrus_3: 7084940125401868571
+      PC Computera - Undertale - Papyrus_4: 9006511952553203160
+      PC Computera - Undertale - Papyrus_5: 5971919429866573467
+      PC Computera - Undertale - Papyrus_6: 791224787173671389
+      PC Computera - Undertale - Papyrus_7: -941291077709858534
+      PC Computera - Undertale - Papyrus_8: 8322951294265278463
+      PC Computera - Undertale - Papyrus_9: 2330936676810550982
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

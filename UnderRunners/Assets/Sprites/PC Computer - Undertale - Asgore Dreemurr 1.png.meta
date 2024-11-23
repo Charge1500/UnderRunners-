@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 4fae88a200540d0479f04cf87c52a5c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3574843867341134619
+    second: PC Computer - Undertale - Asgore Dreemurr 1_0
+  - first:
+      213: -6779261044923549271
+    second: PC Computer - Undertale - Asgore Dreemurr 1_1
+  - first:
+      213: 715370598895330281
+    second: PC Computer - Undertale - Asgore Dreemurr 1_2
+  - first:
+      213: 4917272322473443069
+    second: PC Computer - Undertale - Asgore Dreemurr 1_3
+  - first:
+      213: -6272071303444532787
+    second: PC Computer - Undertale - Asgore Dreemurr 1_4
+  - first:
+      213: -5511495528545904484
+    second: PC Computer - Undertale - Asgore Dreemurr 1_5
+  - first:
+      213: 7285159097936641095
+    second: PC Computer - Undertale - Asgore Dreemurr 1_6
+  - first:
+      213: -3745229093241155115
+    second: PC Computer - Undertale - Asgore Dreemurr 1_7
+  - first:
+      213: 6781845120439701423
+    second: PC Computer - Undertale - Asgore Dreemurr 1_8
+  - first:
+      213: 2691035573404168
+    second: PC Computer - Undertale - Asgore Dreemurr 1_9
+  - first:
+      213: 8127108297032643145
+    second: PC Computer - Undertale - Asgore Dreemurr 1_10
+  - first:
+      213: -6636723623921637042
+    second: PC Computer - Undertale - Asgore Dreemurr 1_11
+  - first:
+      213: -1465968192335378634
+    second: PC Computer - Undertale - Asgore Dreemurr 1_12
+  - first:
+      213: 8031590290401519794
+    second: PC Computer - Undertale - Asgore Dreemurr 1_13
+  - first:
+      213: 1058416219081894820
+    second: PC Computer - Undertale - Asgore Dreemurr 1_14
+  - first:
+      213: -5851763584336156197
+    second: PC Computer - Undertale - Asgore Dreemurr 1_15
+  - first:
+      213: 5322147677017519069
+    second: PC Computer - Undertale - Asgore Dreemurr 1_16
+  - first:
+      213: 1440181996816178943
+    second: PC Computer - Undertale - Asgore Dreemurr 1_17
+  - first:
+      213: -5756995640618693505
+    second: PC Computer - Undertale - Asgore Dreemurr 1_18
+  - first:
+      213: -4178222564629285484
+    second: PC Computer - Undertale - Asgore Dreemurr 1_19
+  - first:
+      213: 8547882718904667222
+    second: PC Computer - Undertale - Asgore Dreemurr 1_20
+  - first:
+      213: 4013530240230285779
+    second: PC Computer - Undertale - Asgore Dreemurr 1_21
+  - first:
+      213: -2449714021555157803
+    second: PC Computer - Undertale - Asgore Dreemurr 1_22
+  - first:
+      213: 5799878621866427536
+    second: PC Computer - Undertale - Asgore Dreemurr 1_23
+  - first:
+      213: -6553261463156447509
+    second: PC Computer - Undertale - Asgore Dreemurr 1_24
+  - first:
+      213: -974211377786594564
+    second: PC Computer - Undertale - Asgore Dreemurr 1_25
+  - first:
+      213: -5173023578016119181
+    second: PC Computer - Undertale - Asgore Dreemurr 1_26
+  - first:
+      213: -2500339015027607673
+    second: PC Computer - Undertale - Asgore Dreemurr 1_27
+  - first:
+      213: -5165292368090066442
+    second: PC Computer - Undertale - Asgore Dreemurr 1_28
+  - first:
+      213: 190830624928531757
+    second: PC Computer - Undertale - Asgore Dreemurr 1_29
+  - first:
+      213: 7592988496620266925
+    second: PC Computer - Undertale - Asgore Dreemurr 1_30
+  - first:
+      213: -4885894932195223917
+    second: PC Computer - Undertale - Asgore Dreemurr 1_31
+  - first:
+      213: 2667514911819079250
+    second: PC Computer - Undertale - Asgore Dreemurr 1_32
+  - first:
+      213: -1178191930117718019
+    second: PC Computer - Undertale - Asgore Dreemurr 1_33
+  - first:
+      213: -2281560461094750544
+    second: PC Computer - Undertale - Asgore Dreemurr 1_34
+  - first:
+      213: 4339505424381815021
+    second: PC Computer - Undertale - Asgore Dreemurr 1_35
+  - first:
+      213: 7570534939445820411
+    second: PC Computer - Undertale - Asgore Dreemurr 1_36
+  - first:
+      213: -2468823092329923936
+    second: PC Computer - Undertale - Asgore Dreemurr 1_37
+  - first:
+      213: 3765191880039056590
+    second: PC Computer - Undertale - Asgore Dreemurr 1_38
+  - first:
+      213: 454297868452684708
+    second: PC Computer - Undertale - Asgore Dreemurr 1_39
+  - first:
+      213: -6160666577265443423
+    second: PC Computer - Undertale - Asgore Dreemurr 1_40
+  - first:
+      213: -407741780875507016
+    second: PC Computer - Undertale - Asgore Dreemurr 1_41
+  - first:
+      213: -4254512296068427501
+    second: PC Computer - Undertale - Asgore Dreemurr 1_42
+  - first:
+      213: -8798925812422148293
+    second: PC Computer - Undertale - Asgore Dreemurr 1_43
+  - first:
+      213: -5460392731793305585
+    second: PC Computer - Undertale - Asgore Dreemurr 1_44
+  - first:
+      213: -9025843787685486150
+    second: PC Computer - Undertale - Asgore Dreemurr 1_45
+  - first:
+      213: -2940560242187750716
+    second: PC Computer - Undertale - Asgore Dreemurr 1_46
+  - first:
+      213: -4402827456906927135
+    second: PC Computer - Undertale - Asgore Dreemurr 1_47
+  - first:
+      213: -6620631158366165698
+    second: PC Computer - Undertale - Asgore Dreemurr 1_48
+  - first:
+      213: 576448247140603903
+    second: PC Computer - Undertale - Asgore Dreemurr 1_49
+  - first:
+      213: 2125314971663960358
+    second: PC Computer - Undertale - Asgore Dreemurr 1_50
+  - first:
+      213: -7687993097509672107
+    second: PC Computer - Undertale - Asgore Dreemurr 1_51
+  - first:
+      213: -4374851174340067909
+    second: PC Computer - Undertale - Asgore Dreemurr 1_52
+  - first:
+      213: 5091978041548815034
+    second: PC Computer - Undertale - Asgore Dreemurr 1_53
+  - first:
+      213: -5322481560714427126
+    second: PC Computer - Undertale - Asgore Dreemurr 1_54
+  - first:
+      213: 1373011815433111339
+    second: PC Computer - Undertale - Asgore Dreemurr 1_55
+  - first:
+      213: -956022091126786819
+    second: PC Computer - Undertale - Asgore Dreemurr 1_56
+  - first:
+      213: 4117032015555918510
+    second: PC Computer - Undertale - Asgore Dreemurr 1_57
+  - first:
+      213: -9220124646308439643
+    second: PC Computer - Undertale - Asgore Dreemurr 1_58
+  - first:
+      213: -5894115167766382211
+    second: PC Computer - Undertale - Asgore Dreemurr 1_59
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgore Dreemurr 1_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 328
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8024e6b8b7f890000800000000000000
+      internalID: 2691035573404168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgore Dreemurr 1_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 327
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942b2c7dfe949c070800000000000000
+      internalID: 8127108297032643145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgore Dreemurr 1_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 164
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aab4685a7afcbdd0800000000000000
+      internalID: -2468823092329923936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgore Dreemurr 1_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 164
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4c9e8e016a04430800000000000000
+      internalID: 3765191880039056590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgore Dreemurr 1_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 83
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7563a60a4fff700800000000000000
+      internalID: 576448247140603903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgore Dreemurr 1_50
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 83
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62989d1d4b2ae7d10800000000000000
+      internalID: 2125314971663960358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgore Dreemurr 1_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a916f70c798b0080800000000000000
+      internalID: -9220124646308439643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgore Dreemurr 1_59
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79fa08bb75e33ea0800000000000000
+      internalID: -5894115167766382211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 079751ff0153afd48a723d852be8093d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Undertale - Asgore Dreemurr 1_0: -3574843867341134619
+      PC Computer - Undertale - Asgore Dreemurr 1_1: -6779261044923549271
+      PC Computer - Undertale - Asgore Dreemurr 1_10: 8127108297032643145
+      PC Computer - Undertale - Asgore Dreemurr 1_11: -6636723623921637042
+      PC Computer - Undertale - Asgore Dreemurr 1_12: -1465968192335378634
+      PC Computer - Undertale - Asgore Dreemurr 1_13: 8031590290401519794
+      PC Computer - Undertale - Asgore Dreemurr 1_14: 1058416219081894820
+      PC Computer - Undertale - Asgore Dreemurr 1_15: -5851763584336156197
+      PC Computer - Undertale - Asgore Dreemurr 1_16: 5322147677017519069
+      PC Computer - Undertale - Asgore Dreemurr 1_17: 1440181996816178943
+      PC Computer - Undertale - Asgore Dreemurr 1_18: -5756995640618693505
+      PC Computer - Undertale - Asgore Dreemurr 1_19: -4178222564629285484
+      PC Computer - Undertale - Asgore Dreemurr 1_2: 715370598895330281
+      PC Computer - Undertale - Asgore Dreemurr 1_20: 8547882718904667222
+      PC Computer - Undertale - Asgore Dreemurr 1_21: 4013530240230285779
+      PC Computer - Undertale - Asgore Dreemurr 1_22: -2449714021555157803
+      PC Computer - Undertale - Asgore Dreemurr 1_23: 5799878621866427536
+      PC Computer - Undertale - Asgore Dreemurr 1_24: -6553261463156447509
+      PC Computer - Undertale - Asgore Dreemurr 1_25: -974211377786594564
+      PC Computer - Undertale - Asgore Dreemurr 1_26: -5173023578016119181
+      PC Computer - Undertale - Asgore Dreemurr 1_27: -2500339015027607673
+      PC Computer - Undertale - Asgore Dreemurr 1_28: -5165292368090066442
+      PC Computer - Undertale - Asgore Dreemurr 1_29: 190830624928531757
+      PC Computer - Undertale - Asgore Dreemurr 1_3: 4917272322473443069
+      PC Computer - Undertale - Asgore Dreemurr 1_30: 7592988496620266925
+      PC Computer - Undertale - Asgore Dreemurr 1_31: -4885894932195223917
+      PC Computer - Undertale - Asgore Dreemurr 1_32: 2667514911819079250
+      PC Computer - Undertale - Asgore Dreemurr 1_33: -1178191930117718019
+      PC Computer - Undertale - Asgore Dreemurr 1_34: -2281560461094750544
+      PC Computer - Undertale - Asgore Dreemurr 1_35: 4339505424381815021
+      PC Computer - Undertale - Asgore Dreemurr 1_36: 7570534939445820411
+      PC Computer - Undertale - Asgore Dreemurr 1_37: -2468823092329923936
+      PC Computer - Undertale - Asgore Dreemurr 1_38: 3765191880039056590
+      PC Computer - Undertale - Asgore Dreemurr 1_39: 454297868452684708
+      PC Computer - Undertale - Asgore Dreemurr 1_4: -6272071303444532787
+      PC Computer - Undertale - Asgore Dreemurr 1_40: -6160666577265443423
+      PC Computer - Undertale - Asgore Dreemurr 1_41: -407741780875507016
+      PC Computer - Undertale - Asgore Dreemurr 1_42: -4254512296068427501
+      PC Computer - Undertale - Asgore Dreemurr 1_43: -8798925812422148293
+      PC Computer - Undertale - Asgore Dreemurr 1_44: -5460392731793305585
+      PC Computer - Undertale - Asgore Dreemurr 1_45: -9025843787685486150
+      PC Computer - Undertale - Asgore Dreemurr 1_46: -2940560242187750716
+      PC Computer - Undertale - Asgore Dreemurr 1_47: -4402827456906927135
+      PC Computer - Undertale - Asgore Dreemurr 1_48: -6620631158366165698
+      PC Computer - Undertale - Asgore Dreemurr 1_49: 576448247140603903
+      PC Computer - Undertale - Asgore Dreemurr 1_5: -5511495528545904484
+      PC Computer - Undertale - Asgore Dreemurr 1_50: 2125314971663960358
+      PC Computer - Undertale - Asgore Dreemurr 1_51: -7687993097509672107
+      PC Computer - Undertale - Asgore Dreemurr 1_52: -4374851174340067909
+      PC Computer - Undertale - Asgore Dreemurr 1_53: 5091978041548815034
+      PC Computer - Undertale - Asgore Dreemurr 1_54: -5322481560714427126
+      PC Computer - Undertale - Asgore Dreemurr 1_55: 1373011815433111339
+      PC Computer - Undertale - Asgore Dreemurr 1_56: -956022091126786819
+      PC Computer - Undertale - Asgore Dreemurr 1_57: 4117032015555918510
+      PC Computer - Undertale - Asgore Dreemurr 1_58: -9220124646308439643
+      PC Computer - Undertale - Asgore Dreemurr 1_59: -5894115167766382211
+      PC Computer - Undertale - Asgore Dreemurr 1_6: 7285159097936641095
+      PC Computer - Undertale - Asgore Dreemurr 1_60: 1201771922
+      PC Computer - Undertale - Asgore Dreemurr 1_61: -769674842
+      PC Computer - Undertale - Asgore Dreemurr 1_7: -3745229093241155115
+      PC Computer - Undertale - Asgore Dreemurr 1_8: 6781845120439701423
+      PC Computer - Undertale - Asgore Dreemurr 1_9: 2691035573404168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
