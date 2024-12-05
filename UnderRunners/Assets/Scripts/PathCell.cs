@@ -10,8 +10,14 @@ public class PathCell : MonoBehaviour
         if (someone.CompareTag("Player"))
         {
             TurnOf turnOf = someone.GetComponentInParent<TurnOf>();
+            Player player = turnOf.turns[turnOf.currentTurnIndex];
 
-            turnOf.PlayerEnteredNewCell(turnOf.turns[turnOf.currentTurnIndex]);
+            // Verifica si es el turno del jugador que entró
+            if (player == someone.GetComponent<Player>() && player.isTurn)
+            {
+                
+                turnOf.PlayerEnteredNewCell(player);
+            }
         }
     }
 }

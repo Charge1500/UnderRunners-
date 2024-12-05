@@ -8,6 +8,6 @@ public class Papyrus : Player
     this.playerName="Papyrus";
     this.health=7;
     this.attack=5;
-    this.speed=2; 
+    this.speed=4; 
     }
 }

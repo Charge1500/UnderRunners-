@@ -7,6 +7,7 @@ public class Player : MonoBehaviour
     // Stats
     public string playerName;
     public int health;
+    public int currentHealth;
     public int attack;
     public int speed;
     public bool isTurn = false;
@@ -21,12 +22,19 @@ public class Player : MonoBehaviour
     // Animator
     private Animator animator;
 
+    private TurnOf turnOf;
+    public Vector2 respawnPoint;
+
     void Awake(){
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+        currentHealth=health;
     }
 
+    void Start(){
+        turnOf = GetComponentInParent<TurnOf>();
+    }
     void Update()
     {
         // Solo permitir movimiento si es el turno del jugador
@@ -37,7 +45,6 @@ public class Player : MonoBehaviour
             float moveVertical = Input.GetAxis("Vertical");
 
             // ANIMACIONES
-            // Personaje si esta caminando o no
             if(moveHorizontal != 0 || moveVertical != 0){
                 animator.SetBool("IsWalking", true);
             } else {
@@ -47,7 +54,6 @@ public class Player : MonoBehaviour
             // Determinar la dirección del movimiento
             if (moveHorizontal != 0) {
                 animator.SetInteger("WalkDirection", 2); // Horizontal
-                // Ajustar la escala del sprite para caminar a la derecha o izquierda
                 Vector3 playerScale = transform.localScale;
                 playerScale.x = moveHorizontal < 0 ? 1 : -1;
                 transform.localScale = playerScale;
@@ -66,22 +72,43 @@ public class Player : MonoBehaviour
                 _movement.Normalize();
             }
 
-            // Aplicar la velocidad y deltaTime
             _movement *= speedMovement * Time.deltaTime;
         }
         else
         {
-            // Si no es el turno del jugador, resetear el movimiento
             _movement = Vector2.zero;
+            animator.SetBool("IsWalking", false); // Detener la animación de caminar
         }
     }
 
     void FixedUpdate() {
-        // Mover el Rigidbody2D
         if (isTurn) {
             rb.MovePosition(rb.position + _movement);
         }
-        // Cambiar el orden en la capa dependiendo de su posición en y
         sr.sortingOrder = (int)rb.position.y * -1;
     }
+
+    public void TakeDamage(int damage)
+    {
+        currentHealth -= damage;
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
+    }
+
+    private void Die()
+    {
+        if(isTurn){
+            turnOf.NextTurn();
+        }
+        Respawn();
+    }
+
+    public void Respawn()
+    {
+    transform.position = respawnPoint;
+    currentHealth = health;
+    }
+
 }

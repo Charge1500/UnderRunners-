@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 {
     private MazeGenerator mazeGenerator;
     private Pencil pencil;
-    public TurnOf turnOf;  // Añadido: Referencia al script TurnOf
+    private TurnOf turnOf;
 
     void Awake()
     {
@@ -36,8 +36,4 @@ public class GameManager : MonoBehaviour
         turnOf.StartTurn();
     }
 
-    void Update()
-    {
-
-    }
 }

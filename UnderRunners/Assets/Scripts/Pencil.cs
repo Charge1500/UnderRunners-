@@ -51,33 +51,28 @@ public class Pencil : MonoBehaviour
         int width = mazeGenerator.width;
         int height = mazeGenerator.height;
 
-        List<(int, int)> paths1 = new List<(int, int)>();
-        List<(int, int)> paths2 = new List<(int, int)>();
+        // Fijar el punto de respawn del jugador 1
+        int x1 = 1;
+        int y1 = 1;
+        if (maze[x1, y1] == 0)
+        {
+            GameObject player1Instance = Instantiate(player1, new Vector3(x1, y1, 0), Quaternion.identity);
+            player1Instance.GetComponent<Player>().respawnPoint = new Vector2(x1, y1);
+            player1Instance.transform.SetParent(playersParent.transform, true);
+            player1 = player1Instance;
+        }
 
-        if(player1!=null&&player2!=null){
-            for (int i = 1; i < width - 1; i++)
-            {
-                if (maze[i, 1] == 0)
-                {
-                    paths1.Add((i, 1));
-                }
-                if (maze[i, height - 2] == 0)
-                {
-                    paths2.Add((i, height - 2));
-                }
-            }
-
-            int index1 = Random.Range(0, paths1.Count);
-            int index2 = Random.Range(0, paths2.Count);
-
-            (int x, int y) = paths1[index1];
-           GameObject player1Instance = Instantiate(player1, new Vector3(x, y, 0), Quaternion.identity); 
-           player1Instance.transform.SetParent(playersParent.transform, true);
-            
-            
-            (x, y) = paths2[index2];
-            GameObject player2Instance = Instantiate(player2, new Vector3(x, y, 0), Quaternion.identity); 
+        // Fijar el punto de respawn del jugador 2
+        int x2 = width - 2;
+        int y2 = height - 2;
+        if (maze[x2, y2] == 0)
+        {
+            GameObject player2Instance = Instantiate(player2, new Vector3(x2, y2, 0), Quaternion.identity);
+            player2Instance.GetComponent<Player>().respawnPoint = new Vector2(x2, y2);
             player2Instance.transform.SetParent(playersParent.transform, true);
+            player2 = player2Instance;
         }
     }
+
+
 }

@@ -103,7 +103,7 @@ MonoBehaviour:
   playerName: Papyrus
   health: 7
   attack: 5
-  speed: 2
+  speed: 4
   isTurn: 0
   uniqueAbility: {fileID: 0}
   speedMovement: 6

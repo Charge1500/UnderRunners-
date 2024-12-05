@@ -1,1 +1,4 @@
 -Camara que centra al laberinto
+-Muerte del jugador
+-Movimiento del jugador
+-Collider de los caminos

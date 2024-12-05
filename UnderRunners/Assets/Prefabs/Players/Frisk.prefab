@@ -107,6 +107,8 @@ MonoBehaviour:
   isTurn: 1
   uniqueAbility: {fileID: 0}
   speedMovement: 7
+  playerPrefab: {fileID: 0}
+  respawnPosition: {x: 0, y: 0}
 --- !u!50 &-6474914617893379028
 Rigidbody2D:
   serializedVersion: 4
