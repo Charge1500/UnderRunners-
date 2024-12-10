@@ -75,7 +75,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -362245535
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 2705074566984982804, guid: 7a0b7b70c90b35345b83c0bfc3716931, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -102,11 +102,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerName: Undyne
   health: 4
+  currentHealth: 0
   attack: 6
   speed: 3
   isTurn: 0
   uniqueAbility: {fileID: 0}
   speedMovement: 8
+  respawnPoint: {x: 0, y: 0}
 --- !u!50 &-1494718253628712652
 Rigidbody2D:
   serializedVersion: 4
@@ -168,17 +170,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.014498711, y: -0.34468448}
+  m_Offset: {x: -0.014498711, y: 0.052601576}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0}
     oldSize: {x: 0.46875, y: 0.84375}
     newSize: {x: 0.6666667, y: 1.2}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.32375908, y: 0.15438104}
+  m_Size: {x: 0.32375908, y: 0.115303636}
   m_EdgeRadius: 0
 --- !u!95 &3467303315879075917
 Animator:

@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 7a0b7b70c90b35345b83c0bfc3716931
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2705074566984982804
+    second: PC Computer - UndertalAe - Undyne_0
+  - first:
+      213: 8606045674265296941
+    second: PC Computer - UndertalAe - Undyne_1
+  - first:
+      213: 4936634952736454103
+    second: PC Computer - UndertalAe - Undyne_2
+  - first:
+      213: -818901747629469330
+    second: PC Computer - UndertalAe - Undyne_3
+  - first:
+      213: 214817479326267588
+    second: PC Computer - UndertalAe - Undyne_4
+  - first:
+      213: -956217353771296987
+    second: PC Computer - UndertalAe - Undyne_5
+  - first:
+      213: 6183571600730597835
+    second: PC Computer - UndertalAe - Undyne_6
+  - first:
+      213: -1087736885322258256
+    second: PC Computer - UndertalAe - Undyne_7
+  - first:
+      213: 6024582201255367799
+    second: PC Computer - UndertalAe - Undyne_8
+  - first:
+      213: 293817984203889327
+    second: PC Computer - UndertalAe - Undyne_9
+  - first:
+      213: 5837674754739012479
+    second: PC Computer - UndertalAe - Undyne_10
+  - first:
+      213: 1551734944008908286
+    second: PC Computer - UndertalAe - Undyne_11
+  - first:
+      213: 8100213115557112311
+    second: PC Computer - UndertalAe - Undyne_12
+  - first:
+      213: -6146338108926023160
+    second: PC Computer - UndertalAe - Undyne_13
+  - first:
+      213: 1579335271937168454
+    second: PC Computer - UndertalAe - Undyne_14
+  - first:
+      213: -7836667149848038729
+    second: PC Computer - UndertalAe - Undyne_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 61
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41165109cfa5a8520800000000000000
+      internalID: 2705074566984982804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 61
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20ce57a1f0de6770800000000000000
+      internalID: 8606045674265296941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 61
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d532a78553728440800000000000000
+      internalID: 4936634952736454103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 61
+        width: 30
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e615992033da2a4f0800000000000000
+      internalID: -818901747629469330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 62
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c879cafb5f2bf200800000000000000
+      internalID: 214817479326267588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 61
+        width: 30
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527d56c0265dab2f0800000000000000
+      internalID: -956217353771296987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 62
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9adb0eb9570d550800000000000000
+      internalID: 6183571600730597835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 32
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8e64dd01597e0f0800000000000000
+      internalID: -1087736885322258256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77497f9a79d9b9350800000000000000
+      internalID: 6024582201255367799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa181166e9d31400800000000000000
+      internalID: 293817984203889327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f730c769246930150800000000000000
+      internalID: 5837674754739012479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd263bc5bed88510800000000000000
+      internalID: 1551734944008908286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 3
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9edbd69ecb96070800000000000000
+      internalID: 8100213115557112311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aa40cfd02d3baa0800000000000000
+      internalID: -6146338108926023160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6445f09ef0deae510800000000000000
+      internalID: 1579335271937168454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - UndertalAe - Undyne_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2b5566fb09e3390800000000000000
+      internalID: -7836667149848038729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ee8756cc65cec3e48844d85da9340870
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - UndertalAe - Undyne_0: 2705074566984982804
+      PC Computer - UndertalAe - Undyne_1: 8606045674265296941
+      PC Computer - UndertalAe - Undyne_10: 5837674754739012479
+      PC Computer - UndertalAe - Undyne_11: 1551734944008908286
+      PC Computer - UndertalAe - Undyne_12: 8100213115557112311
+      PC Computer - UndertalAe - Undyne_13: -6146338108926023160
+      PC Computer - UndertalAe - Undyne_14: 1579335271937168454
+      PC Computer - UndertalAe - Undyne_15: -7836667149848038729
+      PC Computer - UndertalAe - Undyne_2: 4936634952736454103
+      PC Computer - UndertalAe - Undyne_3: -818901747629469330
+      PC Computer - UndertalAe - Undyne_4: 214817479326267588
+      PC Computer - UndertalAe - Undyne_5: -956217353771296987
+      PC Computer - UndertalAe - Undyne_6: 6183571600730597835
+      PC Computer - UndertalAe - Undyne_7: -1087736885322258256
+      PC Computer - UndertalAe - Undyne_8: 6024582201255367799
+      PC Computer - UndertalAe - Undyne_9: 293817984203889327
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -75,7 +75,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -362245535
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 8004994436108344136, guid: f11f666c74f91d14d8aca59b165fbd45, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -102,11 +102,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerName: Papyrus
   health: 7
+  currentHealth: 0
   attack: 5
   speed: 4
   isTurn: 0
   uniqueAbility: {fileID: 0}
   speedMovement: 6
+  respawnPoint: {x: 0, y: 0}
 --- !u!50 &7331754845657738457
 Rigidbody2D:
   serializedVersion: 4

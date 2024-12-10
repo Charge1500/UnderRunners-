@@ -75,7 +75,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -362245535
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -9083432179866493446, guid: 9223a834c9fbca44690252c07842b6c6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -102,13 +102,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerName: Alphys
   health: 7
+  currentHealth: 0
   attack: 4
   speed: 3
   isTurn: 0
   uniqueAbility: {fileID: 0}
   speedMovement: 7
-  playerPrefab: {fileID: 0}
-  respawnPosition: {x: 0, y: 0}
+  respawnPoint: {x: 0, y: 0}
 --- !u!50 &1743481772224993476
 Rigidbody2D:
   serializedVersion: 4
@@ -170,10 +170,10 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.2050668}
+  m_Offset: {x: 0, y: 0.02288425}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0}
     oldSize: {x: 0.296875, y: 0.484375}
     newSize: {x: 0.42222223, y: 0.6888889}
     adaptiveTilingThreshold: 0.5

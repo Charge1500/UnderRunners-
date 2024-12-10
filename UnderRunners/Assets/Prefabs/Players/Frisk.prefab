@@ -75,7 +75,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -362245535
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 1284040036848574099, guid: 2717edcfbd3abc04dbed19fe31823c32, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -102,13 +102,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerName: Frisk
   health: 6
+  currentHealth: 0
   attack: 4
   speed: 4
   isTurn: 1
   uniqueAbility: {fileID: 0}
   speedMovement: 7
-  playerPrefab: {fileID: 0}
-  respawnPosition: {x: 0, y: 0}
+  respawnPoint: {x: 0, y: 0}
 --- !u!50 &-6474914617893379028
 Rigidbody2D:
   serializedVersion: 4

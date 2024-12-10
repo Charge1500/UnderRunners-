@@ -93,15 +93,22 @@ public class Player : MonoBehaviour
         currentHealth -= damage;
         if (currentHealth <= 0)
         {
-            Die();
+            StartCoroutine(Die());
         }
     }
 
-    private void Die()
+    private IEnumerator Die()
     {
-        if(isTurn){
+        bool wasTurn=isTurn;
+        isTurn=false;
+        animator.SetBool("ExcludeDead",false);
+        animator.SetTrigger("Dead"); 
+        yield return new WaitForSeconds(0.8f);
+        if(wasTurn){
             turnOf.NextTurn();
         }
+        animator.SetBool("ExcludeDead",true);
+        animator.SetBool("IsWalking",false);
         Respawn();
     }
 

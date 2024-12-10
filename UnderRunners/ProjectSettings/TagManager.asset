@@ -45,6 +45,12 @@ TagManager:
   - name: Path and Wall
     uniqueID: 3418322051
     locked: 0
+  - name: Trap1
+    uniqueID: 656470047
+    locked: 0
   - name: Player
     uniqueID: 3932721761
+    locked: 0
+  - name: Trap2
+    uniqueID: 1419127903
     locked: 0

@@ -33,7 +33,7 @@ public class MazeGenerator : MonoBehaviour
         int[] directionInX = { -1, 1, 0, 0 };
         int[] directionInY = { 0, 0, -1, 1 };
         int[] possibleDirections = { 0, 1, 2, 3 };
-        Mezclar(possibleDirections);
+        Shuffle(possibleDirections);
 
         foreach (int direction in possibleDirections)
         {
@@ -78,7 +78,7 @@ public class MazeGenerator : MonoBehaviour
         return maze;
     }
 
-    public void Mezclar(int[] directions)
+    public void Shuffle(int[] directions)
     {
         int aux;
         for (int i = directions.Length - 1; i > 0; i--)
