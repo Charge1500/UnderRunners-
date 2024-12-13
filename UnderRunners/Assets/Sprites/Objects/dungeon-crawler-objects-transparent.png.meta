@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: 6298cc8caed189946b25a0d3dc98bc6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1487405537377848441
+    second: dungeon-crawler-objects-transparent_0
+  - first:
+      213: 6728153476648775115
+    second: dungeon-crawler-objects-transparent_1
+  - first:
+      213: -6972003633630440883
+    second: dungeon-crawler-objects-transparent_2
+  - first:
+      213: 7930351434645601702
+    second: dungeon-crawler-objects-transparent_3
+  - first:
+      213: -8577197555923133124
+    second: dungeon-crawler-objects-transparent_4
+  - first:
+      213: 4136686781990025999
+    second: dungeon-crawler-objects-transparent_5
+  - first:
+      213: 5525872797223901845
+    second: dungeon-crawler-objects-transparent_6
+  - first:
+      213: 7740294313281501252
+    second: dungeon-crawler-objects-transparent_7
+  - first:
+      213: 5924216468955802003
+    second: dungeon-crawler-objects-transparent_8
+  - first:
+      213: -7570785209544472509
+    second: dungeon-crawler-objects-transparent_9
+  - first:
+      213: 138857488826531247
+    second: dungeon-crawler-objects-transparent_10
+  - first:
+      213: 1914920613107746758
+    second: dungeon-crawler-objects-transparent_11
+  - first:
+      213: 8885468241800554280
+    second: dungeon-crawler-objects-transparent_12
+  - first:
+      213: -1489738100952222294
+    second: dungeon-crawler-objects-transparent_13
+  - first:
+      213: 3180106759428265869
+    second: dungeon-crawler-objects-transparent_14
+  - first:
+      213: 6677337770767755886
+    second: dungeon-crawler-objects-transparent_15
+  - first:
+      213: -5018668555314015751
+    second: dungeon-crawler-objects-transparent_16
+  - first:
+      213: 5631331734196297864
+    second: dungeon-crawler-objects-transparent_17
+  - first:
+      213: 5758616605618158096
+    second: dungeon-crawler-objects-transparent_18
+  - first:
+      213: 9043142884940579222
+    second: dungeon-crawler-objects-transparent_19
+  - first:
+      213: -3881006637043816567
+    second: dungeon-crawler-objects-transparent_20
+  - first:
+      213: -7450309089893183870
+    second: dungeon-crawler-objects-transparent_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcda5f190f33f5d50800000000000000
+      internalID: 6728153476648775115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4299bc62a77e3f90800000000000000
+      internalID: -6972003633630440883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad7f0eec944e0e60800000000000000
+      internalID: 7930351434645601702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d5ade444ca7f880800000000000000
+      internalID: -8577197555923133124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bb19b06b6786930800000000000000
+      internalID: 4136686781990025999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 78
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a56802808dfac40800000000000000
+      internalID: 5525872797223901845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448be180bac0b6b60800000000000000
+      internalID: 7740294313281501252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39921ac9d7b073250800000000000000
+      internalID: 5924216468955802003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 78
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3480252b6fa2fe690800000000000000
+      internalID: -7570785209544472509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad78ef76225de100800000000000000
+      internalID: 138857488826531247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c74c55e62a239a10800000000000000
+      internalID: 1914920613107746758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8276987e9468f4b70800000000000000
+      internalID: 8885468241800554280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5b0641713635be0800000000000000
+      internalID: -1489738100952222294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d875a8faf32022c20800000000000000
+      internalID: 3180106759428265869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a29ef035baaac50800000000000000
+      internalID: 6677337770767755886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1d51bf98b1a5ab0800000000000000
+      internalID: -5018668555314015751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880a72d4062862e40800000000000000
+      internalID: 5631331734196297864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a3987da47baef40800000000000000
+      internalID: 5758616605618158096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6910cfd8a82bf7d70800000000000000
+      internalID: 9043142884940579222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987e11ca605e32ac0800000000000000
+      internalID: -3881006637043816567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-crawler-objects-transparent_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 17
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e8d0e2b5f2b9890800000000000000
+      internalID: -7450309089893183870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d2333d6e33df7a54f9e0f2f7ac33cbe5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dungeon-crawler-objects-transparent_0: 1487405537377848441
+      dungeon-crawler-objects-transparent_1: 6728153476648775115
+      dungeon-crawler-objects-transparent_10: 138857488826531247
+      dungeon-crawler-objects-transparent_11: 1914920613107746758
+      dungeon-crawler-objects-transparent_12: 8885468241800554280
+      dungeon-crawler-objects-transparent_13: -1489738100952222294
+      dungeon-crawler-objects-transparent_14: 3180106759428265869
+      dungeon-crawler-objects-transparent_15: 6677337770767755886
+      dungeon-crawler-objects-transparent_16: -5018668555314015751
+      dungeon-crawler-objects-transparent_17: 5631331734196297864
+      dungeon-crawler-objects-transparent_18: 5758616605618158096
+      dungeon-crawler-objects-transparent_19: 9043142884940579222
+      dungeon-crawler-objects-transparent_2: -6972003633630440883
+      dungeon-crawler-objects-transparent_20: -3881006637043816567
+      dungeon-crawler-objects-transparent_21: -7450309089893183870
+      dungeon-crawler-objects-transparent_3: 7930351434645601702
+      dungeon-crawler-objects-transparent_4: -8577197555923133124
+      dungeon-crawler-objects-transparent_5: 4136686781990025999
+      dungeon-crawler-objects-transparent_6: 5525872797223901845
+      dungeon-crawler-objects-transparent_7: 7740294313281501252
+      dungeon-crawler-objects-transparent_8: 5924216468955802003
+      dungeon-crawler-objects-transparent_9: -7570785209544472509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

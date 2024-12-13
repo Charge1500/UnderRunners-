@@ -8,6 +8,6 @@ public class Toriel : Player
     this.playerName="Toriel";
     this.health=8;
     this.attack=3;
-    this.speed=2;
+    this.speedMovement=2;
     }
 }

@@ -8,7 +8,7 @@ public class Alphys : Player
     this.playerName="Alphys";
     this.health=7;
     this.attack=4;
-    this.speed=2;
+    this.speedMovement=2;
     this.isTurn=false; 
     }
 }

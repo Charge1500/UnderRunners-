@@ -8,7 +8,7 @@ public class Asgore : Player
     this.playerName="Asgore";
     this.health=10;
     this.attack=9;
-    this.speed=1;
+    this.speedMovement=1;
     this.isTurn=false; 
     }
 }

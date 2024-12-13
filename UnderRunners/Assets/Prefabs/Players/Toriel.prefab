@@ -75,7 +75,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -362245535
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: -369467330547988116, guid: 2c4525d3159a1f04b918a96c2360e3ee, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -104,10 +104,11 @@ MonoBehaviour:
   health: 8
   currentHealth: 0
   attack: 3
-  speed: 2
+  currentAttack: 0
   isTurn: 0
   uniqueAbility: {fileID: 0}
-  speedMovement: 6
+  speedMovement: 4
+  currentSpeed: 0
   respawnPoint: {x: 0, y: 0}
 --- !u!50 &8134166521140453746
 Rigidbody2D:

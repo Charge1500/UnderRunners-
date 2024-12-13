@@ -8,6 +8,6 @@ public class Sans : Player
     this.playerName="Sans";
     this.health=3;
     this.attack=9;
-    this.speed=1; 
+    this.speedMovement=1; 
     }
 }

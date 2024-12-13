@@ -30,6 +30,7 @@ public class GameManager : MonoBehaviour
         // Llamar a Pencil para dibujar
         pencil.DrawMaze();
         pencil.DrawPlayers();
+        pencil.GenerateTrapsAndConsumables();
 
         // Añadido: Inicializar el orden de los jugadores y comenzar el primer turno
         turnOf.AssignPlayerOrder();

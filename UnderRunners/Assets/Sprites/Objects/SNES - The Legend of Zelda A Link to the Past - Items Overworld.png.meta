@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 4fdf7e21b84e1484cb04c9edc68d9911
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2395047075249899059
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_0
+  - first:
+      213: -3138387440699790733
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_1
+  - first:
+      213: 8022728820174421066
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_2
+  - first:
+      213: -2676985519886507307
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_3
+  - first:
+      213: -444799149192284735
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_4
+  - first:
+      213: -1443898744328410585
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_5
+  - first:
+      213: -2161372579138600533
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_6
+  - first:
+      213: -7255602727689567568
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_7
+  - first:
+      213: 3813863693530586922
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_8
+  - first:
+      213: -2674162063851946884
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_9
+  - first:
+      213: -107553361216992649
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_10
+  - first:
+      213: -2264467182517603530
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_11
+  - first:
+      213: -8814654804596559909
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_12
+  - first:
+      213: -917694786025971081
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_13
+  - first:
+      213: -5074917163688799775
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_14
+  - first:
+      213: -9078817229637854362
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_15
+  - first:
+      213: -5396425917849372199
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_16
+  - first:
+      213: 901705338529655214
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_17
+  - first:
+      213: 1566590711628534640
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_18
+  - first:
+      213: -2061331381577249761
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_19
+  - first:
+      213: 9160511064087815839
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_20
+  - first:
+      213: -2572284774042416547
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_21
+  - first:
+      213: -7526722986555351310
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_22
+  - first:
+      213: -3876336719052541398
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_23
+  - first:
+      213: 2236094977945018527
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_24
+  - first:
+      213: -2748174898486009914
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_25
+  - first:
+      213: -8442238199223865269
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_26
+  - first:
+      213: -4592639741046059789
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_27
+  - first:
+      213: 1996719692661459552
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_28
+  - first:
+      213: -5615165919100364362
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_29
+  - first:
+      213: 8698528218504912441
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_30
+  - first:
+      213: 5825011021774512373
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_31
+  - first:
+      213: -5573057320886033075
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_32
+  - first:
+      213: -6408541158542774417
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_33
+  - first:
+      213: 7694932606034642004
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_34
+  - first:
+      213: -3997496619313113087
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_35
+  - first:
+      213: -5974330785224369794
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_36
+  - first:
+      213: 6493065248000722530
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_37
+  - first:
+      213: 7092425810637512204
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_38
+  - first:
+      213: 8736410798086754760
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_39
+  - first:
+      213: 7322091597407911910
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_40
+  - first:
+      213: -3477119038429716136
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_41
+  - first:
+      213: 7521020752476180908
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_42
+  - first:
+      213: -235635205212399897
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_43
+  - first:
+      213: -8501501024704610285
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_44
+  - first:
+      213: -4579931172506926225
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_45
+  - first:
+      213: -6699220956608694304
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_46
+  - first:
+      213: -5427075979190211331
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_47
+  - first:
+      213: 6582484959377609064
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_48
+  - first:
+      213: 6599168094621275451
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_49
+  - first:
+      213: -8902027941685479640
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_50
+  - first:
+      213: -5245389183372596591
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_51
+  - first:
+      213: -4323293911739956093
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_52
+  - first:
+      213: -9000734015337370603
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_53
+  - first:
+      213: 6912569215634744148
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_54
+  - first:
+      213: -7686701660988186528
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_55
+  - first:
+      213: -1643650657104535209
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_56
+  - first:
+      213: -3811124029617942900
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_57
+  - first:
+      213: 3826221815100609581
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_58
+  - first:
+      213: 832366210349838507
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_59
+  - first:
+      213: -4802282942528761004
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_60
+  - first:
+      213: -4379829557003392264
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_61
+  - first:
+      213: 5274793072501455667
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_62
+  - first:
+      213: 3998355002712521126
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_63
+  - first:
+      213: -2195352871491829726
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_64
+  - first:
+      213: 5320901245375221483
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_65
+  - first:
+      213: -4347370791760608605
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_66
+  - first:
+      213: -6894729263688111731
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_67
+  - first:
+      213: 1312496479202461799
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_68
+  - first:
+      213: -8678420084551774172
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_69
+  - first:
+      213: -8534509697165715838
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_70
+  - first:
+      213: 6111517019903036352
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_71
+  - first:
+      213: 8598254575919139826
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_72
+  - first:
+      213: -6864807315727247622
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_73
+  - first:
+      213: -7594606463333005207
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_74
+  - first:
+      213: -8030528871201549011
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_75
+  - first:
+      213: 2803424390467275231
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_76
+  - first:
+      213: 6128598008943354912
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_77
+  - first:
+      213: -8603702738127542339
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_78
+  - first:
+      213: -3269562902415486413
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_79
+  - first:
+      213: 436189928080373548
+    second: SNES - The Legend of Zelda A Link to the Past - Items Overworld_80
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453a537c3116eef50800000000000000
+      internalID: 6912569215634744148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060e462b099535590800000000000000
+      internalID: -7686701660988186528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75162709f649039e0800000000000000
+      internalID: -1643650657104535209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_57
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ecaa323ea2c1bc0800000000000000
+      internalID: -3811124029617942900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d241ce8f778791530800000000000000
+      internalID: 3826221815100609581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_59
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0b0f288a82d8b00800000000000000
+      internalID: 832366210349838507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_60
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453d7ab7b1dda5db0800000000000000
+      internalID: -4802282942528761004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_61
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa6e062938b733c0800000000000000
+      internalID: -4379829557003392264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bf3263a54d33940800000000000000
+      internalID: 5274793072501455667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 37
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb89063bf2235770800000000000000
+      internalID: 8598254575919139826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 37
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6139e1e1e4bb0a0800000000000000
+      internalID: -6864807315727247622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Legend of Zelda A Link to the Past - Items Overworld_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9688628d8a98a9690800000000000000
+      internalID: -7594606463333005207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c7df2826ca40f6c48974c7e1655f50e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_0: 2395047075249899059
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_1: -3138387440699790733
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_10: -107553361216992649
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_11: -2264467182517603530
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_12: -8814654804596559909
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_13: -917694786025971081
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_14: -5074917163688799775
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_15: -9078817229637854362
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_16: -5396425917849372199
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_17: 901705338529655214
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_18: 1566590711628534640
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_19: -2061331381577249761
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_2: 8022728820174421066
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_20: 9160511064087815839
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_21: -2572284774042416547
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_22: -7526722986555351310
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_23: -3876336719052541398
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_24: 2236094977945018527
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_25: -2748174898486009914
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_26: -8442238199223865269
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_27: -4592639741046059789
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_28: 1996719692661459552
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_29: -5615165919100364362
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_3: -2676985519886507307
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_30: 8698528218504912441
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_31: 5825011021774512373
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_32: -5573057320886033075
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_33: -6408541158542774417
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_34: 7694932606034642004
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_35: -3997496619313113087
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_36: -5974330785224369794
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_37: 6493065248000722530
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_38: 7092425810637512204
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_39: 8736410798086754760
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_4: -444799149192284735
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_40: 7322091597407911910
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_41: -3477119038429716136
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_42: 7521020752476180908
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_43: -235635205212399897
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_44: -8501501024704610285
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_45: -4579931172506926225
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_46: -6699220956608694304
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_47: -5427075979190211331
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_48: 6582484959377609064
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_49: 6599168094621275451
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_5: -1443898744328410585
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_50: -8902027941685479640
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_51: -5245389183372596591
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_52: -4323293911739956093
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_53: -9000734015337370603
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_54: 6912569215634744148
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_55: -7686701660988186528
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_56: -1643650657104535209
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_57: -3811124029617942900
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_58: 3826221815100609581
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_59: 832366210349838507
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_6: -2161372579138600533
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_60: -4802282942528761004
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_61: -4379829557003392264
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_62: 5274793072501455667
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_63: 3998355002712521126
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_64: -2195352871491829726
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_65: 5320901245375221483
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_66: -4347370791760608605
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_67: -6894729263688111731
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_68: 1312496479202461799
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_69: -8678420084551774172
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_7: -7255602727689567568
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_70: -8534509697165715838
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_71: 6111517019903036352
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_72: 8598254575919139826
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_73: -6864807315727247622
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_74: -7594606463333005207
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_75: -8030528871201549011
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_76: 2803424390467275231
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_77: 6128598008943354912
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_78: -8603702738127542339
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_79: -3269562902415486413
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_8: 3813863693530586922
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_80: 436189928080373548
+      SNES - The Legend of Zelda A Link to the Past - Items Overworld_9: -2674162063851946884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

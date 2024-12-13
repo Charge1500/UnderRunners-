@@ -103,6 +103,10 @@ public class MazeGenerator : MonoBehaviour
                 }
             }
         }
+        paths.Remove((1,1));
+        paths.Remove((width-2,height-2));
+        paths.Remove((width-2,1));
+        paths.Remove((1,height-2));
         return paths;
     }
 }

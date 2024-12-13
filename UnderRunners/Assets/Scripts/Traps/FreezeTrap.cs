@@ -23,6 +23,7 @@ public class FreezeTrap : Traps
                 player.TakeDamage(1);
                 yield return new WaitForSeconds(0.8f);
                 animator.SetTrigger("Off");
+                Destroy(gameObject);
                 turnOf.NextTurn();
             }
 

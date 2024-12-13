@@ -8,7 +8,7 @@ public class Undyne : Player
     this.playerName="Undyne";
     this.health=4;
     this.attack=6;
-    this.speed=3;
+    this.speedMovement=3;
     this.isTurn=false; 
     }
 }

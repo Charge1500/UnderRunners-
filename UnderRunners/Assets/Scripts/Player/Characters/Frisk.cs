@@ -8,6 +8,6 @@ public class Frisk : Player
     this.playerName="Frisk";
     this.health=6;
     this.attack=4;
-    this.speed=4; 
+    this.speedMovement=4; 
     }
 }

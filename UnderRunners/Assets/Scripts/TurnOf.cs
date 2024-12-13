@@ -1,15 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using TMPro;
 
 public class TurnOf : MonoBehaviour
 {
     private Pencil pencil;
     public List<Player> turns = new List<Player>();
     public int currentTurnIndex = 0;
-    public int stepsCounter = 0;
-    public Button endTurnButton; // Referencia al botón de finalizar turno
+    public float turnDuration = 10f; // Duración del turno en segundos
+    private float turnTimer; // Temporizador del turno
+    public TMP_Text turnTimerText; // Referencia al texto de UI para el temporizador
 
     void Awake()
     {
@@ -18,7 +19,7 @@ public class TurnOf : MonoBehaviour
 
     public void AssignPlayerOrder()
     {
-        turns.Clear();  
+        turns.Clear();
         if (pencil.player1 != null)
         {
             turns.Add(pencil.player1.GetComponent<Player>());
@@ -42,65 +43,33 @@ public class TurnOf : MonoBehaviour
     }
 
     public void StartTurn()
-    {     
-        turns[currentTurnIndex].isTurn = true;  // Comienza el turno del primer jugador
-        
-        // Deshabilitar el botón al inicio del turno
-        endTurnButton.interactable = false;
+    {
+        turns[currentTurnIndex].isTurn = true; // Comienza el turno del primer jugador
+        turnTimer = turnDuration; // Restablecer el temporizador
+        StartCoroutine(TurnTimer()); // Iniciar el temporizador del turno
+    }
+
+    private IEnumerator TurnTimer()
+    {
+        while (turnTimer > 0)
+        {
+            turnTimer -= Time.deltaTime; // Reducir el temporizador en función del tiempo transcurrido
+            turnTimerText.text = Mathf.Ceil(turnTimer).ToString(); // Actualizar el texto del temporizador solo con los segundos
+            yield return null; // Esperar hasta el siguiente cuadro
+        }
+
+        NextTurn(); // Pasar al siguiente turno cuando el temporizador llegue a cero
     }
 
     public void NextTurn()
-    {   
-        turns[currentTurnIndex].isTurn = false;  // Termina el turno del jugador actual
-        ResetInvisibleWalls(turns[currentTurnIndex].transform.position); // Reactivar los triggers
-        currentTurnIndex = (currentTurnIndex + 1) % turns.Count;  // Pasa al siguiente jugador
-        stepsCounter = 0;
-        StartTurn();  // Comienza el turno del siguiente jugador
+    {
+        turns[currentTurnIndex].isTurn = false; // Termina el turno del jugador actual
+        turns[currentTurnIndex].RestoreOriginalStats();
+        currentTurnIndex = (currentTurnIndex + 1) % turns.Count; // Pasa al siguiente jugador
+        StartTurn(); // Comienza el turno del siguiente jugador
     }
 
-    public void PlayerEnteredNewCell(Player player)
-    {
-        if (turns[currentTurnIndex] == player && player.isTurn)
-        {
-            stepsCounter++;
-            if (stepsCounter >= player.speed)
-            {    
-                StartCoroutine(WaitAndEnableInvisibleWalls(player.transform.position));
-            }
-        }
-    }
-
-    private IEnumerator WaitAndEnableInvisibleWalls(Vector2 playerPosition)
-    {
-        yield return new WaitForSeconds(0.2f);
-
-        EnableInvisibleWalls(playerPosition);
-        
-        // Habilitar el botón de finalizar turno
-        endTurnButton.interactable = true;
-    }
-
-    private void EnableInvisibleWalls(Vector2 playerPosition)
-    {
-        Collider2D[] colliders = Physics2D.OverlapCircleAll(playerPosition, 1.5f); // Ajusta el radio según sea necesario
-        foreach (Collider2D collider in colliders)
-        {
-            if (collider.CompareTag("Path"))
-            {
-                collider.isTrigger = false;
-            }
-        }
-    }
-
-    private void ResetInvisibleWalls(Vector2 playerPosition)
-    {
-        Collider2D[] colliders = Physics2D.OverlapCircleAll(playerPosition, 2f); // Ajusta el radio según sea necesario
-        foreach (Collider2D collider in colliders)
-        {
-            if (collider.CompareTag("Path"))
-            {
-                collider.isTrigger = true; // Volver a activar los triggers
-            }
-        }
+    public void IncreaseTurnTime(float additionalTime){ 
+        turnTimer += additionalTime; 
     }
 }

@@ -9,12 +9,14 @@ public class Player : MonoBehaviour
     public int health;
     public int currentHealth;
     public int attack;
-    public int speed;
+    public int currentAttack;
+    
     public bool isTurn = false;
     public Ability uniqueAbility;
 
     // Movement
     public float speedMovement = 5f;
+    public float currentSpeed;
     private Vector2 _movement;
     private Rigidbody2D rb;
     private SpriteRenderer sr;
@@ -30,6 +32,8 @@ public class Player : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
         currentHealth=health;
+        currentAttack=attack;
+        currentSpeed=speedMovement;
     }
 
     void Start(){
@@ -55,7 +59,7 @@ public class Player : MonoBehaviour
             if (moveHorizontal != 0) {
                 animator.SetInteger("WalkDirection", 2); // Horizontal
                 Vector3 playerScale = transform.localScale;
-                playerScale.x = moveHorizontal < 0 ? 1 : -1;
+                playerScale.x = Mathf.Abs(playerScale.x) * (moveHorizontal < 0 ? 1 : -1);
                 transform.localScale = playerScale;
             } else if (moveVertical > 0) {
                 animator.SetInteger("WalkDirection", 3); // Arriba
@@ -72,7 +76,7 @@ public class Player : MonoBehaviour
                 _movement.Normalize();
             }
 
-            _movement *= speedMovement * Time.deltaTime;
+            _movement *= currentSpeed * Time.deltaTime;
         }
         else
         {
@@ -118,4 +122,9 @@ public class Player : MonoBehaviour
     currentHealth = health;
     }
 
+    public void RestoreOriginalStats() { 
+        currentAttack = attack;
+        currentSpeed = speedMovement; 
+        transform.localScale= new Vector3(1,1,1);
+    }
 }

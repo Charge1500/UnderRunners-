@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Pencil : MonoBehaviour
 {
-    public static Pencil instance;
     private MazeGenerator mazeGenerator;
 
     public GameObject wallPrefab;
@@ -15,6 +14,11 @@ public class Pencil : MonoBehaviour
     public GameObject player4;
 
     public GameObject playersParent;
+
+    public GameObject[] trapPrefabs; 
+    public GameObject[] consumablePrefabs;
+    public int trapProbability = 1;
+    public int consumableProbability = 2;
     
     void Awake()
     {
@@ -43,6 +47,8 @@ public class Pencil : MonoBehaviour
                 }
             }
         }
+
+        GenerateTrapsAndConsumables();
     }
 
     public void DrawPlayers()
@@ -51,7 +57,6 @@ public class Pencil : MonoBehaviour
         int width = mazeGenerator.width;
         int height = mazeGenerator.height;
 
-        // Fijar el punto de respawn del jugador 1
         int x1 = 1;
         int y1 = 1;
         if (maze[x1, y1] == 0)
@@ -62,7 +67,6 @@ public class Pencil : MonoBehaviour
             player1 = player1Instance;
         }
 
-        // Fijar el punto de respawn del jugador 2
         int x2 = width - 2;
         int y2 = height - 2;
         if (maze[x2, y2] == 0)
@@ -74,5 +78,31 @@ public class Pencil : MonoBehaviour
         }
     }
 
+    public void GenerateTrapsAndConsumables()
+    { 
+        List<(int, int)> paths = mazeGenerator.Paths();
 
+        foreach ((int x, int y) in paths)
+        {
+            
+            int randomValue = Random.Range(1, 6);
+            
+            if (randomValue == consumableProbability)
+            {
+                InstantiateRandomPrefab(consumablePrefabs, new Vector3(x, y, 0));
+            }
+            else if (randomValue == trapProbability)
+            {
+                InstantiateRandomPrefab(trapPrefabs, new Vector3(x, y, 0));
+            }
+        }
+    }
+
+    void InstantiateRandomPrefab(GameObject[] prefabs, Vector3 position)
+    {
+        Debug.Log("Hola");
+        int index = Random.Range(0, prefabs.Length);
+        GameObject prefabInstance = Instantiate(prefabs[index], position, Quaternion.identity);
+        prefabInstance.transform.SetParent(playersParent.transform, true);
+    }
 }
