@@ -509,8 +509,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad7846beb7e5e064aaf59b7e8909661c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallPrefab: {fileID: 1602126747018109112, guid: 3523215e987406747aad799cb40dbfd1, type: 3}
-  pathPrefab: {fileID: 3058309751866842205, guid: 1e18a6ea05803ef4d9da8a4d7f8403a0, type: 3}
+  wallPrefab: {fileID: 3124208662160795792, guid: 843b2f4dcaa63fc498e4f3e9f96f724a, type: 3}
+  pathPrefab: {fileID: 4368634933712601134, guid: e51afcf727dbca14e9e2c9a6043934d8, type: 3}
   player1: {fileID: 5474736511331873008, guid: 74a30fc8a3d4f6e4b8dfa9ee496f46b9, type: 3}
   player2: {fileID: 8472155932908450555, guid: 25f04b105f41aca4692e84745cd1b498, type: 3}
   player3: {fileID: 0}
@@ -533,8 +533,6 @@ MonoBehaviour:
   - {fileID: 7853799580144918606, guid: 0b8c073c03ea7714ba98d884c2bc80ae, type: 3}
   - {fileID: 1618071890610698567, guid: 2e3029fefcd124d498f7a162c60f856d, type: 3}
   - {fileID: 6236666910315614929, guid: 08a80ea9c46813a4f85ad82f1575d1ab, type: 3}
-  trapProbability: 0
-  consumableProbability: 0
 --- !u!114 &1132790849
 MonoBehaviour:
   m_ObjectHideFlags: 0

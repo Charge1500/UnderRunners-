@@ -16,7 +16,16 @@ public class TurnOf : MonoBehaviour
     {
         pencil = GetComponent<Pencil>();
     }
-
+    void Update(){
+        if (turnTimer > 0)
+        {
+            turnTimer -= Time.deltaTime; // Reducir el temporizador en función del tiempo transcurrido
+            turnTimerText.text = Mathf.Ceil(turnTimer).ToString(); // Actualizar el texto del temporizador solo con los segundos
+        }else
+        {
+            NextTurn();
+        }
+    }
     public void AssignPlayerOrder()
     {
         turns.Clear();
@@ -46,20 +55,8 @@ public class TurnOf : MonoBehaviour
     {
         turns[currentTurnIndex].isTurn = true; // Comienza el turno del primer jugador
         turnTimer = turnDuration; // Restablecer el temporizador
-        StartCoroutine(TurnTimer()); // Iniciar el temporizador del turno
     }
 
-    private IEnumerator TurnTimer()
-    {
-        while (turnTimer > 0)
-        {
-            turnTimer -= Time.deltaTime; // Reducir el temporizador en función del tiempo transcurrido
-            turnTimerText.text = Mathf.Ceil(turnTimer).ToString(); // Actualizar el texto del temporizador solo con los segundos
-            yield return null; // Esperar hasta el siguiente cuadro
-        }
-
-        NextTurn(); // Pasar al siguiente turno cuando el temporizador llegue a cero
-    }
 
     public void NextTurn()
     {

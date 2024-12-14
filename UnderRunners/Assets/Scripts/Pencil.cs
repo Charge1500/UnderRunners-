@@ -17,8 +17,8 @@ public class Pencil : MonoBehaviour
 
     public GameObject[] trapPrefabs; 
     public GameObject[] consumablePrefabs;
-    public int trapProbability = 1;
-    public int consumableProbability = 2;
+    private int trapProbability = 1;
+    private int consumableProbability = 2;
     
     void Awake()
     {
@@ -47,8 +47,6 @@ public class Pencil : MonoBehaviour
                 }
             }
         }
-
-        GenerateTrapsAndConsumables();
     }
 
     public void DrawPlayers()
@@ -81,26 +79,36 @@ public class Pencil : MonoBehaviour
     public void GenerateTrapsAndConsumables()
     { 
         List<(int, int)> paths = mazeGenerator.Paths();
-
+        List<(int, int)> deletedPaths = new List<(int, int)>();
+        bool wasOcuped=false;
+        
         foreach ((int x, int y) in paths)
-        {
-            
-            int randomValue = Random.Range(1, 6);
-            
-            if (randomValue == consumableProbability)
-            {
-                InstantiateRandomPrefab(consumablePrefabs, new Vector3(x, y, 0));
+        {  
+            if(!wasOcuped && !deletedPaths.Contains((x-1,y))){
+                int randomValue = Random.Range(1, 6);
+                
+                if (randomValue == consumableProbability)
+                { 
+                    InstantiateRandomPrefab(consumablePrefabs, new Vector3(x, y, 0));
+                    deletedPaths.Add((x,y));
+                    wasOcuped=true;
+                    continue;
+                }
+                else if (randomValue == trapProbability)
+                {
+                    InstantiateRandomPrefab(trapPrefabs, new Vector3(x, y, 0));
+                    deletedPaths.Add((x,y));
+                    wasOcuped=true;
+                    continue;
+                }
             }
-            else if (randomValue == trapProbability)
-            {
-                InstantiateRandomPrefab(trapPrefabs, new Vector3(x, y, 0));
-            }
+            wasOcuped=false;
         }
+        
     }
 
     void InstantiateRandomPrefab(GameObject[] prefabs, Vector3 position)
     {
-        Debug.Log("Hola");
         int index = Random.Range(0, prefabs.Length);
         GameObject prefabInstance = Instantiate(prefabs[index], position, Quaternion.identity);
         prefabInstance.transform.SetParent(playersParent.transform, true);
