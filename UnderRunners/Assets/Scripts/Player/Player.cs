@@ -11,7 +11,9 @@ public class Player : MonoBehaviour
     public int attack;
     public int currentAttack;
     
+    public bool hasRuby = false;
     public bool isTurn = false;
+    public int puntuation=0;
     public Ability uniqueAbility;
 
     // Movement
@@ -25,6 +27,7 @@ public class Player : MonoBehaviour
     private Animator animator;
 
     private TurnOf turnOf;
+    private Pencil pencil;
     public Vector2 respawnPoint;
 
     void Awake(){
@@ -38,6 +41,7 @@ public class Player : MonoBehaviour
 
     void Start(){
         turnOf = GetComponentInParent<TurnOf>();
+        pencil = GetComponentInParent<Pencil>();
     }
     void Update()
     {
@@ -114,6 +118,10 @@ public class Player : MonoBehaviour
         animator.SetBool("ExcludeDead",true);
         animator.SetBool("IsWalking",false);
         Respawn();
+        if(hasRuby){
+            hasRuby=false;
+            pencil.InstantiateRuby(pencil.rubyRespawnPoint);
+        }
     }
 
     public void Respawn()

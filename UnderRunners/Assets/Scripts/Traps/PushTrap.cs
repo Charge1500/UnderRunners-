@@ -13,17 +13,12 @@ public class PushTrap : Traps
             {
                 Player player = playerCollider.GetComponent<Player>();
                 player.TakeDamage(2);
-                StartCoroutine(DestroyAfterAnimation());
             }
         }
     }
 
-    private IEnumerator DestroyAfterAnimation()
+    public void DestroyObject()
     {
-        // Esperar hasta que la animación termine
-        yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
-
-        // Destruir el objeto después de la animación
         Destroy(gameObject);
     }
 }

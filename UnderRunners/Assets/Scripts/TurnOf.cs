@@ -12,6 +12,8 @@ public class TurnOf : MonoBehaviour
     private float turnTimer; // Temporizador del turno
     public TMP_Text turnTimerText; // Referencia al texto de UI para el temporizador
 
+    public int puntuationToWin=5;
+
     void Awake()
     {
         pencil = GetComponent<Pencil>();
@@ -60,6 +62,7 @@ public class TurnOf : MonoBehaviour
 
     public void NextTurn()
     {
+        CheckWin();
         turns[currentTurnIndex].isTurn = false; // Termina el turno del jugador actual
         turns[currentTurnIndex].RestoreOriginalStats();
         currentTurnIndex = (currentTurnIndex + 1) % turns.Count; // Pasa al siguiente jugador
@@ -68,5 +71,13 @@ public class TurnOf : MonoBehaviour
 
     public void IncreaseTurnTime(float additionalTime){ 
         turnTimer += additionalTime; 
+    }
+    public void CheckWin(){
+        if(turns[currentTurnIndex].hasRuby){
+            turns[currentTurnIndex].puntuation+=1;
+        }
+        if(turns[currentTurnIndex].puntuation==puntuationToWin){
+            Debug.Log("You Win");
+        }
     }
 }

@@ -17,15 +17,10 @@ public class FreezeTrap : Traps
             player.isTurn=false;
             player.transform.position = transform.position;
 
-            if(player.currentHealth==1){
-                player.TakeDamage(1);
-            }else {
-                player.TakeDamage(1);
-                yield return new WaitForSeconds(0.8f);
-                animator.SetTrigger("Off");
-                Destroy(gameObject);
-                turnOf.NextTurn();
-            }
+            player.TakeDamage(1);
+            yield return new WaitForSeconds(0.8f);
+            Destroy(gameObject);
+            turnOf.NextTurn();
 
         } else{
             animator.SetTrigger("Off");

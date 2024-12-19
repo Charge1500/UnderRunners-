@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
     {
         mazeGenerator = GetComponent<MazeGenerator>();
         pencil = GetComponent<Pencil>();
-        turnOf = GetComponent<TurnOf>();  // Añadido: Inicialización del script TurnOf
+        turnOf = GetComponent<TurnOf>(); 
     }
 
     void Start()
@@ -32,7 +32,7 @@ public class GameManager : MonoBehaviour
         pencil.DrawPlayers();
         pencil.GenerateTrapsAndConsumables();
 
-        // Añadido: Inicializar el orden de los jugadores y comenzar el primer turno
+        //orden de los jugadores y comenzar el primer turno
         turnOf.AssignPlayerOrder();
         turnOf.StartTurn();
     }

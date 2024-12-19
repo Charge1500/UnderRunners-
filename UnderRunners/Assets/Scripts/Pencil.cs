@@ -6,8 +6,10 @@ public class Pencil : MonoBehaviour
 {
     private MazeGenerator mazeGenerator;
 
-    public GameObject wallPrefab;
-    public GameObject pathPrefab;
+    public GameObject[] wallsPrefabs;
+    public GameObject[] pathsPrefabs;
+    public GameObject ruby;
+    public Vector3 rubyRespawnPoint;
     public GameObject player1;
     public GameObject player2;
     public GameObject player3;
@@ -37,13 +39,57 @@ public class Pencil : MonoBehaviour
             {
                 if (maze[i, j] == 1)
                 {
-                    GameObject wallInstance = Instantiate(wallPrefab, new Vector3(i, j, 0), Quaternion.identity); 
+                    GameObject wallInstance;
+                    if (i == 0 || i==width-1 || j==0 || j==height-1)
+                    {
+                        wallInstance = Instantiate(wallsPrefabs[0], new Vector3(i, j, 0), Quaternion.identity); 
+                        wallInstance.transform.SetParent(playersParent.transform, true);
+                    } else if (maze[i-1,j]==0 && maze[i+1,j]==0 && maze[i,j-1]==0 && maze[i,j+1]==0)
+                    {
+                        wallInstance = Instantiate(wallsPrefabs[Random.Range(1,4)], new Vector3(i, j, 0), Quaternion.identity); 
+                        wallInstance.transform.SetParent(playersParent.transform, true);
+                    } else if (maze[i-1,j]==0 && maze[i+1,j]==0 && maze[i,j-1]==0 && maze[i,j+1]==1)
+                    {
+                        wallInstance = Instantiate(wallsPrefabs[Random.Range(4,7)], new Vector3(i, j, 0), Quaternion.identity); 
+                        wallInstance.transform.SetParent(playersParent.transform, true);
+                    } else if (maze[i-1,j]==0 && maze[i+1,j]==1 && maze[i,j-1]==0)
+                    {
+                        wallInstance = Instantiate(wallsPrefabs[7], new Vector3(i, j, 0), Quaternion.identity); 
+                        wallInstance.transform.SetParent(playersParent.transform, true);
+                    } else if (maze[i+1,j]==0 && maze[i-1,j]==1 && maze[i,j-1]==0)
+                    {
+                        wallInstance = Instantiate(wallsPrefabs[8], new Vector3(i, j, 0), Quaternion.identity); 
+                        wallInstance.transform.SetParent(playersParent.transform, true);
+                    } else if (maze[i+1,j]==1 && maze[i-1,j]==1 && maze[i,j-1]==0)
+                    {
+                        wallInstance = Instantiate(wallsPrefabs[Random.Range(9,13)], new Vector3(i, j, 0), Quaternion.identity); 
+                        wallInstance.transform.SetParent(playersParent.transform, true);
+                    } else if (maze[i+1,j]==1 && maze[i-1,j]==0 && maze[i,j+1]==0)
+                    {
+                        wallInstance = Instantiate(wallsPrefabs[13], new Vector3(i, j, 0), Quaternion.identity); 
+                        wallInstance.transform.SetParent(playersParent.transform, true);
+                    }else if (maze[i+1,j]==0 && maze[i-1,j]==1 && maze[i,j+1]==0)
+                    {
+                        wallInstance = Instantiate(wallsPrefabs[14], new Vector3(i, j, 0), Quaternion.identity); 
+                        wallInstance.transform.SetParent(playersParent.transform, true);
+                    }else if (maze[i+1,j]==0 && maze[i-1,j]==0 && maze[i,j+1]==0)
+                    {
+                        wallInstance = Instantiate(wallsPrefabs[15], new Vector3(i, j, 0), Quaternion.identity); 
+                        wallInstance.transform.SetParent(playersParent.transform, true);
+                    }else{
+                    wallInstance = Instantiate(wallsPrefabs[0], new Vector3(i, j, 0), Quaternion.identity); 
                     wallInstance.transform.SetParent(playersParent.transform, true);
+                    }
                 }
                 else if (maze[i, j] == 0)
                 {
-                    GameObject pathInstance = Instantiate(pathPrefab, new Vector3(i, j, 0), Quaternion.identity); 
-                    pathInstance.transform.SetParent(playersParent.transform, true);
+                    if(maze[i-1,j] == 1){
+                        GameObject pathInstance = Instantiate(pathsPrefabs[1], new Vector3(i, j, 0), Quaternion.identity);
+                        pathInstance.transform.SetParent(playersParent.transform, true);
+                    } else{
+                        GameObject pathInstance = Instantiate(pathsPrefabs[0], new Vector3(i, j, 0), Quaternion.identity);
+                        pathInstance.transform.SetParent(playersParent.transform, true);
+                    }
                 }
             }
         }
@@ -79,6 +125,29 @@ public class Pencil : MonoBehaviour
     public void GenerateTrapsAndConsumables()
     { 
         List<(int, int)> paths = mazeGenerator.Paths();
+            int width = mazeGenerator.width;
+            int height = mazeGenerator.height;
+            if(paths.Contains((width/2,height/2))){
+                InstantiateRuby(new Vector3(width/2,height/2,0));
+                paths.Remove((width/2,height/2));
+                rubyRespawnPoint=new Vector3(width/2,height/2,0);
+            } else if(paths.Contains((width/2+1,height/2))){
+                InstantiateRuby(new Vector3(width/2+1,height/2,0));
+                paths.Remove((width/2+1,height/2));
+                rubyRespawnPoint=new Vector3(width/2+1,height/2,0);
+            } else if(paths.Contains((width/2,height/2+1))){
+                InstantiateRuby(new Vector3(width/2,height/2+1,0));
+                paths.Remove((width/2,height/2+1));
+                rubyRespawnPoint=new Vector3(width/2,height/2+1,0);
+            } else if(paths.Contains((width/2-1,height/2))){
+                InstantiateRuby(new Vector3(width/2-1,height/2,0));
+                paths.Remove((width/2-1,height/2));
+                rubyRespawnPoint=new Vector3(width/2-1,height/2,0);
+            } else{
+                InstantiateRuby(new Vector3(width/2,height/2-1,0));
+                paths.Remove((width/2,height/2-1));
+                rubyRespawnPoint=new Vector3(width/2,height/2-1,0);
+            }
         List<(int, int)> deletedPaths = new List<(int, int)>();
         bool wasOcuped=false;
         
@@ -107,10 +176,16 @@ public class Pencil : MonoBehaviour
         
     }
 
-    void InstantiateRandomPrefab(GameObject[] prefabs, Vector3 position)
+    private void InstantiateRandomPrefab(GameObject[] prefabs, Vector3 position)
     {
         int index = Random.Range(0, prefabs.Length);
         GameObject prefabInstance = Instantiate(prefabs[index], position, Quaternion.identity);
         prefabInstance.transform.SetParent(playersParent.transform, true);
+    }
+
+    public void InstantiateRuby(Vector3 position)
+    {
+        GameObject rubyInstance = Instantiate(ruby, position, Quaternion.identity);
+        rubyInstance.transform.SetParent(playersParent.transform, true);
     }
 }

@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class SlowTrap : MonoBehaviour
 {
-    private float auxSpeedMovement=0;
-
     void OnTriggerEnter2D(Collider2D someone)
     {
         if (someone.CompareTag("Player"))
@@ -16,8 +14,7 @@ public class SlowTrap : MonoBehaviour
             // Verifica si es el turno del jugador que entró
             if (player == someone.GetComponent<Player>() && player.isTurn)
             {   
-                auxSpeedMovement=player.speedMovement;
-                player.speedMovement/=3;  
+                player.currentSpeed/=3;  
             }
         }
     }
@@ -31,7 +28,7 @@ public class SlowTrap : MonoBehaviour
             // Verifica si es el turno del jugador que entró
             if (player == someone.GetComponent<Player>() && player.isTurn)
             { 
-            player.speedMovement=auxSpeedMovement;  
+            player.currentSpeed=player.speedMovement;  
             }
         }
     }

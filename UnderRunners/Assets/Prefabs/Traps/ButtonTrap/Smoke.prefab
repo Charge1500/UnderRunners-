@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 354311849740381232}
   - component: {fileID: 533649999815359512}
+  - component: {fileID: 59400403831539769}
   - component: {fileID: 7614620022720287043}
   - component: {fileID: 5744380488346219630}
   m_Layer: 0
@@ -73,19 +74,34 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1419127903
-  m_SortingLayer: 4
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_Sprite: {fileID: 3009679923409101154, guid: 4c8a0079fb2147341bac0235e7302a59, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.38, y: 1.8866667}
+  m_Size: {x: 1.8, y: 1.8866667}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &59400403831539769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4610780610579352283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72c7737add94a814396f5fcb01aa4dd1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPlayerInside: 0
+  animator: {fileID: 0}
+  playerCollider: {fileID: 0}
 --- !u!95 &7614620022720287043
 Animator:
   serializedVersion: 7
@@ -138,7 +154,7 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0

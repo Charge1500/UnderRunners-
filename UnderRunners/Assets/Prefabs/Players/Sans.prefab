@@ -75,7 +75,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -362245535
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: -6082105467391235643, guid: 8dee524eef0ff274ab04d481eab91a51, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -104,10 +104,11 @@ MonoBehaviour:
   health: 3
   currentHealth: 0
   attack: 9
-  speed: 1
+  currentAttack: 0
   isTurn: 0
   uniqueAbility: {fileID: 0}
   speedMovement: 5
+  currentSpeed: 0
   respawnPoint: {x: 0, y: 0}
 --- !u!50 &-8476052438336910272
 Rigidbody2D:
@@ -170,17 +171,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.2025196}
+  m_Offset: {x: 0, y: 0.033625603}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0}
     oldSize: {x: 0.359375, y: 0.46875}
     newSize: {x: 0.51111114, y: 0.6666667}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.359375, y: 0.06371081}
+  m_Size: {x: 0.359375, y: 0.074920654}
   m_EdgeRadius: 0
 --- !u!95 &8918933185064035038
 Animator:

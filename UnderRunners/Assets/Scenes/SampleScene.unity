@@ -509,8 +509,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad7846beb7e5e064aaf59b7e8909661c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallPrefab: {fileID: 3124208662160795792, guid: 843b2f4dcaa63fc498e4f3e9f96f724a, type: 3}
-  pathPrefab: {fileID: 4368634933712601134, guid: e51afcf727dbca14e9e2c9a6043934d8, type: 3}
+  wallsPrefabs:
+  - {fileID: 3124208662160795792, guid: 843b2f4dcaa63fc498e4f3e9f96f724a, type: 3}
+  - {fileID: 3124208662160795792, guid: f03eea41889bb744ea1efe67485fb2c3, type: 3}
+  - {fileID: 3124208662160795792, guid: 928b41b3ebb8bac468f54a0460eda9e5, type: 3}
+  - {fileID: 3124208662160795792, guid: 7c19647d98083fe4db91baa68381493a, type: 3}
+  - {fileID: 3124208662160795792, guid: 803644ecb9af39843b86a22240737ee0, type: 3}
+  - {fileID: 3124208662160795792, guid: 93d7c9240db56a948b5db4a821238923, type: 3}
+  - {fileID: 3124208662160795792, guid: e62e2beb798d69e4c84454ed93708f68, type: 3}
+  - {fileID: 3124208662160795792, guid: 7cfa2d9f7c4012e41a8049409ed913df, type: 3}
+  - {fileID: 3124208662160795792, guid: f315f7a869600e746b813c65f9f5c561, type: 3}
+  - {fileID: 3124208662160795792, guid: c28a42d2f8171964ba60f99ecd53f5c4, type: 3}
+  - {fileID: 3124208662160795792, guid: 8fd7b338845ab6846b2ade015e22e583, type: 3}
+  - {fileID: 3124208662160795792, guid: e32d4d6a714cfae49a5421f0645cd938, type: 3}
+  - {fileID: 3124208662160795792, guid: e75bb4532adbec44f927b8a5cc455b01, type: 3}
+  - {fileID: 3124208662160795792, guid: 517111629a5c3304f97073859464b79f, type: 3}
+  - {fileID: 3124208662160795792, guid: 24d3e10dd3e9a7245a7c8aa2302eadb6, type: 3}
+  - {fileID: 3124208662160795792, guid: d4482910751169c45bb6cc4fe8220893, type: 3}
+  pathsPrefabs:
+  - {fileID: 4368634933712601134, guid: e51afcf727dbca14e9e2c9a6043934d8, type: 3}
+  - {fileID: 4368634933712601134, guid: 59ef1e3e9ab7f00409ca9d9c568a50c8, type: 3}
+  ruby: {fileID: 54392267017858447, guid: 91453fa119af93942871876b49148c9e, type: 3}
+  rubyRespawnPoint: {x: 0, y: 0, z: 0}
   player1: {fileID: 5474736511331873008, guid: 74a30fc8a3d4f6e4b8dfa9ee496f46b9, type: 3}
   player2: {fileID: 8472155932908450555, guid: 25f04b105f41aca4692e84745cd1b498, type: 3}
   player3: {fileID: 0}
@@ -524,6 +544,7 @@ MonoBehaviour:
   - {fileID: 7339368889157234601, guid: 681e9797e9ce7e949adddf8ffcd72027, type: 3}
   - {fileID: 5966476004572596537, guid: 55391c21c54cea94e845dfa2eb7344a5, type: 3}
   - {fileID: 2818776635515615319, guid: b68c22986b76e164a8892048ce503f87, type: 3}
+  - {fileID: 4610780610579352283, guid: 130eeb9fa06cfd04c8ce46c948752679, type: 3}
   consumablePrefabs:
   - {fileID: 6231183828695965863, guid: d6394066bf63ac3458efee66d94e85d6, type: 3}
   - {fileID: 2099465918839554529, guid: 6f9448602aa3aa8488236de8401e7fec, type: 3}
@@ -561,6 +582,7 @@ MonoBehaviour:
   currentTurnIndex: 0
   turnDuration: 10
   turnTimerText: {fileID: 594736779}
+  puntuationToWin: 10
 --- !u!1 &1994149655
 GameObject:
   m_ObjectHideFlags: 0
