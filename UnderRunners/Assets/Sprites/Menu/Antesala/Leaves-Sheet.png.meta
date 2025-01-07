@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 67239bf134e43804bb71a308aebd49fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4528279587723281101
+    second: Leaves-Sheet_0
+  - first:
+      213: -7567404541567927437
+    second: Leaves-Sheet_1
+  - first:
+      213: -1184721812103875659
+    second: Leaves-Sheet_2
+  - first:
+      213: 24930847024874605
+    second: Leaves-Sheet_3
+  - first:
+      213: -2209090793838077660
+    second: Leaves-Sheet_4
+  - first:
+      213: 9080103993359061598
+    second: Leaves-Sheet_5
+  - first:
+      213: -7170697983050815349
+    second: Leaves-Sheet_6
+  - first:
+      213: -7131339757615941445
+    second: Leaves-Sheet_7
+  - first:
+      213: 2007632737047665762
+    second: Leaves-Sheet_8
+  - first:
+      213: 5737473798795014262
+    second: Leaves-Sheet_9
+  - first:
+      213: -6713734267608840837
+    second: Leaves-Sheet_10
+  - first:
+      213: 8291621281948825364
+    second: Leaves-Sheet_11
+  - first:
+      213: 8240869241542762566
+    second: Leaves-Sheet_12
+  - first:
+      213: 6273544197633921074
+    second: Leaves-Sheet_13
+  - first:
+      213: -9051254311758144878
+    second: Leaves-Sheet_14
+  - first:
+      213: -5727885192825885711
+    second: Leaves-Sheet_15
+  - first:
+      213: -4023124467026190435
+    second: Leaves-Sheet_16
+  - first:
+      213: 4975711427396924726
+    second: Leaves-Sheet_17
+  - first:
+      213: 2933656785880822998
+    second: Leaves-Sheet_18
+  - first:
+      213: -3796395517586229940
+    second: Leaves-Sheet_19
+  - first:
+      213: 6568395101476016929
+    second: Leaves-Sheet_20
+  - first:
+      213: -5585865635572445080
+    second: Leaves-Sheet_21
+  - first:
+      213: -5775328822615109613
+    second: Leaves-Sheet_22
+  - first:
+      213: 4383138997132798398
+    second: Leaves-Sheet_23
+  - first:
+      213: -2763795148039448661
+    second: Leaves-Sheet_24
+  - first:
+      213: 9042665146515597764
+    second: Leaves-Sheet_25
+  - first:
+      213: -305987202233714692
+    second: Leaves-Sheet_26
+  - first:
+      213: 8853866305655174834
+    second: Leaves-Sheet_27
+  - first:
+      213: 6088303075358544741
+    second: Leaves-Sheet_28
+  - first:
+      213: 8836866342135761880
+    second: Leaves-Sheet_29
+  - first:
+      213: -4232226532335086646
+    second: Leaves-Sheet_30
+  - first:
+      213: -7137009254385888175
+    second: Leaves-Sheet_31
+  - first:
+      213: -2525042928443621467
+    second: Leaves-Sheet_32
+  - first:
+      213: -1132250589847892080
+    second: Leaves-Sheet_33
+  - first:
+      213: -1905265533583151177
+    second: Leaves-Sheet_34
+  - first:
+      213: 3656724710868153453
+    second: Leaves-Sheet_35
+  - first:
+      213: 9147632191895647792
+    second: Leaves-Sheet_36
+  - first:
+      213: -3702143419957977228
+    second: Leaves-Sheet_37
+  - first:
+      213: 1108200726312465408
+    second: Leaves-Sheet_38
+  - first:
+      213: -5982363392246266278
+    second: Leaves-Sheet_39
+  - first:
+      213: -7290079626547714784
+    second: Leaves-Sheet_40
+  - first:
+      213: 2356710337140161429
+    second: Leaves-Sheet_41
+  - first:
+      213: 24446110635712975
+    second: Leaves-Sheet_42
+  - first:
+      213: 2044468782032834653
+    second: Leaves-Sheet_43
+  - first:
+      213: -291165962885627456
+    second: Leaves-Sheet_44
+  - first:
+      213: -8381203799221811856
+    second: Leaves-Sheet_45
+  - first:
+      213: -5946558678924227760
+    second: Leaves-Sheet_46
+  - first:
+      213: -8012005075640835305
+    second: Leaves-Sheet_47
+  - first:
+      213: 2053916279181171012
+    second: Leaves-Sheet_48
+  - first:
+      213: 1993075337880011542
+    second: Leaves-Sheet_49
+  - first:
+      213: 4812604462144347061
+    second: Leaves-Sheet_50
+  - first:
+      213: -1405198403055117928
+    second: Leaves-Sheet_51
+  - first:
+      213: -6527509538943657986
+    second: Leaves-Sheet_52
+  - first:
+      213: 3510083995970396901
+    second: Leaves-Sheet_53
+  - first:
+      213: -4249043942705220885
+    second: Leaves-Sheet_54
+  - first:
+      213: 1324560148018256057
+    second: Leaves-Sheet_55
+  - first:
+      213: -6298586681444139729
+    second: Leaves-Sheet_56
+  - first:
+      213: -6310413736702132314
+    second: Leaves-Sheet_57
+  - first:
+      213: 6537868394851830086
+    second: Leaves-Sheet_58
+  - first:
+      213: 6023216577389075610
+    second: Leaves-Sheet_59
+  - first:
+      213: 580861534587066617
+    second: Leaves-Sheet_60
+  - first:
+      213: -3196624810974480958
+    second: Leaves-Sheet_61
+  - first:
+      213: -1002127487338980811
+    second: Leaves-Sheet_62
+  - first:
+      213: 2366321782584886376
+    second: Leaves-Sheet_63
+  - first:
+      213: 656463962316508896
+    second: Leaves-Sheet_64
+  - first:
+      213: 5090899420143204450
+    second: Leaves-Sheet_65
+  - first:
+      213: -2936351510254394712
+    second: Leaves-Sheet_66
+  - first:
+      213: -5156605956922096474
+    second: Leaves-Sheet_67
+  - first:
+      213: -137870418024441241
+    second: Leaves-Sheet_68
+  - first:
+      213: -6005708436099183097
+    second: Leaves-Sheet_69
+  - first:
+      213: 8174525105910014447
+    second: Leaves-Sheet_70
+  - first:
+      213: -6875110936338344858
+    second: Leaves-Sheet_71
+  - first:
+      213: 7091810322378035096
+    second: Leaves-Sheet_72
+  - first:
+      213: -6099519362404226050
+    second: Leaves-Sheet_73
+  - first:
+      213: -4500961638762178533
+    second: Leaves-Sheet_74
+  - first:
+      213: -8259742669684949907
+    second: Leaves-Sheet_75
+  - first:
+      213: 730005555859752218
+    second: Leaves-Sheet_76
+  - first:
+      213: -7286875156222322240
+    second: Leaves-Sheet_77
+  - first:
+      213: -2523997655494691300
+    second: Leaves-Sheet_78
+  - first:
+      213: -7777856834388780520
+    second: Leaves-Sheet_79
+  - first:
+      213: -7139622802740568080
+    second: Leaves-Sheet_80
+  - first:
+      213: -6932867464098314217
+    second: Leaves-Sheet_81
+  - first:
+      213: -8889295256900705153
+    second: Leaves-Sheet_82
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leaves-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33df912f4b15821c0800000000000000
+      internalID: -4528279587723281101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 500
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b7a2cc9ad2bf690800000000000000
+      internalID: -7567404541567927437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf003631e0be0343a55425e12a42622
+      internalID: -311996571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 500
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e568c3dabd598f47a6c364a747169d9
+      internalID: 418964709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9db744329470504c8c1d130a7f59834
+      internalID: 2053502246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 250
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac88d2ae8e78fdb46a4710f546db9234
+      internalID: 1309879888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 250
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03d7714b2067244aa4619cafae8b520
+      internalID: -1221912424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 250
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99787e21bb832be4fbd3b2d2c2b3353d
+      internalID: -2031581911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae14c2a5e80a504186eb233209b83cc
+      internalID: -891077080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f90d1e20cee834398c7392cd4cfd90
+      internalID: 1332245788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc092e8bfda03f24993c3ff0859db667
+      internalID: -1593947795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eedc943e2722141977f1ef2d352526
+      internalID: 1945709268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 83227893c7c68c8449fca30072300280
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Leaves-Sheet_0: -4528279587723281101
+      Leaves-Sheet_1: -7567404541567927437
+      Leaves-Sheet_10: -1593947795
+      Leaves-Sheet_11: 1945709268
+      Leaves-Sheet_2: -311996571
+      Leaves-Sheet_3: 418964709
+      Leaves-Sheet_4: 2053502246
+      Leaves-Sheet_5: 1309879888
+      Leaves-Sheet_6: -1221912424
+      Leaves-Sheet_7: -2031581911
+      Leaves-Sheet_8: -891077080
+      Leaves-Sheet_9: 1332245788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

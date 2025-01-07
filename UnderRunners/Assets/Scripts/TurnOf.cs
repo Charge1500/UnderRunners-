@@ -18,6 +18,9 @@ public class TurnOf : MonoBehaviour
     {
         pencil = GetComponent<Pencil>();
     }
+    void Start(){
+        turnDuration=GameData.Instance.turnTime;
+    }
     void Update(){
         if (turnTimer > 0)
         {

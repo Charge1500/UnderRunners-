@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: 191a995aac0edfa48b112e64dca0cf07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2255586780425031132
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_0
+  - first:
+      213: 5502794675110019732
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_1
+  - first:
+      213: -8225684108182940934
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_2
+  - first:
+      213: -7511222165273525485
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_3
+  - first:
+      213: 4191063451264610069
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_4
+  - first:
+      213: -2549948086473000274
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_5
+  - first:
+      213: -6322294443129651354
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_6
+  - first:
+      213: 8835202382784721620
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_7
+  - first:
+      213: -3460708160672282947
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_8
+  - first:
+      213: -6510617042562918668
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_9
+  - first:
+      213: 6958598965577067032
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_10
+  - first:
+      213: -3125226158680040911
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_11
+  - first:
+      213: 3703141829572076020
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_12
+  - first:
+      213: 1221349604552338772
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_13
+  - first:
+      213: 8635260765546863696
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_14
+  - first:
+      213: 1137106113083664372
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_15
+  - first:
+      213: -5496347049584700070
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_16
+  - first:
+      213: -960327038708019720
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_17
+  - first:
+      213: -5728068163644451332
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_18
+  - first:
+      213: -6541965384926932086
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_19
+  - first:
+      213: -4997615982203235756
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_20
+  - first:
+      213: -5146939523048290830
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_21
+  - first:
+      213: -6056899418682682381
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_22
+  - first:
+      213: 2070681177508574488
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_23
+  - first:
+      213: -6935495648374499330
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_24
+  - first:
+      213: -1784550499543322785
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_25
+  - first:
+      213: 2225981699000550663
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_26
+  - first:
+      213: -7405696984767352999
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_27
+  - first:
+      213: -7696179970243236178
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_28
+  - first:
+      213: 262765499142038774
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_29
+  - first:
+      213: -3575896239293933449
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_30
+  - first:
+      213: 9196454627382220804
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_31
+  - first:
+      213: 5689962806208733040
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_32
+  - first:
+      213: 6764358591124825281
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_33
+  - first:
+      213: -3585651038412314744
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_34
+  - first:
+      213: -948756123445469528
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_35
+  - first:
+      213: -7815350227161372673
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_36
+  - first:
+      213: -7787112013584617867
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_37
+  - first:
+      213: -4150643493640843144
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_38
+  - first:
+      213: 8060519151274253765
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_39
+  - first:
+      213: -5289873095172708486
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_40
+  - first:
+      213: -3837680389592992936
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_41
+  - first:
+      213: -8165328272147915721
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_42
+  - first:
+      213: 1538952155045208797
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_43
+  - first:
+      213: 1873770826168758258
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_44
+  - first:
+      213: -6120636309539924901
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_45
+  - first:
+      213: 3954049226855241777
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_46
+  - first:
+      213: 4834460353442074223
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_47
+  - first:
+      213: 1259531608023779498
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_48
+  - first:
+      213: 6700411234248590404
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_49
+  - first:
+      213: -1311827196289357026
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_50
+  - first:
+      213: -3252660459471638153
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_51
+  - first:
+      213: 4461590899395096651
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_52
+  - first:
+      213: 3855998044991627142
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_53
+  - first:
+      213: 2848890507242644707
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_54
+  - first:
+      213: 7693088718955816236
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_55
+  - first:
+      213: 1551065315849371540
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_56
+  - first:
+      213: 8744856481992917678
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_57
+  - first:
+      213: 3713787455068019227
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_58
+  - first:
+      213: -9065204463290173847
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_59
+  - first:
+      213: -8093380159175363253
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_60
+  - first:
+      213: 6140301926439106477
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_61
+  - first:
+      213: -1964569740389691437
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_62
+  - first:
+      213: 3338892923164537494
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_63
+  - first:
+      213: -171633153380012136
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_64
+  - first:
+      213: 631056345644864097
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_65
+  - first:
+      213: -7601020903161672872
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_66
+  - first:
+      213: 7179717854275154544
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_67
+  - first:
+      213: 7267783005855883804
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_68
+  - first:
+      213: -8311130986425958385
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_69
+  - first:
+      213: -2671849952739060093
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_70
+  - first:
+      213: 168467019197695593
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_71
+  - first:
+      213: 1253998152708710839
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_72
+  - first:
+      213: -7697828474348807632
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_73
+  - first:
+      213: 3240290291082720047
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_74
+  - first:
+      213: 1330522409510504259
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_75
+  - first:
+      213: -4066954349567264253
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_76
+  - first:
+      213: -3982814972295202246
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_77
+  - first:
+      213: 8145689224339334333
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_78
+  - first:
+      213: 6593757403200025601
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_79
+  - first:
+      213: -8059145456543775745
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_80
+  - first:
+      213: -3353076360213157085
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_81
+  - first:
+      213: 9163358491457756142
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_82
+  - first:
+      213: -1706126720555154468
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_83
+  - first:
+      213: -5731017810833930375
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_84
+  - first:
+      213: -8574308175343556005
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_85
+  - first:
+      213: 3002978347567072372
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_86
+  - first:
+      213: 1504906261849222257
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_87
+  - first:
+      213: -198012053592993810
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_88
+  - first:
+      213: -9144172597344057970
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_89
+  - first:
+      213: -291466332716687125
+    second: PC Computer - Undertale - Kickstarter Trailer Sprites_90
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd0d47e9347d4f10800000000000000
+      internalID: 2255586780425031132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 287
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8552a1ebcf9c049bd10f5a86ad4164
+      internalID: 5502794675110019732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 288
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f24f6a65ac23384fb1715006bb9446d
+      internalID: -8225684108182940934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 288
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927822009d3bd614497c68a37294edb9
+      internalID: -7511222165273525485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 288
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b289a5d01ca2134daca1462e5969c63
+      internalID: 4191063451264610069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 187
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fc01e9620335140846d12ef33bea43
+      internalID: -2549948086473000274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 186
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2cfaa25891b6f44bbf3818969e7a04
+      internalID: -6322294443129651354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 187
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54d740a963c00548bff7c3887f5d1b7
+      internalID: 8835202382784721620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 187
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9334115d16a4494ba574a924be8b501
+      internalID: -3460708160672282947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 186
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d7b51923164e9439013cfd1337a293
+      internalID: -6510617042562918668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 186
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308902495bab0f442ac6922068868d42
+      internalID: 6958598965577067032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 187
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e23bcb277a49cd468bfc7e476e84a18
+      internalID: -3125226158680040911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 187
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cb34eec85041344b382955c0e84e2e
+      internalID: 3703141829572076020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 186
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab9df8cbb31c6d4e911a8a877c900ec
+      internalID: 1221349604552338772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 187
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de1692072b4c5d49a30141936ce539d
+      internalID: 8635260765546863696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98ca227655664e44ae50d28a48c881b
+      internalID: 1137106113083664372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Kickstarter Trailer Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 133
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0795704e533c69f47a3727f4a627c927
+      internalID: -5496347049584700070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aa5999d5c87f7504786d3cc9afb39f05
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Undertale - Kickstarter Trailer Sprites_0: 2255586780425031132
+      PC Computer - Undertale - Kickstarter Trailer Sprites_1: 5502794675110019732
+      PC Computer - Undertale - Kickstarter Trailer Sprites_10: 6958598965577067032
+      PC Computer - Undertale - Kickstarter Trailer Sprites_11: -3125226158680040911
+      PC Computer - Undertale - Kickstarter Trailer Sprites_12: 3703141829572076020
+      PC Computer - Undertale - Kickstarter Trailer Sprites_13: 1221349604552338772
+      PC Computer - Undertale - Kickstarter Trailer Sprites_14: 8635260765546863696
+      PC Computer - Undertale - Kickstarter Trailer Sprites_15: 1137106113083664372
+      PC Computer - Undertale - Kickstarter Trailer Sprites_16: -5496347049584700070
+      PC Computer - Undertale - Kickstarter Trailer Sprites_2: -8225684108182940934
+      PC Computer - Undertale - Kickstarter Trailer Sprites_3: -7511222165273525485
+      PC Computer - Undertale - Kickstarter Trailer Sprites_4: 4191063451264610069
+      PC Computer - Undertale - Kickstarter Trailer Sprites_5: -2549948086473000274
+      PC Computer - Undertale - Kickstarter Trailer Sprites_6: -6322294443129651354
+      PC Computer - Undertale - Kickstarter Trailer Sprites_7: 8835202382784721620
+      PC Computer - Undertale - Kickstarter Trailer Sprites_8: -3460708160672282947
+      PC Computer - Undertale - Kickstarter Trailer Sprites_9: -6510617042562918668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -27,6 +27,24 @@ public class Pencil : MonoBehaviour
         mazeGenerator = GetComponent<MazeGenerator>();
     }
 
+    void Start()
+    {
+        if (GameData.Instance != null && GameData.Instance.selectedPlayers.Length == 2)
+        {
+            player1 = GameData.Instance.selectedPlayers[0];
+            player2 = GameData.Instance.selectedPlayers[1];
+        }else if(GameData.Instance.selectedPlayers.Length == 3){
+            player1 = GameData.Instance.selectedPlayers[0];
+            player2 = GameData.Instance.selectedPlayers[1];
+            player3 = GameData.Instance.selectedPlayers[2];
+        } else{
+            player1 = GameData.Instance.selectedPlayers[0];
+            player2 = GameData.Instance.selectedPlayers[1];
+            player3 = GameData.Instance.selectedPlayers[2];
+            player4 = GameData.Instance.selectedPlayers[3];
+        }
+    }
+
     public void DrawMaze()
     {
         int[,] maze = mazeGenerator.GetMaze();
@@ -119,6 +137,24 @@ public class Pencil : MonoBehaviour
             player2Instance.GetComponent<Player>().respawnPoint = new Vector2(x2, y2);
             player2Instance.transform.SetParent(playersParent.transform, true);
             player2 = player2Instance;
+        }
+        
+        if(player3 != null){
+            int x3 = 1;
+            int y3 = height - 2;
+            GameObject player3Instance = Instantiate(player3, new Vector3(x3, y3, 0), Quaternion.identity);
+            player3Instance.GetComponent<Player>().respawnPoint = new Vector2(x3, y3);
+            player3Instance.transform.SetParent(playersParent.transform, true);
+            player3 = player3Instance;
+        }
+        
+        if(player4 != null){
+            int x4 = width - 2;
+            int y4 = 1;
+            GameObject player4Instance = Instantiate(player4, new Vector3(x4, y4, 0), Quaternion.identity);
+            player4Instance.GetComponent<Player>().respawnPoint = new Vector2(x4, y4);
+            player4Instance.transform.SetParent(playersParent.transform, true);
+            player4 = player4Instance;
         }
     }
 

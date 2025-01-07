@@ -9,6 +9,6 @@ public class Alphys : Player
     this.health=7;
     this.attack=4;
     this.speedMovement=2;
-    this.isTurn=false; 
+    this.isTurn=false;
     }
 }

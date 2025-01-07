@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 55171386295a5e346b507a9fe84477a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9103803497612262810
+    second: Effect_EldenRing_1_421x425_0
+  - first:
+      213: -2477562709273849088
+    second: Effect_EldenRing_1_421x425_1
+  - first:
+      213: -7753320522955537402
+    second: Effect_EldenRing_1_421x425_2
+  - first:
+      213: 8141112612889445064
+    second: Effect_EldenRing_1_421x425_3
+  - first:
+      213: -6374443833733764516
+    second: Effect_EldenRing_1_421x425_4
+  - first:
+      213: 4310563432317316164
+    second: Effect_EldenRing_1_421x425_5
+  - first:
+      213: 1885806366319517569
+    second: Effect_EldenRing_1_421x425_6
+  - first:
+      213: -7804531650475982120
+    second: Effect_EldenRing_1_421x425_7
+  - first:
+      213: -8905702353047110064
+    second: Effect_EldenRing_1_421x425_8
+  - first:
+      213: -7784568452877405642
+    second: Effect_EldenRing_1_421x425_9
+  - first:
+      213: -6391818902925847452
+    second: Effect_EldenRing_1_421x425_10
+  - first:
+      213: -5248844148861047037
+    second: Effect_EldenRing_1_421x425_11
+  - first:
+      213: -1739505133126028727
+    second: Effect_EldenRing_1_421x425_12
+  - first:
+      213: -7960912430740019809
+    second: Effect_EldenRing_1_421x425_13
+  - first:
+      213: -9193900073415780995
+    second: Effect_EldenRing_1_421x425_14
+  - first:
+      213: 8631402760889128767
+    second: Effect_EldenRing_1_421x425_15
+  - first:
+      213: 7974730084281104227
+    second: Effect_EldenRing_1_421x425_16
+  - first:
+      213: 1195478948691989108
+    second: Effect_EldenRing_1_421x425_17
+  - first:
+      213: 4986699131941406878
+    second: Effect_EldenRing_1_421x425_18
+  - first:
+      213: 9206211052908727332
+    second: Effect_EldenRing_1_421x425_19
+  - first:
+      213: -5136476240215294586
+    second: Effect_EldenRing_1_421x425_20
+  - first:
+      213: 2910711668524863758
+    second: Effect_EldenRing_1_421x425_21
+  - first:
+      213: -995264052089181061
+    second: Effect_EldenRing_1_421x425_22
+  - first:
+      213: -2536460713731262266
+    second: Effect_EldenRing_1_421x425_23
+  - first:
+      213: 6460411251534317723
+    second: Effect_EldenRing_1_421x425_24
+  - first:
+      213: -3694822947317588058
+    second: Effect_EldenRing_1_421x425_25
+  - first:
+      213: -1497176774378166943
+    second: Effect_EldenRing_1_421x425_26
+  - first:
+      213: -3395546149272247544
+    second: Effect_EldenRing_1_421x425_27
+  - first:
+      213: -8490580336901397471
+    second: Effect_EldenRing_1_421x425_28
+  - first:
+      213: -151777634366632049
+    second: Effect_EldenRing_1_421x425_29
+  - first:
+      213: -4063813893630469632
+    second: Effect_EldenRing_1_421x425_30
+  - first:
+      213: 8689311696939246288
+    second: Effect_EldenRing_1_421x425_31
+  - first:
+      213: 5343170402126190907
+    second: Effect_EldenRing_1_421x425_32
+  - first:
+      213: 5850167637257446678
+    second: Effect_EldenRing_1_421x425_33
+  - first:
+      213: 3177841911331062395
+    second: Effect_EldenRing_1_421x425_34
+  - first:
+      213: -1796315221273763859
+    second: Effect_EldenRing_1_421x425_35
+  - first:
+      213: -2175454062732531875
+    second: Effect_EldenRing_1_421x425_36
+  - first:
+      213: 4207630213762358118
+    second: Effect_EldenRing_1_421x425_37
+  - first:
+      213: 4828472917267196970
+    second: Effect_EldenRing_1_421x425_38
+  - first:
+      213: 4146895218759851633
+    second: Effect_EldenRing_1_421x425_39
+  - first:
+      213: -3930317721989416255
+    second: Effect_EldenRing_1_421x425_40
+  - first:
+      213: -4379618615881327976
+    second: Effect_EldenRing_1_421x425_41
+  - first:
+      213: 5319074400745198214
+    second: Effect_EldenRing_1_421x425_42
+  - first:
+      213: -2968570312261935182
+    second: Effect_EldenRing_1_421x425_43
+  - first:
+      213: 7684729900597581078
+    second: Effect_EldenRing_1_421x425_44
+  - first:
+      213: 761729209137181928
+    second: Effect_EldenRing_1_421x425_45
+  - first:
+      213: 4207670183335789043
+    second: Effect_EldenRing_1_421x425_46
+  - first:
+      213: -3779937056521003282
+    second: Effect_EldenRing_1_421x425_47
+  - first:
+      213: -2149164846630517839
+    second: Effect_EldenRing_1_421x425_48
+  - first:
+      213: -2090054192903109519
+    second: Effect_EldenRing_1_421x425_49
+  - first:
+      213: 4736873459893353867
+    second: Effect_EldenRing_1_421x425_50
+  - first:
+      213: 2558264623779764879
+    second: Effect_EldenRing_1_421x425_51
+  - first:
+      213: -4679550523519961944
+    second: Effect_EldenRing_1_421x425_52
+  - first:
+      213: 5811345645902869194
+    second: Effect_EldenRing_1_421x425_53
+  - first:
+      213: 4819986936488987636
+    second: Effect_EldenRing_1_421x425_54
+  - first:
+      213: -7708718921315073088
+    second: Effect_EldenRing_1_421x425_55
+  - first:
+      213: -5369243682284717282
+    second: Effect_EldenRing_1_421x425_56
+  - first:
+      213: -1960803865721435206
+    second: Effect_EldenRing_1_421x425_57
+  - first:
+      213: -4911777099645159766
+    second: Effect_EldenRing_1_421x425_58
+  - first:
+      213: 7687443020774906880
+    second: Effect_EldenRing_1_421x425_59
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2564
+        width: 398
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662ccd3f3fac8a180800000000000000
+      internalID: -9103803497612262810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2564
+        width: 398
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0035af4b7dded9dd0800000000000000
+      internalID: -2477562709273849088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_2
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 2564
+        width: 406
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6044d7f201ca66490800000000000000
+      internalID: -7753320522955537402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_3
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2564
+        width: 406
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c24ab7b9ca0bf070800000000000000
+      internalID: 8141112612889445064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_4
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2560
+        width: 406
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aae914b1d6987a0800000000000000
+      internalID: -6374443833733764516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_5
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 2560
+        width: 406
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cef057a9232db30800000000000000
+      internalID: 4310563432317316164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_6
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 2560
+        width: 406
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f15a316eabb2a10800000000000000
+      internalID: 1885806366319517569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_7
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 2560
+        width: 406
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2061760dbb0b390800000000000000
+      internalID: -7804531650475982120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_8
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 2560
+        width: 406
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e3443f4e6986480800000000000000
+      internalID: -8905702353047110064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2135
+        width: 406
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632b78c8c38a7f390800000000000000
+      internalID: -7784568452877405642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2135
+        width: 406
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4645a76b292bb47a0800000000000000
+      internalID: -6391818902925847452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_11
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 2135
+        width: 410
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fefb16e0c5827b0800000000000000
+      internalID: -5248844148861047037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_12
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2131
+        width: 410
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942fd073c490cd7e0800000000000000
+      internalID: -1739505133126028727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_13
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2131
+        width: 410
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95efbda258258190800000000000000
+      internalID: -7960912430740019809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_14
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 2131
+        width: 410
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d755d973894b86080800000000000000
+      internalID: -9193900073415780995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_15
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 2131
+        width: 410
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f375f147417e8c770800000000000000
+      internalID: 8631402760889128767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_16
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 2131
+        width: 410
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367323d72ceebae60800000000000000
+      internalID: 7974730084281104227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_17
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 2131
+        width: 410
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4725e3915c1379010800000000000000
+      internalID: 1195478948691989108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1706
+        width: 410
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98cd199070543540800000000000000
+      internalID: 4986699131941406878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1706
+        width: 410
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c46ef0d2803cf70800000000000000
+      internalID: 9206211052908727332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_20
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1706
+        width: 410
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dbbb0e21297b8b0800000000000000
+      internalID: -5136476240215294586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_21
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1706
+        width: 410
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01520647dce46820800000000000000
+      internalID: 2910711668524863758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_22
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1702
+        width: 406
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c22852e9c1032f0800000000000000
+      internalID: -995264052089181061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_23
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 1702
+        width: 402
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8705b6b6eacccd0800000000000000
+      internalID: -2536460713731262266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_24
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 1702
+        width: 402
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98c3a6fdcdf7a950800000000000000
+      internalID: 6460411251534317723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_25
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1702
+        width: 402
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af5c2dfa1a59bcc0800000000000000
+      internalID: -3694822947317588058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_26
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 1702
+        width: 402
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1656935f7a5f83be0800000000000000
+      internalID: -1497176774378166943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1277
+        width: 402
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803ae2284c890e0d0800000000000000
+      internalID: -3395546149272247544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1277
+        width: 398
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124631a2b266b2a80800000000000000
+      internalID: -8490580336901397471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_29
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1277
+        width: 402
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f4ab2bb07c4edf0800000000000000
+      internalID: -151777634366632049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_30
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1277
+        width: 402
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00adbd47bce6a97c0800000000000000
+      internalID: -4063813893630469632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_31
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1277
+        width: 406
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2e5be43f2a69870800000000000000
+      internalID: 8689311696939246288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_32
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 1277
+        width: 406
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39dc11eb21c62a40800000000000000
+      internalID: 5343170402126190907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_33
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 1277
+        width: 406
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61567377878ff2150800000000000000
+      internalID: 5850167637257446678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_34
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1277
+        width: 406
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b728c35a166f91c20800000000000000
+      internalID: 3177841911331062395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_35
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 1277
+        width: 406
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def9953d2d43217e0800000000000000
+      internalID: -1796315221273763859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 852
+        width: 406
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57a5a55e0c3fc1e0800000000000000
+      internalID: -2175454062732531875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 852
+        width: 406
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b918de261846a30800000000000000
+      internalID: 4207630213762358118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_38
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 856
+        width: 406
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c2e41398e220340800000000000000
+      internalID: 4828472917267196970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_39
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 856
+        width: 406
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e52f2fa3bbc8930800000000000000
+      internalID: 4146895218759851633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_40
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 860
+        width: 406
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caf5660bd4b479c0800000000000000
+      internalID: -3930317721989416255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_41
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 860
+        width: 406
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a94b4b2187833c0800000000000000
+      internalID: -4379618615881327976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_42
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 864
+        width: 406
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6829a4e5cf521d940800000000000000
+      internalID: 5319074400745198214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_43
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 864
+        width: 410
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf5bd677058dc6d0800000000000000
+      internalID: -2968570312261935182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_44
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 868
+        width: 410
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61511ff0125a5aa60800000000000000
+      internalID: 7684729900597581078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 443
+        width: 410
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e439ad0ea4329a00800000000000000
+      internalID: 761729209137181928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_46
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 443
+        width: 406
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f18bb11db5a46a30800000000000000
+      internalID: 4207670183335789043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_47
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 443
+        width: 406
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeedab82647fa8bc0800000000000000
+      internalID: -3779937056521003282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_48
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 443
+        width: 402
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3c4d075f1ac22e0800000000000000
+      internalID: -2149164846630517839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_49
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 443
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174c1bef8c2aef2e0800000000000000
+      internalID: -2090054192903109519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_50
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 443
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d3be29051ccb140800000000000000
+      internalID: 4736873459893353867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_51
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 443
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a57ddfe18c08320800000000000000
+      internalID: 2558264623779764879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_52
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 443
+        width: 398
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a479199795ee0fb0800000000000000
+      internalID: -4679550523519961944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_53
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 443
+        width: 398
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2bd0b331c06a050800000000000000
+      internalID: 5811345645902869194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 398
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb0373d49804e240800000000000000
+      internalID: 4819986936488987636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_55
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 14
+        width: 398
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3ceadcbf0250590800000000000000
+      internalID: -7708718921315073088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_56
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 14
+        width: 398
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bb8e4815d9c75b0800000000000000
+      internalID: -5369243682284717282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_57
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 14
+        width: 398
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb067dd543d9c4e0800000000000000
+      internalID: -1960803865721435206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_58
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 14
+        width: 398
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa670c760ccd5dbb0800000000000000
+      internalID: -4911777099645159766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_EldenRing_1_421x425_59
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 14
+        width: 398
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c185492b84faa60800000000000000
+      internalID: 7687443020774906880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Effect_EldenRing_1_421x425_0: -9103803497612262810
+      Effect_EldenRing_1_421x425_1: -2477562709273849088
+      Effect_EldenRing_1_421x425_10: -6391818902925847452
+      Effect_EldenRing_1_421x425_11: -5248844148861047037
+      Effect_EldenRing_1_421x425_12: -1739505133126028727
+      Effect_EldenRing_1_421x425_13: -7960912430740019809
+      Effect_EldenRing_1_421x425_14: -9193900073415780995
+      Effect_EldenRing_1_421x425_15: 8631402760889128767
+      Effect_EldenRing_1_421x425_16: 7974730084281104227
+      Effect_EldenRing_1_421x425_17: 1195478948691989108
+      Effect_EldenRing_1_421x425_18: 4986699131941406878
+      Effect_EldenRing_1_421x425_19: 9206211052908727332
+      Effect_EldenRing_1_421x425_2: -7753320522955537402
+      Effect_EldenRing_1_421x425_20: -5136476240215294586
+      Effect_EldenRing_1_421x425_21: 2910711668524863758
+      Effect_EldenRing_1_421x425_22: -995264052089181061
+      Effect_EldenRing_1_421x425_23: -2536460713731262266
+      Effect_EldenRing_1_421x425_24: 6460411251534317723
+      Effect_EldenRing_1_421x425_25: -3694822947317588058
+      Effect_EldenRing_1_421x425_26: -1497176774378166943
+      Effect_EldenRing_1_421x425_27: -3395546149272247544
+      Effect_EldenRing_1_421x425_28: -8490580336901397471
+      Effect_EldenRing_1_421x425_29: -151777634366632049
+      Effect_EldenRing_1_421x425_3: 8141112612889445064
+      Effect_EldenRing_1_421x425_30: -4063813893630469632
+      Effect_EldenRing_1_421x425_31: 8689311696939246288
+      Effect_EldenRing_1_421x425_32: 5343170402126190907
+      Effect_EldenRing_1_421x425_33: 5850167637257446678
+      Effect_EldenRing_1_421x425_34: 3177841911331062395
+      Effect_EldenRing_1_421x425_35: -1796315221273763859
+      Effect_EldenRing_1_421x425_36: -2175454062732531875
+      Effect_EldenRing_1_421x425_37: 4207630213762358118
+      Effect_EldenRing_1_421x425_38: 4828472917267196970
+      Effect_EldenRing_1_421x425_39: 4146895218759851633
+      Effect_EldenRing_1_421x425_4: -6374443833733764516
+      Effect_EldenRing_1_421x425_40: -3930317721989416255
+      Effect_EldenRing_1_421x425_41: -4379618615881327976
+      Effect_EldenRing_1_421x425_42: 5319074400745198214
+      Effect_EldenRing_1_421x425_43: -2968570312261935182
+      Effect_EldenRing_1_421x425_44: 7684729900597581078
+      Effect_EldenRing_1_421x425_45: 761729209137181928
+      Effect_EldenRing_1_421x425_46: 4207670183335789043
+      Effect_EldenRing_1_421x425_47: -3779937056521003282
+      Effect_EldenRing_1_421x425_48: -2149164846630517839
+      Effect_EldenRing_1_421x425_49: -2090054192903109519
+      Effect_EldenRing_1_421x425_5: 4310563432317316164
+      Effect_EldenRing_1_421x425_50: 4736873459893353867
+      Effect_EldenRing_1_421x425_51: 2558264623779764879
+      Effect_EldenRing_1_421x425_52: -4679550523519961944
+      Effect_EldenRing_1_421x425_53: 5811345645902869194
+      Effect_EldenRing_1_421x425_54: 4819986936488987636
+      Effect_EldenRing_1_421x425_55: -7708718921315073088
+      Effect_EldenRing_1_421x425_56: -5369243682284717282
+      Effect_EldenRing_1_421x425_57: -1960803865721435206
+      Effect_EldenRing_1_421x425_58: -4911777099645159766
+      Effect_EldenRing_1_421x425_59: 7687443020774906880
+      Effect_EldenRing_1_421x425_6: 1885806366319517569
+      Effect_EldenRing_1_421x425_7: -7804531650475982120
+      Effect_EldenRing_1_421x425_8: -8905702353047110064
+      Effect_EldenRing_1_421x425_9: -7784568452877405642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

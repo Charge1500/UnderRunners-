@@ -15,7 +15,7 @@ TagManager:
   - Player
   - Walls
   - Path
-  - 
+  - Menu
   - 
   - 
   - 
@@ -56,4 +56,7 @@ TagManager:
     locked: 0
   - name: Trap2
     uniqueID: 1419127903
+    locked: 0
+  - name: Fondo
+    uniqueID: 3224097279
     locked: 0
