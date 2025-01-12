@@ -4,7 +4,10 @@ using UnityEngine;
 
 public abstract class Objects : MonoBehaviour
 {
-
+    public TurnOf turnOf;
+    void Start(){
+        turnOf = GetComponentInParent<TurnOf>();
+    }
     void OnTriggerEnter2D(Collider2D someone)
     {
         if (someone.CompareTag("Player"))
@@ -15,9 +18,11 @@ public abstract class Objects : MonoBehaviour
             // Verifica si es el turno del jugador que entró
             if (player == someone.GetComponent<Player>() && player.isTurn)
             { 
-             OnConsumed(someone.gameObject);  
+             OnConsumed(someone.gameObject);
+             turnOf.UpdateUI();  
             }
         }
     }
     protected abstract void OnConsumed(GameObject player);
+
 }

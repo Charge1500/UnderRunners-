@@ -1,0 +1,1223 @@
+fileFormatVersion: 2
+guid: c9b0c56b01542db438d26e4ba7a00e9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4785204154701334149
+    second: Effect_Impact_1_305x383_0
+  - first:
+      213: 4737278603843930199
+    second: Effect_Impact_1_305x383_1
+  - first:
+      213: 8494213449026162029
+    second: Effect_Impact_1_305x383_2
+  - first:
+      213: 870672565040833087
+    second: Effect_Impact_1_305x383_3
+  - first:
+      213: 788855725176281413
+    second: Effect_Impact_1_305x383_4
+  - first:
+      213: 5279107479890081797
+    second: Effect_Impact_1_305x383_5
+  - first:
+      213: -4808320525143138641
+    second: Effect_Impact_1_305x383_6
+  - first:
+      213: -2722914052909414609
+    second: Effect_Impact_1_305x383_7
+  - first:
+      213: -3626149345423001754
+    second: Effect_Impact_1_305x383_8
+  - first:
+      213: 4357133673240221002
+    second: Effect_Impact_1_305x383_9
+  - first:
+      213: 3417476018035754600
+    second: Effect_Impact_1_305x383_10
+  - first:
+      213: 854103672361946632
+    second: Effect_Impact_1_305x383_11
+  - first:
+      213: -99549543018857019
+    second: Effect_Impact_1_305x383_12
+  - first:
+      213: -6818093346782679706
+    second: Effect_Impact_1_305x383_13
+  - first:
+      213: -8615660199973723395
+    second: Effect_Impact_1_305x383_14
+  - first:
+      213: 4978413600053946204
+    second: Effect_Impact_1_305x383_15
+  - first:
+      213: 5713525223344959206
+    second: Effect_Impact_1_305x383_16
+  - first:
+      213: -1561668608975141923
+    second: Effect_Impact_1_305x383_17
+  - first:
+      213: -3910744778343391855
+    second: Effect_Impact_1_305x383_18
+  - first:
+      213: -6312540317348672635
+    second: Effect_Impact_1_305x383_19
+  - first:
+      213: 3071582200704683644
+    second: Effect_Impact_1_305x383_20
+  - first:
+      213: -1818713448817635339
+    second: Effect_Impact_1_305x383_21
+  - first:
+      213: 3494847536166174190
+    second: Effect_Impact_1_305x383_22
+  - first:
+      213: 3552419343172709846
+    second: Effect_Impact_1_305x383_23
+  - first:
+      213: -5597493174857006236
+    second: Effect_Impact_1_305x383_24
+  - first:
+      213: -1621609062442918012
+    second: Effect_Impact_1_305x383_25
+  - first:
+      213: -2555210650934933811
+    second: Effect_Impact_1_305x383_26
+  - first:
+      213: -8600696663277148793
+    second: Effect_Impact_1_305x383_27
+  - first:
+      213: 3545159213753631440
+    second: Effect_Impact_1_305x383_28
+  - first:
+      213: -5780612088538486646
+    second: Effect_Impact_1_305x383_29
+  - first:
+      213: -7313439941028931855
+    second: Effect_Impact_1_305x383_30
+  - first:
+      213: -2317192309903488825
+    second: Effect_Impact_1_305x383_31
+  - first:
+      213: -6383087460520891858
+    second: Effect_Impact_1_305x383_32
+  - first:
+      213: -6622155062088689496
+    second: Effect_Impact_1_305x383_33
+  - first:
+      213: -2610265821904269359
+    second: Effect_Impact_1_305x383_34
+  - first:
+      213: -758706998249994251
+    second: Effect_Impact_1_305x383_35
+  - first:
+      213: -7678939587720209207
+    second: Effect_Impact_1_305x383_36
+  - first:
+      213: -8377667316070891808
+    second: Effect_Impact_1_305x383_37
+  - first:
+      213: 6702308137521697679
+    second: Effect_Impact_1_305x383_38
+  - first:
+      213: 2553848553667653996
+    second: Effect_Impact_1_305x383_39
+  - first:
+      213: 8995470914493558087
+    second: Effect_Impact_1_305x383_40
+  - first:
+      213: -712115376757007312
+    second: Effect_Impact_1_305x383_41
+  - first:
+      213: -8702514511193195222
+    second: Effect_Impact_1_305x383_42
+  - first:
+      213: 3011180245544667716
+    second: Effect_Impact_1_305x383_43
+  - first:
+      213: 5511952173159052391
+    second: Effect_Impact_1_305x383_44
+  - first:
+      213: -3830957057336192275
+    second: Effect_Impact_1_305x383_45
+  - first:
+      213: -894971999157221380
+    second: Effect_Impact_1_305x383_46
+  - first:
+      213: 8545838473995180022
+    second: Effect_Impact_1_305x383_47
+  - first:
+      213: 5915117803882947277
+    second: Effect_Impact_1_305x383_48
+  - first:
+      213: 12699866569779867
+    second: Effect_Impact_1_305x383_49
+  - first:
+      213: -7879110091335485866
+    second: Effect_Impact_1_305x383_50
+  - first:
+      213: -5059527043278816701
+    second: Effect_Impact_1_305x383_51
+  - first:
+      213: 7574312382238001928
+    second: Effect_Impact_1_305x383_52
+  - first:
+      213: -147334109981285938
+    second: Effect_Impact_1_305x383_53
+  - first:
+      213: 4322970186553836370
+    second: Effect_Impact_1_305x383_54
+  - first:
+      213: -1520202896202413118
+    second: Effect_Impact_1_305x383_55
+  - first:
+      213: -753162550669356924
+    second: Effect_Impact_1_305x383_56
+  - first:
+      213: 8681654096805230246
+    second: Effect_Impact_1_305x383_57
+  - first:
+      213: -2669670716038340273
+    second: Effect_Impact_1_305x383_58
+  - first:
+      213: -4836698279428364311
+    second: Effect_Impact_1_305x383_59
+  - first:
+      213: -8144339384712563896
+    second: Effect_Impact_1_305x383_60
+  - first:
+      213: -2631688648853739246
+    second: Effect_Impact_1_305x383_61
+  - first:
+      213: -4883981678546245544
+    second: Effect_Impact_1_305x383_62
+  - first:
+      213: -6579429084024986975
+    second: Effect_Impact_1_305x383_63
+  - first:
+      213: 5168228470773069207
+    second: Effect_Impact_1_305x383_64
+  - first:
+      213: -5264917095559780412
+    second: Effect_Impact_1_305x383_65
+  - first:
+      213: 619141957671511463
+    second: Effect_Impact_1_305x383_66
+  - first:
+      213: -6598216191851346634
+    second: Effect_Impact_1_305x383_67
+  - first:
+      213: 800319213220627292
+    second: Effect_Impact_1_305x383_68
+  - first:
+      213: -8133951660990255066
+    second: Effect_Impact_1_305x383_69
+  - first:
+      213: -4020747239062280055
+    second: Effect_Impact_1_305x383_70
+  - first:
+      213: 8491575641711919975
+    second: Effect_Impact_1_305x383_71
+  - first:
+      213: 2868101810337891754
+    second: Effect_Impact_1_305x383_72
+  - first:
+      213: 2925485670568160207
+    second: Effect_Impact_1_305x383_73
+  - first:
+      213: -8706989209989407798
+    second: Effect_Impact_1_305x383_74
+  - first:
+      213: -1193159261399548719
+    second: Effect_Impact_1_305x383_75
+  - first:
+      213: 5065431856522238338
+    second: Effect_Impact_1_305x383_76
+  - first:
+      213: -8910334687177090825
+    second: Effect_Impact_1_305x383_77
+  - first:
+      213: 5606803943648836837
+    second: Effect_Impact_1_305x383_78
+  - first:
+      213: -1265329303383267859
+    second: Effect_Impact_1_305x383_79
+  - first:
+      213: -893790468601933897
+    second: Effect_Impact_1_305x383_80
+  - first:
+      213: -9181532162083674553
+    second: Effect_Impact_1_305x383_81
+  - first:
+      213: -6515132379617520651
+    second: Effect_Impact_1_305x383_82
+  - first:
+      213: 4730039596297382616
+    second: Effect_Impact_1_305x383_83
+  - first:
+      213: -1101030095048006980
+    second: Effect_Impact_1_305x383_84
+  - first:
+      213: 7396777145792960519
+    second: Effect_Impact_1_305x383_85
+  - first:
+      213: 3780686794175403452
+    second: Effect_Impact_1_305x383_86
+  - first:
+      213: -3252759745573964031
+    second: Effect_Impact_1_305x383_87
+  - first:
+      213: -5659130769249086026
+    second: Effect_Impact_1_305x383_88
+  - first:
+      213: -5365724665093267309
+    second: Effect_Impact_1_305x383_89
+  - first:
+      213: 2423697666419562846
+    second: Effect_Impact_1_305x383_90
+  - first:
+      213: 1058795422852231229
+    second: Effect_Impact_1_305x383_91
+  - first:
+      213: 4888174662464099090
+    second: Effect_Impact_1_305x383_92
+  - first:
+      213: -8620524946964308029
+    second: Effect_Impact_1_305x383_93
+  - first:
+      213: 4930519180567895589
+    second: Effect_Impact_1_305x383_94
+  - first:
+      213: -1403655524199247583
+    second: Effect_Impact_1_305x383_95
+  - first:
+      213: 8123018866413166
+    second: Effect_Impact_1_305x383_96
+  - first:
+      213: 3059238627468184684
+    second: Effect_Impact_1_305x383_97
+  - first:
+      213: 4313766508970561161
+    second: Effect_Impact_1_305x383_98
+  - first:
+      213: 810386309384045887
+    second: Effect_Impact_1_305x383_99
+  - first:
+      213: -30425628317536298
+    second: Effect_Impact_1_305x383_100
+  - first:
+      213: 4138946459383413272
+    second: Effect_Impact_1_305x383_101
+  - first:
+      213: -3681190310097162584
+    second: Effect_Impact_1_305x383_102
+  - first:
+      213: -2895292185049495999
+    second: Effect_Impact_1_305x383_103
+  - first:
+      213: 5045619931423282730
+    second: Effect_Impact_1_305x383_104
+  - first:
+      213: 2661288715402794194
+    second: Effect_Impact_1_305x383_105
+  - first:
+      213: -2616333844443264530
+    second: Effect_Impact_1_305x383_106
+  - first:
+      213: 6248354258145564770
+    second: Effect_Impact_1_305x383_107
+  - first:
+      213: 5041740317935256924
+    second: Effect_Impact_1_305x383_108
+  - first:
+      213: 2244273521013627056
+    second: Effect_Impact_1_305x383_109
+  - first:
+      213: 1208736325621910860
+    second: Effect_Impact_1_305x383_110
+  - first:
+      213: -8844643905602461374
+    second: Effect_Impact_1_305x383_111
+  - first:
+      213: 35038826983950702
+    second: Effect_Impact_1_305x383_112
+  - first:
+      213: 7591507162467930516
+    second: Effect_Impact_1_305x383_113
+  - first:
+      213: 3948025270458420480
+    second: Effect_Impact_1_305x383_114
+  - first:
+      213: 4280772175307897883
+    second: Effect_Impact_1_305x383_115
+  - first:
+      213: 2140944633455913118
+    second: Effect_Impact_1_305x383_116
+  - first:
+      213: -8628453090373619819
+    second: Effect_Impact_1_305x383_117
+  - first:
+      213: 2489058782822724045
+    second: Effect_Impact_1_305x383_118
+  - first:
+      213: 439508528931770242
+    second: Effect_Impact_1_305x383_119
+  - first:
+      213: -1259637383354354183
+    second: Effect_Impact_1_305x383_120
+  - first:
+      213: 5320996978623852955
+    second: Effect_Impact_1_305x383_121
+  - first:
+      213: 173418804770258700
+    second: Effect_Impact_1_305x383_122
+  - first:
+      213: 6481643538358531174
+    second: Effect_Impact_1_305x383_123
+  - first:
+      213: 2715108712227666426
+    second: Effect_Impact_1_305x383_124
+  - first:
+      213: -2367986921523851738
+    second: Effect_Impact_1_305x383_125
+  - first:
+      213: 4623587139735453147
+    second: Effect_Impact_1_305x383_126
+  - first:
+      213: -3404183241415858477
+    second: Effect_Impact_1_305x383_127
+  - first:
+      213: -718897978202291375
+    second: Effect_Impact_1_305x383_128
+  - first:
+      213: -2865344453353811914
+    second: Effect_Impact_1_305x383_129
+  - first:
+      213: -6130643281009220749
+    second: Effect_Impact_1_305x383_130
+  - first:
+      213: 8756185180302115937
+    second: Effect_Impact_1_305x383_131
+  - first:
+      213: 6761263935681495578
+    second: Effect_Impact_1_305x383_132
+  - first:
+      213: 8494689742454772034
+    second: Effect_Impact_1_305x383_133
+  - first:
+      213: -4573470967949629710
+    second: Effect_Impact_1_305x383_134
+  - first:
+      213: -6160061289415252375
+    second: Effect_Impact_1_305x383_135
+  - first:
+      213: 7134197333223278038
+    second: Effect_Impact_1_305x383_136
+  - first:
+      213: -5386841495704069976
+    second: Effect_Impact_1_305x383_137
+  - first:
+      213: 8468920718036059046
+    second: Effect_Impact_1_305x383_138
+  - first:
+      213: 6308322871139986335
+    second: Effect_Impact_1_305x383_139
+  - first:
+      213: 3303854199731902107
+    second: Effect_Impact_1_305x383_140
+  - first:
+      213: 6671238147342990960
+    second: Effect_Impact_1_305x383_141
+  - first:
+      213: 2535178810707445485
+    second: Effect_Impact_1_305x383_142
+  - first:
+      213: -8174780104091173293
+    second: Effect_Impact_1_305x383_143
+  - first:
+      213: 7253016182920020686
+    second: Effect_Impact_1_305x383_144
+  - first:
+      213: 6637147541371754077
+    second: Effect_Impact_1_305x383_145
+  - first:
+      213: 350521053709481413
+    second: Effect_Impact_1_305x383_146
+  - first:
+      213: -7169886715672604342
+    second: Effect_Impact_1_305x383_147
+  - first:
+      213: 8047427184688876855
+    second: Effect_Impact_1_305x383_148
+  - first:
+      213: -901999006785563335
+    second: Effect_Impact_1_305x383_149
+  - first:
+      213: 8588692310112573783
+    second: Effect_Impact_1_305x383_150
+  - first:
+      213: -6606379366828775507
+    second: Effect_Impact_1_305x383_151
+  - first:
+      213: -4518390027391148908
+    second: Effect_Impact_1_305x383_152
+  - first:
+      213: 5035949495895630562
+    second: Effect_Impact_1_305x383_153
+  - first:
+      213: -7019412135869841268
+    second: Effect_Impact_1_305x383_154
+  - first:
+      213: -7732862468256026816
+    second: Effect_Impact_1_305x383_155
+  - first:
+      213: -4821288412031211395
+    second: Effect_Impact_1_305x383_156
+  - first:
+      213: 5215446249788024031
+    second: Effect_Impact_1_305x383_157
+  - first:
+      213: 5365875703154056776
+    second: Effect_Impact_1_305x383_158
+  - first:
+      213: 1616073651690545213
+    second: Effect_Impact_1_305x383_159
+  - first:
+      213: 5743183919846430933
+    second: Effect_Impact_1_305x383_160
+  - first:
+      213: 3975794989883551119
+    second: Effect_Impact_1_305x383_161
+  - first:
+      213: 2477787178602521331
+    second: Effect_Impact_1_305x383_162
+  - first:
+      213: -8631658280678026907
+    second: Effect_Impact_1_305x383_163
+  - first:
+      213: -5372635335786115088
+    second: Effect_Impact_1_305x383_164
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_0
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2298
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79bd45ac2a879db0800000000000000
+      internalID: -4785204154701334149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_1
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2298
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7580d208ac13eb140800000000000000
+      internalID: 4737278603843930199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_2
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2298
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dcc8ba02281e570800000000000000
+      internalID: 8494213449026162029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_3
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2298
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32efeab510451c00800000000000000
+      internalID: 870672565040833087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_4
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 2298
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5495a2e3a1492fa00800000000000000
+      internalID: 788855725176281413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_5
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2298
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508b4f57848234940800000000000000
+      internalID: 5279107479890081797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_6
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 2298
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae9f9c35f9654db0800000000000000
+      internalID: -4808320525143138641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_7
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 2298
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f274a627814463ad0800000000000000
+      internalID: -2722914052909414609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1915
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667fb8be1645dadc0800000000000000
+      internalID: -3626149345423001754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1915
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a455060adf5a77c30800000000000000
+      internalID: 4357133673240221002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1915
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8660073f4505d6f20800000000000000
+      internalID: 3417476018035754600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1915
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e8d78c3c26adb00800000000000000
+      internalID: 854103672361946632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_12
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1915
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdfec2d7345e9ef0800000000000000
+      internalID: -99549543018857019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_13
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1915
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d609399344161a0800000000000000
+      internalID: -6818093346782679706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_14
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1915
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2681322b60f6880800000000000000
+      internalID: -8615660199973723395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_15
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1915
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c576030eac0e61540800000000000000
+      internalID: 4978413600053946204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_16
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1915
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eee5b84be48a4f40800000000000000
+      internalID: 5713525223344959206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1532
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd388299ca6d35ae0800000000000000
+      internalID: -1561668608975141923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1532
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dd0a7185e3ab9c0800000000000000
+      internalID: -3910744778343391855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1532
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bc912d60a5568a0800000000000000
+      internalID: -6312540317348672635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_20
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1532
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e4a63dcb370aa20800000000000000
+      internalID: 3071582200704683644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_21
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1532
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffcff611c1a2c6e0800000000000000
+      internalID: -1818713448817635339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_22
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1532
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed75515151308030800000000000000
+      internalID: 3494847536166174190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_23
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1532
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd2903329abc4130800000000000000
+      internalID: 3552419343172709846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_24
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1532
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46389ff3d95b152b0800000000000000
+      internalID: -5597493174857006236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_25
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1532
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f198c3623ee79e0800000000000000
+      internalID: -1621609062442918012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1149
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc68ab873711a8cd0800000000000000
+      internalID: -2555210650934933811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Impact_1_305x383_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1149
+        width: 305
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7856a7404ff24a880800000000000000
+      internalID: -8600696663277148793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 90e2714917cb68b4abe326e1d65de1c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Effect_Impact_1_305x383_0: -4785204154701334149
+      Effect_Impact_1_305x383_1: 4737278603843930199
+      Effect_Impact_1_305x383_10: 3417476018035754600
+      Effect_Impact_1_305x383_11: 854103672361946632
+      Effect_Impact_1_305x383_12: -99549543018857019
+      Effect_Impact_1_305x383_13: -6818093346782679706
+      Effect_Impact_1_305x383_14: -8615660199973723395
+      Effect_Impact_1_305x383_15: 4978413600053946204
+      Effect_Impact_1_305x383_16: 5713525223344959206
+      Effect_Impact_1_305x383_17: -1561668608975141923
+      Effect_Impact_1_305x383_18: -3910744778343391855
+      Effect_Impact_1_305x383_19: -6312540317348672635
+      Effect_Impact_1_305x383_2: 8494213449026162029
+      Effect_Impact_1_305x383_20: 3071582200704683644
+      Effect_Impact_1_305x383_21: -1818713448817635339
+      Effect_Impact_1_305x383_22: 3494847536166174190
+      Effect_Impact_1_305x383_23: 3552419343172709846
+      Effect_Impact_1_305x383_24: -5597493174857006236
+      Effect_Impact_1_305x383_25: -1621609062442918012
+      Effect_Impact_1_305x383_26: -2555210650934933811
+      Effect_Impact_1_305x383_27: -8600696663277148793
+      Effect_Impact_1_305x383_3: 870672565040833087
+      Effect_Impact_1_305x383_4: 788855725176281413
+      Effect_Impact_1_305x383_5: 5279107479890081797
+      Effect_Impact_1_305x383_6: -4808320525143138641
+      Effect_Impact_1_305x383_7: -2722914052909414609
+      Effect_Impact_1_305x383_8: -3626149345423001754
+      Effect_Impact_1_305x383_9: 4357133673240221002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

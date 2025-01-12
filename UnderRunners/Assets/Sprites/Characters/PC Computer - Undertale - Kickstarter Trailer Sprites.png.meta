@@ -321,7 +321,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -376,7 +376,7 @@ TextureImporter:
         width: 46
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -397,7 +397,7 @@ TextureImporter:
         width: 37
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -418,7 +418,7 @@ TextureImporter:
         width: 44
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -439,7 +439,7 @@ TextureImporter:
         width: 45
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -460,7 +460,7 @@ TextureImporter:
         width: 44
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -479,9 +479,9 @@ TextureImporter:
         x: 2
         y: 187
         width: 52
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -500,9 +500,9 @@ TextureImporter:
         x: 55
         y: 186
         width: 55
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -521,9 +521,9 @@ TextureImporter:
         x: 111
         y: 187
         width: 50
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -542,9 +542,9 @@ TextureImporter:
         x: 164
         y: 187
         width: 49
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -563,10 +563,10 @@ TextureImporter:
         x: 216
         y: 186
         width: 53
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 3, y: 0, z: 0, w: 0}
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -584,10 +584,10 @@ TextureImporter:
         x: 274
         y: 186
         width: 46
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 2, y: 0, z: 3, w: 0}
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -603,11 +603,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 326
-        y: 187
+        y: 188
         width: 51
         height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -626,9 +626,9 @@ TextureImporter:
         x: 383
         y: 187
         width: 42
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -647,9 +647,9 @@ TextureImporter:
         x: 442
         y: 186
         width: 35
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -668,9 +668,9 @@ TextureImporter:
         x: 493
         y: 187
         width: 39
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -678,48 +678,6 @@ TextureImporter:
       bones: []
       spriteID: 1de1692072b4c5d49a30141936ce539d
       internalID: 8635260765546863696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - Undertale - Kickstarter Trailer Sprites_15
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 132
-        width: 27
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c98ca227655664e44ae50d28a48c881b
-      internalID: 1137106113083664372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - Undertale - Kickstarter Trailer Sprites_16
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 133
-        width: 29
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0795704e533c69f47a3727f4a627c927
-      internalID: -5496347049584700070
       vertices: []
       indices: 
       edges: []
@@ -744,6 +702,7 @@ TextureImporter:
       PC Computer - Undertale - Kickstarter Trailer Sprites_14: 8635260765546863696
       PC Computer - Undertale - Kickstarter Trailer Sprites_15: 1137106113083664372
       PC Computer - Undertale - Kickstarter Trailer Sprites_16: -5496347049584700070
+      PC Computer - Undertale - Kickstarter Trailer Sprites_17: 302933673
       PC Computer - Undertale - Kickstarter Trailer Sprites_2: -8225684108182940934
       PC Computer - Undertale - Kickstarter Trailer Sprites_3: -7511222165273525485
       PC Computer - Undertale - Kickstarter Trailer Sprites_4: 4191063451264610069

@@ -5,33 +5,6 @@ TextureImporter:
   - first:
       213: -1715607738478747781
     second: PC Computer - Uandertale - Undyne_0
-  - first:
-      213: 8214559344639164607
-    second: PC Computer - Uandertale - Undyne_1
-  - first:
-      213: -789002066123860042
-    second: PC Computer - Uandertale - Undyne_2
-  - first:
-      213: 2118381626296971513
-    second: PC Computer - Uandertale - Undyne_3
-  - first:
-      213: 5074331177317075553
-    second: PC Computer - Uandertale - Undyne_4
-  - first:
-      213: 4280837862501250628
-    second: PC Computer - Uandertale - Undyne_5
-  - first:
-      213: 3918801807084289507
-    second: PC Computer - Uandertale - Undyne_6
-  - first:
-      213: -8982925741532432965
-    second: PC Computer - Uandertale - Undyne_7
-  - first:
-      213: -322771603302145881
-    second: PC Computer - Uandertale - Undyne_8
-  - first:
-      213: 4007402987198353814
-    second: PC Computer - Uandertale - Undyne_9
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -51,7 +24,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -84,7 +57,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 7
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -128,10 +101,10 @@ TextureImporter:
       name: PC Computer - Uandertale - Undyne_0
       rect:
         serializedVersion: 2
-        x: 6
+        x: 5
         y: 0
-        width: 6
-        height: 50
+        width: 8
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,199 +118,10 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: PC Computer - Uandertale - Undyne_1
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 7
-        width: 6
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb0459b833afff170800000000000000
-      internalID: 8214559344639164607
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - Uandertale - Undyne_2
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 44
-        width: 50
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b753a91dc6ec05f0800000000000000
-      internalID: -789002066123860042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - Uandertale - Undyne_3
-      rect:
-        serializedVersion: 2
-        x: 94
-        y: 32
-        width: 19
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f0352e8dd0066d10800000000000000
-      internalID: 2118381626296971513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - Uandertale - Undyne_4
-      rect:
-        serializedVersion: 2
-        x: 118
-        y: 32
-        width: 19
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16a8ca02255ab6640800000000000000
-      internalID: 5074331177317075553
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - Uandertale - Undyne_5
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 33
-        width: 17
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 446fd67ea57986b30800000000000000
-      internalID: 4280837862501250628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - Uandertale - Undyne_6
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 32
-        width: 19
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3edfa681b71626630800000000000000
-      internalID: 3918801807084289507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - Uandertale - Undyne_7
-      rect:
-        serializedVersion: 2
-        x: 190
-        y: 36
-        width: 20
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb53f34b1ac365380800000000000000
-      internalID: -8982925741532432965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - Uandertale - Undyne_8
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 31
-        width: 50
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a0a799dfe8458bf0800000000000000
-      internalID: -322771603302145881
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - Uandertale - Undyne_9
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 19
-        width: 52
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6911cc3e8c72d9730800000000000000
-      internalID: 4007402987198353814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 9670c5b97945e5147b15272cf524e33a
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -346,15 +130,6 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       PC Computer - Uandertale - Undyne_0: -1715607738478747781
-      PC Computer - Uandertale - Undyne_1: 8214559344639164607
-      PC Computer - Uandertale - Undyne_2: -789002066123860042
-      PC Computer - Uandertale - Undyne_3: 2118381626296971513
-      PC Computer - Uandertale - Undyne_4: 5074331177317075553
-      PC Computer - Uandertale - Undyne_5: 4280837862501250628
-      PC Computer - Uandertale - Undyne_6: 3918801807084289507
-      PC Computer - Uandertale - Undyne_7: -8982925741532432965
-      PC Computer - Uandertale - Undyne_8: -322771603302145881
-      PC Computer - Uandertale - Undyne_9: 4007402987198353814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

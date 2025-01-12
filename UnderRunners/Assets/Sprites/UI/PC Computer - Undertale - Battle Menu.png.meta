@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: eb3afde13c53be244a19c57125718d0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4878484220754367754
+    second: PC Computer - Undertale - Battle Menu_0
+  - first:
+      213: -8271218289963560660
+    second: PC Computer - Undertale - Battle Menu_1
+  - first:
+      213: -6232596266878361625
+    second: PC Computer - Undertale - Battle Menu_2
+  - first:
+      213: 7402700448568649241
+    second: PC Computer - Undertale - Battle Menu_3
+  - first:
+      213: -9212615163326342468
+    second: PC Computer - Undertale - Battle Menu_4
+  - first:
+      213: 3234672090886785228
+    second: PC Computer - Undertale - Battle Menu_5
+  - first:
+      213: 3124499312718961284
+    second: PC Computer - Undertale - Battle Menu_6
+  - first:
+      213: -423406873356073569
+    second: PC Computer - Undertale - Battle Menu_7
+  - first:
+      213: -6598089581837105538
+    second: PC Computer - Undertale - Battle Menu_8
+  - first:
+      213: 3407817211910739503
+    second: PC Computer - Undertale - Battle Menu_9
+  - first:
+      213: 4248952030523530696
+    second: PC Computer - Undertale - Battle Menu_10
+  - first:
+      213: -7146055740159178455
+    second: PC Computer - Undertale - Battle Menu_11
+  - first:
+      213: 2825647487130011869
+    second: PC Computer - Undertale - Battle Menu_12
+  - first:
+      213: 8782103572887964084
+    second: PC Computer - Undertale - Battle Menu_13
+  - first:
+      213: 739294864594714741
+    second: PC Computer - Undertale - Battle Menu_14
+  - first:
+      213: -2000895978545368396
+    second: PC Computer - Undertale - Battle Menu_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 358
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa6693d2742c4cb0800000000000000
+      internalID: -4878484220754367754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 357
+        width: 114
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21120fb9cab63d80800000000000000
+      internalID: -8271218289963560660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 311
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef1a4c87be5189a0800000000000000
+      internalID: -6232596266878361625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 310
+        width: 114
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9162f8736dcabb660800000000000000
+      internalID: 7402700448568649241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 256
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba5e89c157362080800000000000000
+      internalID: -9212615163326342468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 256
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc84d2ee02dd3ec20800000000000000
+      internalID: 3234672090886785228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 209
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ad09312937c5b20800000000000000
+      internalID: 3124499312718961284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 209
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95072621b1cf1af0800000000000000
+      internalID: -423406873356073569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 155
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76c466cb70ee64a0800000000000000
+      internalID: -6598089581837105538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 155
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26d667e2bffa4f20800000000000000
+      internalID: 3407817211910739503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd970f1c5f47fa30800000000000000
+      internalID: 4248952030523530696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 108
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929cbae6a2c14dc90800000000000000
+      internalID: -7146055740159178455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 54
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd80cda2b67b63720800000000000000
+      internalID: 2825647487130011869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 54
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b90da28bac40e970800000000000000
+      internalID: 8782103572887964084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570407c23c0824a00800000000000000
+      internalID: 739294864594714741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Battle Menu_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2bb4e65b36b34e0800000000000000
+      internalID: -2000895978545368396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Undertale - Battle Menu_0: -4878484220754367754
+      PC Computer - Undertale - Battle Menu_1: -8271218289963560660
+      PC Computer - Undertale - Battle Menu_10: 4248952030523530696
+      PC Computer - Undertale - Battle Menu_11: -7146055740159178455
+      PC Computer - Undertale - Battle Menu_12: 2825647487130011869
+      PC Computer - Undertale - Battle Menu_13: 8782103572887964084
+      PC Computer - Undertale - Battle Menu_14: 739294864594714741
+      PC Computer - Undertale - Battle Menu_15: -2000895978545368396
+      PC Computer - Undertale - Battle Menu_2: -6232596266878361625
+      PC Computer - Undertale - Battle Menu_3: 7402700448568649241
+      PC Computer - Undertale - Battle Menu_4: -9212615163326342468
+      PC Computer - Undertale - Battle Menu_5: 3234672090886785228
+      PC Computer - Undertale - Battle Menu_6: 3124499312718961284
+      PC Computer - Undertale - Battle Menu_7: -423406873356073569
+      PC Computer - Undertale - Battle Menu_8: -6598089581837105538
+      PC Computer - Undertale - Battle Menu_9: 3407817211910739503
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,42 +1,54 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
     // Stats
+    public Sprite image;
     public string playerName;
     public int health;
     public int currentHealth;
     public int attack;
     public int currentAttack;
-    
+    public int coldown;
+    public int currentColdown;
+    //-----------------
     public bool hasRuby = false;
     public bool isTurn = false;
+    public bool isUsingHab = false;
+    public float habDuration=1.0f;
+    public bool stun = false;
     public int puntuation=0;
-    public Ability uniqueAbility;
 
     // Movement
     public float speedMovement = 5f;
     public float currentSpeed;
     private Vector2 _movement;
     private Rigidbody2D rb;
-    private SpriteRenderer sr;
+    public SpriteRenderer sr;
 
     // Animator
-    private Animator animator;
+    public Animator animator;
 
-    private TurnOf turnOf;
+    public TurnOf turnOf;
     private Pencil pencil;
     public Vector2 respawnPoint;
+    //Attack
+    public List<Player> playersToAttack = new List<Player>();
+    public bool friskCopy=false;
 
     void Awake(){
+
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+
         currentHealth=health;
         currentAttack=attack;
         currentSpeed=speedMovement;
+        currentColdown=0;
     }
 
     void Start(){
@@ -46,7 +58,7 @@ public class Player : MonoBehaviour
     void Update()
     {
         // Solo permitir movimiento si es el turno del jugador
-        if (isTurn)
+        if (isTurn && !isUsingHab)
         {
             // Movimiento
             float moveHorizontal = Input.GetAxis("Horizontal");
@@ -96,22 +108,35 @@ public class Player : MonoBehaviour
         sr.sortingOrder = (int)rb.position.y * -1;
     }
 
-    public void TakeDamage(int damage)
+    public virtual void TakeDamage(int damage)
     {
         currentHealth -= damage;
+        if(currentHealth < 0) currentHealth=0;
+        turnOf.UpdateUI();
         if (currentHealth <= 0)
         {
             StartCoroutine(Die());
+        } else{
+            StartCoroutine(DamageEffect());
         }
+    }
+
+    private IEnumerator DamageEffect()
+    {
+        Color originalColor = sr.color;
+        sr.color = Color.red;
+        yield return new WaitForSeconds(0.5f);
+        sr.color = originalColor;
     }
 
     private IEnumerator Die()
     {
+        stun=false;
         bool wasTurn=isTurn;
         isTurn=false;
         animator.SetBool("ExcludeDead",false);
         animator.SetTrigger("Dead"); 
-        yield return new WaitForSeconds(0.8f);
+        yield return new WaitForSeconds(0.6f);
         if(wasTurn){
             turnOf.NextTurn();
         }
@@ -121,7 +146,7 @@ public class Player : MonoBehaviour
         if(hasRuby){
             hasRuby=false;
             pencil.InstantiateRuby(pencil.rubyRespawnPoint);
-        }
+        }  
     }
 
     public void Respawn()
@@ -134,5 +159,62 @@ public class Player : MonoBehaviour
         currentAttack = attack;
         currentSpeed = speedMovement; 
         transform.localScale= new Vector3(1,1,1);
+    }
+
+    public virtual void ActiveHab()
+    {
+        Debug.Log("Habilidad no definida para este jugador.");
+    }
+    public virtual void ActivateSkillOnPath(Vector3 targetPosition)
+    {
+        Debug.Log("Habilidad no definida para este jugador.");
+    }
+
+    public virtual void UseHab(){
+        currentColdown=coldown;
+        turnOf.coldown.text = currentColdown.ToString();
+        turnOf.habButton.interactable=false;
+        StartCoroutine(UseHabEffect());
+    }
+
+    public IEnumerator UseHabEffect()
+    {
+        isUsingHab = true;
+        animator.SetBool("IsWalking", false);
+        animator.SetInteger("WalkDirection", 1); // Abajo
+        yield return new WaitForSeconds(habDuration); // Tiempo que tarda la habilidad en ejecutarse
+        isUsingHab = false; // Reactiva el movimiento
+    }
+
+    private void OnTriggerEnter2D(Collider2D someone){
+        if (someone.CompareTag("Player")){   
+            Player player = someone.GetComponent<Player>();
+            if (!playersToAttack.Contains(player))
+            {
+                playersToAttack.Add(player);
+                turnOf.attackButton.interactable = true;
+            }
+        }
+        if (someone.CompareTag("FriskCopy")){ 
+            Debug.Log("DETECTADO");   
+            friskCopy=true;
+            turnOf.attackButton.interactable = true;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D someone){
+        if (someone.CompareTag("Player")){    
+            Player player = someone.GetComponent<Player>();
+            if (playersToAttack.Contains(player))
+            {
+                playersToAttack.Remove(player);
+                turnOf.attackButton.interactable = playersToAttack.Count > 0;
+            }
+        }
+        if (someone.CompareTag("FriskCopy")){  
+            Debug.Log("DETECTADO Salida");  
+            friskCopy=false;
+            turnOf.attackButton.interactable = friskCopy || playersToAttack.Count > 0;
+        }
     }
 }

@@ -13,6 +13,9 @@ public class InitialScreenManager : MonoBehaviour
 
     private bool transitioning = false;
 
+    void Start(){
+        Time.timeScale = 1f;
+    }
     void Update()
     {
         if (!transitioning && Input.anyKeyDown)
@@ -52,7 +55,6 @@ public class InitialScreenManager : MonoBehaviour
         }
         initialCanvas.alpha = 0;
         initialCanvas.gameObject.SetActive(false);
-
 
         menuCanvas.gameObject.SetActive(true);
         opcionesDeEmpezar.SetActive(false);

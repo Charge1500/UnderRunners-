@@ -10,5 +10,15 @@ public class Alphys : Player
     this.attack=4;
     this.speedMovement=2;
     this.isTurn=false;
+    this.coldown=3;
+    }
+
+    public GameObject stunWave;
+
+    public override void ActiveHab(){
+        if(currentColdown==0){
+            stunWave.SetActive(true);
+            this.UseHab();
+        }
     }
 }

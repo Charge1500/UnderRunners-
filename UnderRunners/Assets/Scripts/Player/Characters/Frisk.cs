@@ -9,5 +9,17 @@ public class Frisk : Player
     this.health=6;
     this.attack=4;
     this.speedMovement=4; 
+    this.coldown=4;
+    }
+
+    public GameObject copyFrisk;
+    public GameObject habEffect;
+
+    public override void ActiveHab(){
+        if(currentColdown==0){
+            copyFrisk.SetActive(true);
+            habEffect.SetActive(true);
+            this.UseHab();
+        }
     }
 }

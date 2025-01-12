@@ -1,11 +1,23 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using TMPro;
 
 public class TurnOf : MonoBehaviour
 {
+    //Interfaz
+    public Image image;
+    public TextMeshProUGUI playerName;
+    public TextMeshProUGUI health;
+    public TextMeshProUGUI attack;
+    public TextMeshProUGUI speed;
+    public TextMeshProUGUI coldown;
+    public TextMeshProUGUI puntuation;
+    //---------------------------------
     private Pencil pencil;
+    public Button habButton;
+    public Button attackButton;
     public List<Player> turns = new List<Player>();
     public int currentTurnIndex = 0;
     public float turnDuration = 10f; // Duración del turno en segundos
@@ -13,23 +25,57 @@ public class TurnOf : MonoBehaviour
     public TMP_Text turnTimerText; // Referencia al texto de UI para el temporizador
 
     public int puntuationToWin=5;
+    public bool gameEnded = false;
+    public bool isWaitingForAbilityClick = false;
+    public GameObject winScreen;
+    public TextMeshProUGUI winPlayer;
+    public Animator floweyAnimator;
+    // Cursor personalizado
+    public Texture2D abilityCursor; // Arrastra tu textura personalizada aquí
+    public Vector2 abilityCursorHotspot;// Punto de anclaje
+    private Texture2D defaultCursor; // Para guardar el cursor por defecto
+    // Cámara
+    public Camera mainCamera;
+    public float cameraFollowSpeed = 5f;
+    public float cameraZoom = 10f;
+    private float originalCameraZoom;
 
     void Awake()
     {
         pencil = GetComponent<Pencil>();
+        defaultCursor = null;
+
+        abilityCursorHotspot = new Vector2(abilityCursor.width / 2, abilityCursor.height); // Punto de anclaje
     }
     void Start(){
         turnDuration=GameData.Instance.turnTime;
+        originalCameraZoom = mainCamera.orthographicSize;
     }
     void Update(){
-        if (turnTimer > 0)
-        {
-            turnTimer -= Time.deltaTime; // Reducir el temporizador en función del tiempo transcurrido
-            turnTimerText.text = Mathf.Ceil(turnTimer).ToString(); // Actualizar el texto del temporizador solo con los segundos
-        }else
-        {
-            NextTurn();
+        if(!turns[currentTurnIndex].isUsingHab){
+            if (turnTimer > 0)
+            {
+                turnTimer -= Time.deltaTime; // Reducir el temporizador en función del tiempo transcurrido
+                turnTimerText.text = Mathf.Ceil(turnTimer).ToString(); // Actualizar el texto del temporizador solo con los segundos
+            }else
+            {
+                NextTurn();
+            }
         }
+        if (isWaitingForAbilityClick)
+        {
+            Cursor.SetCursor(abilityCursor, abilityCursorHotspot, CursorMode.Auto);
+            if (Input.GetMouseButtonDown(0))
+            {
+                HandleAbilityClick();
+            }
+        }
+        else
+        {
+            Cursor.SetCursor(defaultCursor, Vector2.zero, CursorMode.Auto);
+        }
+        // Seguir al jugador actual con la cámara
+        FollowCurrentPlayer();
     }
     public void AssignPlayerOrder()
     {
@@ -58,8 +104,18 @@ public class TurnOf : MonoBehaviour
 
     public void StartTurn()
     {
-        turns[currentTurnIndex].isTurn = true; // Comienza el turno del primer jugador
-        turnTimer = turnDuration; // Restablecer el temporizador
+        if(!turns[currentTurnIndex].stun){
+            
+            UpdateUI();
+
+            turns[currentTurnIndex].isTurn = true; // Comienza el turno del primer jugador
+            attackButton.interactable = turns[currentTurnIndex].playersToAttack.Count > 0;
+            turnTimer = turnDuration; // Restablecer el temporizador
+            UpdateHabButton();
+        } else{
+            turns[currentTurnIndex].stun = false;
+            NextTurn();
+        }
     }
 
 
@@ -68,10 +124,26 @@ public class TurnOf : MonoBehaviour
         CheckWin();
         turns[currentTurnIndex].isTurn = false; // Termina el turno del jugador actual
         turns[currentTurnIndex].RestoreOriginalStats();
+        isWaitingForAbilityClick=false;
         currentTurnIndex = (currentTurnIndex + 1) % turns.Count; // Pasa al siguiente jugador
+        if(turns[currentTurnIndex].currentColdown > 0) turns[currentTurnIndex].currentColdown--;
+        habButton.interactable =(turns[currentTurnIndex].currentColdown == 0) ?  true : false;
+        ResetCameraZoom(); // Restaurar el zoom de la cámara antes de iniciar el siguiente turno
         StartTurn(); // Comienza el turno del siguiente jugador
     }
 
+    private void FollowCurrentPlayer(){
+        Player currentPlayer = turns[currentTurnIndex];
+        Vector3 targetPosition = new Vector3(currentPlayer.transform.position.x, currentPlayer.transform.position.y, -10);
+        mainCamera.transform.position = Vector3.Lerp(mainCamera.transform.position, targetPosition, Time.deltaTime * cameraFollowSpeed);
+
+        // Ajustar el zoom
+        mainCamera.orthographicSize = Mathf.Lerp(mainCamera.orthographicSize, cameraZoom, Time.deltaTime * cameraFollowSpeed);
+    }
+
+    private void ResetCameraZoom(){
+        mainCamera.orthographicSize = Mathf.Lerp(mainCamera.orthographicSize, originalCameraZoom, Time.deltaTime * cameraFollowSpeed);
+    }
     public void IncreaseTurnTime(float additionalTime){ 
         turnTimer += additionalTime; 
     }
@@ -79,8 +151,58 @@ public class TurnOf : MonoBehaviour
         if(turns[currentTurnIndex].hasRuby){
             turns[currentTurnIndex].puntuation+=1;
         }
-        if(turns[currentTurnIndex].puntuation==puntuationToWin){
-            Debug.Log("You Win");
+        if(turns[currentTurnIndex].puntuation==puntuationToWin){       
+            winScreen.SetActive(true);
+            gameEnded=true;
+            winPlayer.text = $"{turns[currentTurnIndex].playerName} wins!";
+        }
+    }
+
+    private void HandleAbilityClick()
+    {
+        Vector2 worldPoint = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        RaycastHit2D hit = Physics2D.Raycast(worldPoint, Vector2.zero);
+
+        if (hit.collider != null && hit.collider.CompareTag("Path"))
+        {
+            Debug.Log("Camino seleccionado: " + hit.collider.name);
+            turns[currentTurnIndex].ActivateSkillOnPath(hit.collider.transform.position);
+        }
+        else
+        {
+            Debug.Log("No es un camino válido.");
+        }
+
+        isWaitingForAbilityClick = false; // Desactivar modo habilidad
+    }
+
+
+    private void UpdateHabButton()
+    {
+        habButton.onClick.RemoveAllListeners();
+        habButton.onClick.AddListener(turns[currentTurnIndex].ActiveHab);
+    }
+
+    public void UpdateUI(){
+        image.sprite = turns[currentTurnIndex].image;
+        playerName.text = turns[currentTurnIndex].playerName;
+        health.text = turns[currentTurnIndex].currentHealth.ToString();
+        attack.text = turns[currentTurnIndex].currentAttack.ToString();
+        speed.text = turns[currentTurnIndex].currentSpeed.ToString();
+        coldown.text = turns[currentTurnIndex].currentColdown.ToString();
+        puntuation.text = turns[currentTurnIndex].puntuation.ToString();
+        floweyAnimator.SetInteger("Puntuation", turns[currentTurnIndex].puntuation);
+    }
+
+    public void Attack(){
+        for (int i = 0; i < turns[currentTurnIndex].playersToAttack.Count; i++){
+            Player currentPlayer = turns[currentTurnIndex].playersToAttack[i];
+            currentPlayer.TakeDamage(turns[currentTurnIndex].currentAttack);
+            attackButton.interactable = turns[currentTurnIndex].friskCopy;
+        }
+        if(turns[currentTurnIndex].friskCopy){
+            turns[currentTurnIndex].TakeDamage(turns[currentTurnIndex].currentAttack);
+            attackButton.interactable = false;
         }
     }
 }

@@ -157,6 +157,9 @@ public class MenuEmpezar : MonoBehaviour
         GameData.Instance.turnTime = secTime;
         UnityEngine.SceneManagement.SceneManager.LoadScene("SampleScene");
     }
+    public void Salir(){
+        Application.Quit();
+    }
 
     public void SeleccionarFrisk(){
         selectedPlayers[numeroDeJugadorSeleccionado]=prefabsPlayers[0];
@@ -292,7 +295,6 @@ public class MenuEmpezar : MonoBehaviour
         for(int i=0;i<3;i++){
             if(selectedPlayersButtons[index].interactable){
                 return index;
-                break;
             } else{
                 if(index==0){
                     index=6;
@@ -308,7 +310,6 @@ public class MenuEmpezar : MonoBehaviour
         for(int i=0;i<3;i++){
             if(selectedPlayersButtons[index].interactable){
                 return index;
-                break;
             } else{
                 if(index==6){
                     index=0;

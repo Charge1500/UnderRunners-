@@ -21,5 +21,12 @@ public class GameData : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    public void ResetData()
+    {
+        selectedPlayers = null; // Reinicia jugadores seleccionados
+        turnTime = 0;           // Reinicia el tiempo de turno
+    }
+
 }
 
