@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 394665021192514584}
   m_Layer: 0
   m_Name: BearTrap
-  m_TagString: Untagged
+  m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -143,8 +143,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.008230209}
-  m_Radius: 0.13752079
+  m_Offset: {x: -0.005049944, y: 0.018330157}
+  m_Radius: 0.24356955
 --- !u!114 &394665021192514584
 MonoBehaviour:
   m_ObjectHideFlags: 0

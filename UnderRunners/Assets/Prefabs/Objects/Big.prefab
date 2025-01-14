@@ -99,6 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4606bba2ee896b549bbd1f709830ca11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  turnOf: {fileID: 0}
   health: 1.5
   scale: 2
   attack: 1.5
@@ -172,7 +173,7 @@ GameObject:
   - component: {fileID: 7425312567613082240}
   m_Layer: 0
   m_Name: Big
-  m_TagString: Untagged
+  m_TagString: Object
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

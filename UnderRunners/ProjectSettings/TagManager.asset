@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Path
   - FriskCopy
+  - Object
+  - Trap
+  - UI
   layers:
   - Default
   - TransparentFX

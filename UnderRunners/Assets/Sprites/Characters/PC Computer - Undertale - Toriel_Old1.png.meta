@@ -575,10 +575,10 @@ TextureImporter:
       name: PC Computer - Undertale - Toriel_Old1_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 241
-        width: 59
-        height: 61
+        x: 1
+        y: 245
+        width: 67
+        height: 57
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,10 +596,10 @@ TextureImporter:
       name: PC Computer - Undertale - Toriel_Old1_1
       rect:
         serializedVersion: 2
-        x: 70
-        y: 240
-        width: 59
-        height: 62
+        x: 68
+        y: 245
+        width: 66
+        height: 57
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -790,7 +790,7 @@ TextureImporter:
         width: 47
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -811,7 +811,7 @@ TextureImporter:
         width: 49
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -832,7 +832,7 @@ TextureImporter:
         width: 49
         height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -853,7 +853,7 @@ TextureImporter:
         width: 50
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -869,12 +869,12 @@ TextureImporter:
       name: PC Computer - Undertale - Toriel_Old1_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 321
-        width: 52
-        height: 55
+        x: 4
+        y: 322
+        width: 46
+        height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -890,12 +890,12 @@ TextureImporter:
       name: PC Computer - Undertale - Toriel_Old1_15
       rect:
         serializedVersion: 2
-        x: 53
-        y: 320
-        width: 51
-        height: 56
+        x: 55
+        y: 322
+        width: 46
+        height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -911,12 +911,12 @@ TextureImporter:
       name: PC Computer - Undertale - Toriel_Old1_16
       rect:
         serializedVersion: 2
-        x: 103
-        y: 321
-        width: 51
-        height: 56
+        x: 106
+        y: 322
+        width: 46
+        height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -932,12 +932,12 @@ TextureImporter:
       name: PC Computer - Undertale - Toriel_Old1_17
       rect:
         serializedVersion: 2
-        x: 153
-        y: 320
-        width: 54
-        height: 59
+        x: 157
+        y: 322
+        width: 46
+        height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

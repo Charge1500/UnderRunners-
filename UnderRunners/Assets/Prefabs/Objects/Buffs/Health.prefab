@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3006203850780469158}
   m_Layer: 0
   m_Name: Health
-  m_TagString: Untagged
+  m_TagString: Object
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121,6 +121,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ab70284be1fd5041819e686f8c54fea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  turnOf: {fileID: 0}
   addHealth: 2
 --- !u!58 &3006203850780469158
 CircleCollider2D:

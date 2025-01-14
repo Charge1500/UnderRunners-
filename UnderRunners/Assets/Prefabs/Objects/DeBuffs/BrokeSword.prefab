@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 837873891733552841}
   m_Layer: 0
   m_Name: BrokeSword
-  m_TagString: Untagged
+  m_TagString: Object
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -153,6 +153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9bf1d075eee8f194cbef760bef35e1b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  turnOf: {fileID: 0}
   attack: -3
 --- !u!58 &5577662066873864026
 CircleCollider2D:

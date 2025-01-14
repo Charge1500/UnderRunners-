@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class Player : MonoBehaviour
 {
     // Stats
+    public Sprite imageDialogDefault;
     public Sprite image;
     public string playerName;
     public int health;
@@ -98,6 +99,10 @@ public class Player : MonoBehaviour
         {
             _movement = Vector2.zero;
             animator.SetBool("IsWalking", false); // Detener la animación de caminar
+        }
+        if(currentHealth<0){
+            currentHealth = 0;
+            turnOf.UpdateUI();
         }
     }
 

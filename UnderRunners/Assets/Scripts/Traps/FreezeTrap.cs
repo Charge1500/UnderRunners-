@@ -23,6 +23,7 @@ public class FreezeTrap : Traps
             turnOf.NextTurn();
 
         } else{
+            yield return new WaitForSeconds(0.8f);
             animator.SetTrigger("Off");
         }
     }

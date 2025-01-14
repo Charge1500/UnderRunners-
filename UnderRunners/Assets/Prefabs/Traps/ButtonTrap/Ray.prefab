@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1597926593439284833}
   m_Layer: 0
   m_Name: Ray
-  m_TagString: Untagged
+  m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -111,7 +111,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1419127903
-  m_SortingLayer: 4
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -158,5 +158,5 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.024072409, y: 0.1755774}
-  m_Radius: 0.43021846
+  m_Offset: {x: 0.024072409, y: 0.028829098}
+  m_Radius: 0.52805066

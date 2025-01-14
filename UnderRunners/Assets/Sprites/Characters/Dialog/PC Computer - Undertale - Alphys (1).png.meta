@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: 2aec5ddcf1bb8554faf480ed24abe00b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6581530764636532731
+    second: PC Computer - Undertale - Alphys (1)_0
+  - first:
+      213: -7432236359850156636
+    second: PC Computer - Undertale - Alphys (1)_1
+  - first:
+      213: -6821264890330474188
+    second: PC Computer - Undertale - Alphys (1)_2
+  - first:
+      213: -4868775010594497824
+    second: PC Computer - Undertale - Alphys (1)_3
+  - first:
+      213: -8899863643240521933
+    second: PC Computer - Undertale - Alphys (1)_4
+  - first:
+      213: 3378467618510563219
+    second: PC Computer - Undertale - Alphys (1)_5
+  - first:
+      213: 2290578171921929365
+    second: PC Computer - Undertale - Alphys (1)_6
+  - first:
+      213: 6303051639023904856
+    second: PC Computer - Undertale - Alphys (1)_7
+  - first:
+      213: -7436808008502276060
+    second: PC Computer - Undertale - Alphys (1)_8
+  - first:
+      213: -4427234802512034473
+    second: PC Computer - Undertale - Alphys (1)_9
+  - first:
+      213: -639471309657946716
+    second: PC Computer - Undertale - Alphys (1)_10
+  - first:
+      213: 4843295022389821986
+    second: PC Computer - Undertale - Alphys (1)_11
+  - first:
+      213: 4916650407849980575
+    second: PC Computer - Undertale - Alphys (1)_12
+  - first:
+      213: -8608959955484895228
+    second: PC Computer - Undertale - Alphys (1)_13
+  - first:
+      213: 40245585198002110
+    second: PC Computer - Undertale - Alphys (1)_14
+  - first:
+      213: 868534598716871604
+    second: PC Computer - Undertale - Alphys (1)_15
+  - first:
+      213: -2143124594566250189
+    second: PC Computer - Undertale - Alphys (1)_16
+  - first:
+      213: -597865139632615744
+    second: PC Computer - Undertale - Alphys (1)_17
+  - first:
+      213: 7134394585883898551
+    second: PC Computer - Undertale - Alphys (1)_18
+  - first:
+      213: -1519746398865654037
+    second: PC Computer - Undertale - Alphys (1)_19
+  - first:
+      213: -4410572289833063921
+    second: PC Computer - Undertale - Alphys (1)_20
+  - first:
+      213: -6701619067406284240
+    second: PC Computer - Undertale - Alphys (1)_21
+  - first:
+      213: -6516070098200719266
+    second: PC Computer - Undertale - Alphys (1)_22
+  - first:
+      213: 9187701621401390007
+    second: PC Computer - Undertale - Alphys (1)_23
+  - first:
+      213: 2578787574103060454
+    second: PC Computer - Undertale - Alphys (1)_24
+  - first:
+      213: 6461776731719714964
+    second: PC Computer - Undertale - Alphys (1)_25
+  - first:
+      213: -8222978777076326749
+    second: PC Computer - Undertale - Alphys (1)_26
+  - first:
+      213: -5366474500323648189
+    second: PC Computer - Undertale - Alphys (1)_27
+  - first:
+      213: -1123457603126069085
+    second: PC Computer - Undertale - Alphys (1)_28
+  - first:
+      213: 8121100121709585668
+    second: PC Computer - Undertale - Alphys (1)_29
+  - first:
+      213: -5215828952994995252
+    second: PC Computer - Undertale - Alphys (1)_30
+  - first:
+      213: 36906069280828642
+    second: PC Computer - Undertale - Alphys (1)_31
+  - first:
+      213: 5591226274703379648
+    second: PC Computer - Undertale - Alphys (1)_32
+  - first:
+      213: -3882609308475734684
+    second: PC Computer - Undertale - Alphys (1)_33
+  - first:
+      213: -211125217737617843
+    second: PC Computer - Undertale - Alphys (1)_34
+  - first:
+      213: -4628947577254743482
+    second: PC Computer - Undertale - Alphys (1)_35
+  - first:
+      213: -8273514372555495858
+    second: PC Computer - Undertale - Alphys (1)_36
+  - first:
+      213: 7697483301279916283
+    second: PC Computer - Undertale - Alphys (1)_37
+  - first:
+      213: -7693691520298755075
+    second: PC Computer - Undertale - Alphys (1)_38
+  - first:
+      213: 3854216157385000985
+    second: PC Computer - Undertale - Alphys (1)_39
+  - first:
+      213: -4194765939718893467
+    second: PC Computer - Undertale - Alphys (1)_40
+  - first:
+      213: 2141121411136334555
+    second: PC Computer - Undertale - Alphys (1)_41
+  - first:
+      213: -3469421173295386813
+    second: PC Computer - Undertale - Alphys (1)_42
+  - first:
+      213: 6048211558685192709
+    second: PC Computer - Undertale - Alphys (1)_43
+  - first:
+      213: -6339614237368668692
+    second: PC Computer - Undertale - Alphys (1)_44
+  - first:
+      213: 8261039380291346539
+    second: PC Computer - Undertale - Alphys (1)_45
+  - first:
+      213: -130774630328055238
+    second: PC Computer - Undertale - Alphys (1)_46
+  - first:
+      213: -3909422264517418079
+    second: PC Computer - Undertale - Alphys (1)_47
+  - first:
+      213: 4831434231860223310
+    second: PC Computer - Undertale - Alphys (1)_48
+  - first:
+      213: -5676569542347615893
+    second: PC Computer - Undertale - Alphys (1)_49
+  - first:
+      213: 4219196313540045904
+    second: PC Computer - Undertale - Alphys (1)_50
+  - first:
+      213: 3846853131892958115
+    second: PC Computer - Undertale - Alphys (1)_51
+  - first:
+      213: -824214964571019177
+    second: PC Computer - Undertale - Alphys (1)_52
+  - first:
+      213: 3478666506335607562
+    second: PC Computer - Undertale - Alphys (1)_53
+  - first:
+      213: 3410766332421716836
+    second: PC Computer - Undertale - Alphys (1)_54
+  - first:
+      213: -6731241903707472743
+    second: PC Computer - Undertale - Alphys (1)_55
+  - first:
+      213: 528681032160005796
+    second: PC Computer - Undertale - Alphys (1)_56
+  - first:
+      213: 1775103500555815352
+    second: PC Computer - Undertale - Alphys (1)_57
+  - first:
+      213: -1937222195109045564
+    second: PC Computer - Undertale - Alphys (1)_58
+  - first:
+      213: 4464447189072446184
+    second: PC Computer - Undertale - Alphys (1)_59
+  - first:
+      213: -845224762395654262
+    second: PC Computer - Undertale - Alphys (1)_60
+  - first:
+      213: 6536943314376251758
+    second: PC Computer - Undertale - Alphys (1)_61
+  - first:
+      213: -7131512955873390192
+    second: PC Computer - Undertale - Alphys (1)_62
+  - first:
+      213: -3690718967708949822
+    second: PC Computer - Undertale - Alphys (1)_63
+  - first:
+      213: 8796396378137437752
+    second: PC Computer - Undertale - Alphys (1)_64
+  - first:
+      213: 1819885082431858346
+    second: PC Computer - Undertale - Alphys (1)_65
+  - first:
+      213: 4722728233818054022
+    second: PC Computer - Undertale - Alphys (1)_66
+  - first:
+      213: 3437169455140948401
+    second: PC Computer - Undertale - Alphys (1)_67
+  - first:
+      213: -1420143753352405181
+    second: PC Computer - Undertale - Alphys (1)_68
+  - first:
+      213: -3725630229442065640
+    second: PC Computer - Undertale - Alphys (1)_69
+  - first:
+      213: -5570857835328985999
+    second: PC Computer - Undertale - Alphys (1)_70
+  - first:
+      213: -5879446118181212896
+    second: PC Computer - Undertale - Alphys (1)_71
+  - first:
+      213: -8320561926790776253
+    second: PC Computer - Undertale - Alphys (1)_72
+  - first:
+      213: -5033411275587122521
+    second: PC Computer - Undertale - Alphys (1)_73
+  - first:
+      213: -6409742322313492338
+    second: PC Computer - Undertale - Alphys (1)_74
+  - first:
+      213: 2638527708258669849
+    second: PC Computer - Undertale - Alphys (1)_75
+  - first:
+      213: -6359986481877111409
+    second: PC Computer - Undertale - Alphys (1)_76
+  - first:
+      213: -2847236373996254176
+    second: PC Computer - Undertale - Alphys (1)_77
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 342
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff27782c5b465b50800000000000000
+      internalID: 6581530764636532731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 342
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad936c88646bd890800000000000000
+      internalID: -7432236359850156636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 342
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439120d09bff551a0800000000000000
+      internalID: -6821264890330474188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 342
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea573a7ce2ae6cb0800000000000000
+      internalID: -4868775010594497824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 342
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f1c338b255d7480800000000000000
+      internalID: -8899863643240521933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 343
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3976b7e266ab2ee20800000000000000
+      internalID: 3378467618510563219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 343
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5949bab16b4c9cf10800000000000000
+      internalID: 2290578171921929365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 294
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858a6f81210f87750800000000000000
+      internalID: 6303051639023904856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 343
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4201176a4862bc890800000000000000
+      internalID: -7436808008502276060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 294
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7550603576d4f82c0800000000000000
+      internalID: -4427234802512034473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 343
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5c8cf5b342027f0800000000000000
+      internalID: -639471309657946716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 343
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22286f77927d63340800000000000000
+      internalID: 4843295022389821986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 343
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f927da41f737b3440800000000000000
+      internalID: 4916650407849980575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 295
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40892cf5884d68880800000000000000
+      internalID: -8608959955484895228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 343
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf2181852bfe8000800000000000000
+      internalID: 40245585198002110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_15
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 343
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d7a7ad97ad0c00800000000000000
+      internalID: 868534598716871604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_16
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 295
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331c97739871242e0800000000000000
+      internalID: -2143124594566250189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 293
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cecb98b2d4f3b7f0800000000000000
+      internalID: -597865139632615744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_18
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 293
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b274138316720360800000000000000
+      internalID: 7134394585883898551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 244
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beefee2c3b6c8eae0800000000000000
+      internalID: -1519746398865654037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 245
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0aa150eedf7ac2c0800000000000000
+      internalID: -4410572289833063921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 245
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a834307f01ff2a0800000000000000
+      internalID: -6701619067406284240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 247
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e509331f4c44295a0800000000000000
+      internalID: -6516070098200719266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 196
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560d5274a9239c5c0800000000000000
+      internalID: -4194765939718893467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_41
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 196
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaa3cb449ac6bd10800000000000000
+      internalID: 2141121411136334555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 147
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3af66d921feb9c0800000000000000
+      internalID: -3909422264517418079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 147
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dd0b9f5d3bc0340800000000000000
+      internalID: 4831434231860223310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_74
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8887b071550c07a0800000000000000
+      internalID: -6409742322313492338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_75
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 98
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91598cc98feed9420800000000000000
+      internalID: 2638527708258669849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_76
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 49
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dad6bcdf9ccb7a0800000000000000
+      internalID: -6359986481877111409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Alphys (1)_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cc1686a959c78d0800000000000000
+      internalID: -2847236373996254176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c8f58ebf9d9f2314485bfd6bd8dd8bcf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Undertale - Alphys (1)_0: 6581530764636532731
+      PC Computer - Undertale - Alphys (1)_1: -7432236359850156636
+      PC Computer - Undertale - Alphys (1)_10: -639471309657946716
+      PC Computer - Undertale - Alphys (1)_11: 4843295022389821986
+      PC Computer - Undertale - Alphys (1)_12: 4916650407849980575
+      PC Computer - Undertale - Alphys (1)_13: -8608959955484895228
+      PC Computer - Undertale - Alphys (1)_14: 40245585198002110
+      PC Computer - Undertale - Alphys (1)_15: 868534598716871604
+      PC Computer - Undertale - Alphys (1)_16: -2143124594566250189
+      PC Computer - Undertale - Alphys (1)_17: -597865139632615744
+      PC Computer - Undertale - Alphys (1)_18: 7134394585883898551
+      PC Computer - Undertale - Alphys (1)_19: -1519746398865654037
+      PC Computer - Undertale - Alphys (1)_2: -6821264890330474188
+      PC Computer - Undertale - Alphys (1)_20: -4410572289833063921
+      PC Computer - Undertale - Alphys (1)_21: -6701619067406284240
+      PC Computer - Undertale - Alphys (1)_22: -6516070098200719266
+      PC Computer - Undertale - Alphys (1)_23: 9187701621401390007
+      PC Computer - Undertale - Alphys (1)_24: 2578787574103060454
+      PC Computer - Undertale - Alphys (1)_25: 6461776731719714964
+      PC Computer - Undertale - Alphys (1)_26: -8222978777076326749
+      PC Computer - Undertale - Alphys (1)_27: -5366474500323648189
+      PC Computer - Undertale - Alphys (1)_28: -1123457603126069085
+      PC Computer - Undertale - Alphys (1)_29: 8121100121709585668
+      PC Computer - Undertale - Alphys (1)_3: -4868775010594497824
+      PC Computer - Undertale - Alphys (1)_30: -5215828952994995252
+      PC Computer - Undertale - Alphys (1)_31: 36906069280828642
+      PC Computer - Undertale - Alphys (1)_32: 5591226274703379648
+      PC Computer - Undertale - Alphys (1)_33: -3882609308475734684
+      PC Computer - Undertale - Alphys (1)_34: -211125217737617843
+      PC Computer - Undertale - Alphys (1)_35: -4628947577254743482
+      PC Computer - Undertale - Alphys (1)_36: -8273514372555495858
+      PC Computer - Undertale - Alphys (1)_37: 7697483301279916283
+      PC Computer - Undertale - Alphys (1)_38: -7693691520298755075
+      PC Computer - Undertale - Alphys (1)_39: 3854216157385000985
+      PC Computer - Undertale - Alphys (1)_4: -8899863643240521933
+      PC Computer - Undertale - Alphys (1)_40: -4194765939718893467
+      PC Computer - Undertale - Alphys (1)_41: 2141121411136334555
+      PC Computer - Undertale - Alphys (1)_42: -3469421173295386813
+      PC Computer - Undertale - Alphys (1)_43: 6048211558685192709
+      PC Computer - Undertale - Alphys (1)_44: -6339614237368668692
+      PC Computer - Undertale - Alphys (1)_45: 8261039380291346539
+      PC Computer - Undertale - Alphys (1)_46: -130774630328055238
+      PC Computer - Undertale - Alphys (1)_47: -3909422264517418079
+      PC Computer - Undertale - Alphys (1)_48: 4831434231860223310
+      PC Computer - Undertale - Alphys (1)_49: -5676569542347615893
+      PC Computer - Undertale - Alphys (1)_5: 3378467618510563219
+      PC Computer - Undertale - Alphys (1)_50: 4219196313540045904
+      PC Computer - Undertale - Alphys (1)_51: 3846853131892958115
+      PC Computer - Undertale - Alphys (1)_52: -824214964571019177
+      PC Computer - Undertale - Alphys (1)_53: 3478666506335607562
+      PC Computer - Undertale - Alphys (1)_54: 3410766332421716836
+      PC Computer - Undertale - Alphys (1)_55: -6731241903707472743
+      PC Computer - Undertale - Alphys (1)_56: 528681032160005796
+      PC Computer - Undertale - Alphys (1)_57: 1775103500555815352
+      PC Computer - Undertale - Alphys (1)_58: -1937222195109045564
+      PC Computer - Undertale - Alphys (1)_59: 4464447189072446184
+      PC Computer - Undertale - Alphys (1)_6: 2290578171921929365
+      PC Computer - Undertale - Alphys (1)_60: -845224762395654262
+      PC Computer - Undertale - Alphys (1)_61: 6536943314376251758
+      PC Computer - Undertale - Alphys (1)_62: -7131512955873390192
+      PC Computer - Undertale - Alphys (1)_63: -3690718967708949822
+      PC Computer - Undertale - Alphys (1)_64: 8796396378137437752
+      PC Computer - Undertale - Alphys (1)_65: 1819885082431858346
+      PC Computer - Undertale - Alphys (1)_66: 4722728233818054022
+      PC Computer - Undertale - Alphys (1)_67: 3437169455140948401
+      PC Computer - Undertale - Alphys (1)_68: -1420143753352405181
+      PC Computer - Undertale - Alphys (1)_69: -3725630229442065640
+      PC Computer - Undertale - Alphys (1)_7: 6303051639023904856
+      PC Computer - Undertale - Alphys (1)_70: -5570857835328985999
+      PC Computer - Undertale - Alphys (1)_71: -5879446118181212896
+      PC Computer - Undertale - Alphys (1)_72: -8320561926790776253
+      PC Computer - Undertale - Alphys (1)_73: -5033411275587122521
+      PC Computer - Undertale - Alphys (1)_74: -6409742322313492338
+      PC Computer - Undertale - Alphys (1)_75: 2638527708258669849
+      PC Computer - Undertale - Alphys (1)_76: -6359986481877111409
+      PC Computer - Undertale - Alphys (1)_77: -2847236373996254176
+      PC Computer - Undertale - Alphys (1)_8: -7436808008502276060
+      PC Computer - Undertale - Alphys (1)_9: -4427234802512034473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

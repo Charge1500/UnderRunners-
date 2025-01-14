@@ -49,6 +49,7 @@ public class TurnOf : MonoBehaviour
     }
     void Start(){
         turnDuration=GameData.Instance.turnTime;
+        puntuationToWin=GameData.Instance.ptsToWin;
         originalCameraZoom = mainCamera.orthographicSize;
     }
     void Update(){
@@ -162,15 +163,35 @@ public class TurnOf : MonoBehaviour
     {
         Vector2 worldPoint = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         RaycastHit2D hit = Physics2D.Raycast(worldPoint, Vector2.zero);
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(hit.point, 0.6f);
 
-        if (hit.collider != null && hit.collider.CompareTag("Path"))
-        {
-            Debug.Log("Camino seleccionado: " + hit.collider.name);
-            turns[currentTurnIndex].ActivateSkillOnPath(hit.collider.transform.position);
+        // Verifica si hay un jugador cerca 
+        bool playerNearby = false; 
+        foreach (Collider2D collider in colliders) { 
+            if (collider.CompareTag("Player")) { 
+                playerNearby = true; 
+                break; 
+            } 
         }
-        else
-        {
-            Debug.Log("No es un camino válido.");
+
+        if(turns[currentTurnIndex].playerName=="Undyne"){
+            if (hit.collider != null && !hit.collider.CompareTag("Untagged"))
+            {
+                turns[currentTurnIndex].ActivateSkillOnPath(hit.collider.transform.position);
+            }
+            else
+            {
+                Debug.Log("No es un camino válido.");
+            }
+        }else if(turns[currentTurnIndex].playerName=="Papyrus" || turns[currentTurnIndex].playerName=="Sans"){
+            if (hit.collider != null && !hit.collider.CompareTag("Untagged") && !playerNearby)
+            {
+                turns[currentTurnIndex].ActivateSkillOnPath(hit.collider.transform.position);
+            }
+            else
+            {
+                Debug.Log("No es un camino válido.");
+            }
         }
 
         isWaitingForAbilityClick = false; // Desactivar modo habilidad
@@ -191,7 +212,16 @@ public class TurnOf : MonoBehaviour
         speed.text = turns[currentTurnIndex].currentSpeed.ToString();
         coldown.text = turns[currentTurnIndex].currentColdown.ToString();
         puntuation.text = turns[currentTurnIndex].puntuation.ToString();
-        floweyAnimator.SetInteger("Puntuation", turns[currentTurnIndex].puntuation);
+        if(turns[currentTurnIndex].puntuation==0){
+            floweyAnimator.SetBool("Winning", false);
+            floweyAnimator.SetBool("OnePoint", false);
+        } else if(turns[currentTurnIndex].puntuation<puntuationToWin/2){
+             floweyAnimator.SetBool("Winning", false);
+            floweyAnimator.SetBool("OnePoint", true);
+        } else if(turns[currentTurnIndex].puntuation>=puntuationToWin/2){
+            floweyAnimator.SetBool("OnePoint", true);
+            floweyAnimator.SetBool("Winning", true);
+        }
     }
 
     public void Attack(){

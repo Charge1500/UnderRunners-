@@ -243,7 +243,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -297,8 +297,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -318,8 +318,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -339,8 +339,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -360,8 +360,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -381,8 +381,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -402,8 +402,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -423,8 +423,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -444,8 +444,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -465,8 +465,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -486,8 +486,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -507,8 +507,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -528,8 +528,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -549,8 +549,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -570,8 +570,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -596,18 +596,18 @@ TextureImporter:
     nameFileIdTable:
       Fire_Trap_0: 4466640455437649217
       Fire_Trap_1: -8022672597690424412
-      Fire_Trap_10: -1673577452363605598
-      Fire_Trap_11: -4717393192360139559
-      Fire_Trap_12: 4711933274647191540
-      Fire_Trap_13: 8846637995562781539
-      Fire_Trap_2: -1527057772673909513
-      Fire_Trap_3: -7528477633914145047
-      Fire_Trap_4: -7206854384181445371
-      Fire_Trap_5: -3931751477558571969
-      Fire_Trap_6: 3803406543922149459
-      Fire_Trap_7: -7296437641366729042
-      Fire_Trap_8: -4645169562675845399
-      Fire_Trap_9: -3980671190648125097
+      Fire_Trap_10: -1527057772673909513
+      Fire_Trap_11: -7528477633914145047
+      Fire_Trap_12: -7206854384181445371
+      Fire_Trap_13: -3931751477558571969
+      Fire_Trap_2: 3803406543922149459
+      Fire_Trap_3: -7296437641366729042
+      Fire_Trap_4: -4645169562675845399
+      Fire_Trap_5: -3980671190648125097
+      Fire_Trap_6: -1673577452363605598
+      Fire_Trap_7: -4717393192360139559
+      Fire_Trap_8: 4711933274647191540
+      Fire_Trap_9: 8846637995562781539
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

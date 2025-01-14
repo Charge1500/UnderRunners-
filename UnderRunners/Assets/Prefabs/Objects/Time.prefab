@@ -99,6 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abf81287d79fef54eb12fd81f7695efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  turnOf: {fileID: 0}
   additionalTurnTime: 5
 --- !u!58 &4497813291347290975
 CircleCollider2D:
@@ -169,7 +170,7 @@ GameObject:
   - component: {fileID: 4408112881709874763}
   m_Layer: 0
   m_Name: Time
-  m_TagString: Untagged
+  m_TagString: Object
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

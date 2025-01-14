@@ -15,13 +15,17 @@ public class MenuEmpezar : MonoBehaviour
 
     public int numeroDeJugadorSeleccionado;
     public GameObject menuPrincipal;
+    public GameObject reglas;
     public GameObject menuPrincipalSprite;
     [SerializeField] private GameObject opcionesDeInicio;
     [SerializeField] private TextMeshProUGUI players; 
     private int numPlayers;
 
     [SerializeField] private TextMeshProUGUI time;
+    [SerializeField] private TextMeshProUGUI pts;
     private int secTime;
+    private int ptsToWin;
+
 
     //Pasando a la seleccion de personaje
     public CanvasGroup selectionCharacter; 
@@ -31,15 +35,23 @@ public class MenuEmpezar : MonoBehaviour
     private bool transitioning = false; 
 
     //
+    //Reglas
+    public string[] textoReglas=new string[3];
+    public TextMeshProUGUI textoReglasVisual;
+    public int textoActual=0;
     void Start()
     {
         numeroDeJugadorSeleccionado=0;
         numPlayers = 2; 
         secTime = 10;  
+        ptsToWin = 10;  
 
         players.text = numPlayers.ToString();
         time.text = secTime.ToString();
 
+        textoReglas[0]="En este emocionante juego inspirado en el universo de Undertale, los jugadores se enfrentarán en un laberinto lleno de trampas mortales, objetos que pueden cambiar el curso de la partida y habilidades especiales que garantizan estrategias únicas. El objetivo es simple, pero peligroso: llegar al centro del laberinto, tomar a Flowey y sobrevivir durante 10 turnos consecutivos con ella equipada.";
+        textoReglas[1]="El juego se desarrolla en turnos.Cada turno tiene un límite de tiempo. Si el jugador no realiza ninguna acción antes de que se acabe el tiempo, el turno finaliza automáticamente.Las acciones disponibles son las siguientes: \n-Usar habilidades especiales: Activa habilidades únicas del personaje, siempre que no estén en enfriamiento.\n-En cada turno, un jugador puede realizar un ataque y moverse libremente por el mapa hasta que se acabe el tiempo de su turno.\n Si deseas conocer más sobre el laberinto,sus trampas objetos y personajes visita el museo.";
+        textoReglas[2]="Agradecimientos\n...";
     }
 
     void Update(){
@@ -48,6 +60,7 @@ public class MenuEmpezar : MonoBehaviour
                 foreach (Button button in selectedPlayersButtons) { 
                     button.interactable = false;
                 }
+                buttonObject[7].SetActive(true);
                 EventSystem.current.SetSelectedGameObject(null); 
                 EventSystem.current.SetSelectedGameObject(buttonObject[7]);
                 selectedPlayersButtons[7].interactable = true;
@@ -105,6 +118,7 @@ public class MenuEmpezar : MonoBehaviour
         {
             numPlayers++;
             players.text = numPlayers.ToString();
+            
         }
     }
 
@@ -137,6 +151,23 @@ public class MenuEmpezar : MonoBehaviour
             time.text = secTime.ToString();
         }
     }
+    public void MasPuntos()
+    {
+        if (ptsToWin < 15)
+        {
+            ptsToWin++;
+            pts.text = ptsToWin.ToString();
+        }
+    }
+
+    public void MenosPuntos()
+    {
+        if (ptsToWin > 3)
+        {
+            ptsToWin--;
+            pts.text = ptsToWin.ToString();
+        }
+    }
 
     public void Empezar(){
         menuPrincipal.SetActive(false);
@@ -155,7 +186,48 @@ public class MenuEmpezar : MonoBehaviour
     public void IniciarJuego(){
         GameData.Instance.selectedPlayers = selectedPlayers;
         GameData.Instance.turnTime = secTime;
+        GameData.Instance.ptsToWin = ptsToWin;
         UnityEngine.SceneManagement.SceneManager.LoadScene("SampleScene");
+    }
+
+    public void Museo(){
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Museo");
+    }
+    public void Reglas(){
+        menuPrincipal.SetActive(false);
+        reglas.SetActive(true);
+        EventSystem.current.SetSelectedGameObject(null); 
+        EventSystem.current.SetSelectedGameObject(buttonObject[10]);
+    }
+    public void Siguiente(){
+        textoActual++;
+        textoReglasVisual.text=textoReglas[textoActual];
+        if(textoActual==textoReglas.Length-1){
+            buttonObject[11].SetActive(false);
+        }
+        if(textoActual>0){
+            buttonObject[12].SetActive(true);
+        }
+        EventSystem.current.SetSelectedGameObject(null); 
+        EventSystem.current.SetSelectedGameObject(buttonObject[9]);
+    }
+    public void Anterior(){
+        textoActual--;
+        textoReglasVisual.text=textoReglas[textoActual];
+        if(textoActual==0){
+            buttonObject[12].SetActive(false);
+        }
+        if(textoActual<textoReglas.Length-1){
+            buttonObject[11].SetActive(true);
+        }
+        EventSystem.current.SetSelectedGameObject(null); 
+        EventSystem.current.SetSelectedGameObject(buttonObject[9]);
+    }
+    public void Regresar(){
+        reglas.SetActive(false);
+        menuPrincipal.SetActive(true);
+        EventSystem.current.SetSelectedGameObject(null); 
+        EventSystem.current.SetSelectedGameObject(buttonObject[9]);
     }
     public void Salir(){
         Application.Quit();

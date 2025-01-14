@@ -1,6 +1,9 @@
--Camara que centra al laberinto
 -Movimiento del jugador
 -Generacion del laberinto
--Sprites de caminos y muros
--Camara
+-Efecto del daño
 -Generacion de trampas y objetos
+-Botones en el emenu
+-Organizar COdigo
+-Cambiar estadistica de jugadores
+-Cambiar el numero de buffeo y debuffeo de objetos
+-Poner un limite en cuanto al maximo y minimo de estadisticas que se puede alcanzar

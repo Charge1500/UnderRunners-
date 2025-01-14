@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3728245784796131469}
   m_Layer: 0
   m_Name: WebSpider1
-  m_TagString: Untagged
+  m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -134,6 +134,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c7bae43a51c7a40a7cb78385c3a5b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPlayerInside: 0
-  animator: {fileID: 0}
-  playerCollider: {fileID: 0}

@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8737836878066968368}
   m_Layer: 0
   m_Name: FireTrap
-  m_TagString: Untagged
+  m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121,17 +121,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.14814281}
+  m_Offset: {x: 0.00031661987, y: 0.028921485}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.5, y: 0.640625}
+    pivot: {x: 0.5, y: 0.25}
+    oldSize: {x: 0.8, y: 1.025}
     newSize: {x: 0.5, y: 0.640625}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.35734558, y: 0.32239342}
+  m_Size: {x: 0.75184107, y: 0.6285231}
   m_EdgeRadius: 0
 --- !u!95 &5962974497779982894
 Animator:
@@ -167,3 +167,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4aaa7b7da4a4af440935fe3cc8b40fcd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isPlayerInside: 0
+  animator: {fileID: 0}
+  playerCollider: {fileID: 0}
