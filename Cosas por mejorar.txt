@@ -1,9 +1,7 @@
--Movimiento del jugador
--Generacion del laberinto
--Efecto del daño
--Generacion de trampas y objetos
--Botones en el emenu
+-Generacion del laberinto iterando
+-Generacion de trampas y objetos que no se destruyan sino que se desactiven temporalmente
+-Opciones
 -Organizar COdigo
 -Cambiar estadistica de jugadores
--Cambiar el numero de buffeo y debuffeo de objetos
--Poner un limite en cuanto al maximo y minimo de estadisticas que se puede alcanzar
+-Sonidos
+-Dialogos

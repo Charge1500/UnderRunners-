@@ -44,7 +44,7 @@ public class MenuEmpezar : MonoBehaviour
         numeroDeJugadorSeleccionado=0;
         numPlayers = 2; 
         secTime = 10;  
-        ptsToWin = 10;  
+        ptsToWin = 3;  
 
         players.text = numPlayers.ToString();
         time.text = secTime.ToString();

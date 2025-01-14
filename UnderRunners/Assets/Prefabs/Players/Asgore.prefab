@@ -222,6 +222,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc163f8ed66f53347a121023cedd59f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  imageWinner: {fileID: 8960056587403525988, guid: bc5dc3435f9f50b48b64b574dc5115f8, type: 3}
+  imageDialogDefault: {fileID: 5815728274074783151, guid: e63ffaaf8003b3c43a2d4403907741b9, type: 3}
   image: {fileID: -6847712331671389059, guid: c3a12b0600d4c4441a141b93851f96b8, type: 3}
   playerName: Asgore
   health: 10
@@ -243,6 +245,7 @@ MonoBehaviour:
   turnOf: {fileID: 0}
   respawnPoint: {x: 0, y: 0}
   playersToAttack: []
+  friskCopy: 0
   increaseSpeed: {fileID: 3025437200147453806}
 --- !u!50 &8134166521140453746
 Rigidbody2D:

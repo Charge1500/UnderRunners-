@@ -5,9 +5,11 @@ using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
-    // Stats
+    //Images
+    public Sprite imageWinner;
     public Sprite imageDialogDefault;
     public Sprite image;
+    // Stats
     public string playerName;
     public int health;
     public int currentHealth;
@@ -15,6 +17,7 @@ public class Player : MonoBehaviour
     public int currentAttack;
     public int coldown;
     public int currentColdown;
+    private Color originalColor;
     //-----------------
     public bool hasRuby = false;
     public bool isTurn = false;
@@ -41,11 +44,11 @@ public class Player : MonoBehaviour
     public bool friskCopy=false;
 
     void Awake(){
-
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
 
+        originalColor = sr.color;
         currentHealth=health;
         currentAttack=attack;
         currentSpeed=speedMovement;
@@ -115,33 +118,41 @@ public class Player : MonoBehaviour
 
     public virtual void TakeDamage(int damage)
     {
-        currentHealth -= damage;
-        if(currentHealth < 0) currentHealth=0;
-        turnOf.UpdateUI();
-        if (currentHealth <= 0)
-        {
-            StartCoroutine(Die());
-        } else{
-            StartCoroutine(DamageEffect());
+        if(!isUsingHab){
+            currentHealth -= damage;
+            if(currentHealth < 0) currentHealth=0;
+            turnOf.UpdateUI();
+            if (currentHealth <= 0)
+            {
+                StartCoroutine(Die());
+            } else{
+                StartCoroutine(DamageEffect());
+            }
         }
     }
 
     private IEnumerator DamageEffect()
     {
-        Color originalColor = sr.color;
         sr.color = Color.red;
+        isTurn=false;
+        isUsingHab=true;
         yield return new WaitForSeconds(0.5f);
+        isTurn=true;
+        isUsingHab=false;
         sr.color = originalColor;
     }
 
     private IEnumerator Die()
     {
+        sr.color = originalColor;
         stun=false;
         bool wasTurn=isTurn;
         isTurn=false;
         animator.SetBool("ExcludeDead",false);
         animator.SetTrigger("Dead"); 
+        isUsingHab=true;
         yield return new WaitForSeconds(0.6f);
+        isUsingHab=false;
         if(wasTurn){
             turnOf.NextTurn();
         }
@@ -155,9 +166,10 @@ public class Player : MonoBehaviour
     }
 
     public void Respawn()
-    {
-    transform.position = respawnPoint;
-    currentHealth = health;
+    { 
+        transform.position = respawnPoint;
+        currentHealth = health;
+        turnOf.UpdateUI();
     }
 
     public void RestoreOriginalStats() { 
@@ -184,6 +196,7 @@ public class Player : MonoBehaviour
 
     public IEnumerator UseHabEffect()
     {
+        turnOf.attackButton.interactable=false;
         isUsingHab = true;
         animator.SetBool("IsWalking", false);
         animator.SetInteger("WalkDirection", 1); // Abajo
@@ -194,7 +207,7 @@ public class Player : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D someone){
         if (someone.CompareTag("Player")){   
             Player player = someone.GetComponent<Player>();
-            if (!playersToAttack.Contains(player))
+            if (!playersToAttack.Contains(player) && player.playerName!=playerName){}
             {
                 playersToAttack.Add(player);
                 turnOf.attackButton.interactable = true;

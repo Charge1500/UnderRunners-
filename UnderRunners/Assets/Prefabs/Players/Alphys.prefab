@@ -272,6 +272,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae43150a12a9c7e41b85f7d86b1b6082, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  imageWinner: {fileID: -3329154454078651205, guid: 122a57b346bee66469eb0c36a0b0d1cc, type: 3}
+  imageDialogDefault: {fileID: 6581530764636532731, guid: 2aec5ddcf1bb8554faf480ed24abe00b, type: 3}
   image: {fileID: 891237752055131489, guid: dbc06f84bf5c97947aa046bbd18d1bf1, type: 3}
   playerName: Alphys
   health: 7
@@ -293,6 +295,7 @@ MonoBehaviour:
   turnOf: {fileID: 0}
   respawnPoint: {x: 0, y: 0}
   playersToAttack: []
+  friskCopy: 0
   stunWave: {fileID: 2762345517293615245}
 --- !u!50 &1743481772224993476
 Rigidbody2D:

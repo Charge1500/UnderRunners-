@@ -11,7 +11,7 @@ public class SansHab : MonoBehaviour
     public Animator animatorPortal2;
     public Animator sans;
 
-    void Start(){
+    public void Parent(){
         
         Vector3 portal2Pos = sansPortal2.transform.position;
         
@@ -31,8 +31,9 @@ public class SansHab : MonoBehaviour
         sans.SetTrigger("SansPortal2");
     }
     public void SansPortal2Bye(){
-        sansPortal2.transform.SetParent(sansPlayer.transform);
         sans.SetBool("SansPortalTrue",false);
         animatorPortal2.SetTrigger("Bye");
+        sansPortal2.transform.SetParent(sansPlayer.transform);
+        sansPortal2.transform.position= new Vector3(0,0,0);
     }
 }

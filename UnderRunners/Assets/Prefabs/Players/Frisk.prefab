@@ -534,6 +534,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2cd99f20640ad642afefa1101e060dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  imageWinner: {fileID: -978402373541674857, guid: de658c3bc6cad994c8a15795c71a62a2, type: 3}
+  imageDialogDefault: {fileID: -6340422095215536212, guid: eac5403a56f06b749bf594505256c758, type: 3}
   image: {fileID: 4625900098473298354, guid: 317bad272c84fe349a097cd6bcbf237a, type: 3}
   playerName: Frisk
   health: 6

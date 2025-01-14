@@ -24,9 +24,14 @@ public class Sans : Player
     public override void ActivateSkillOnPath(Vector3 targetPosition)
     {
         sansPortal1.SetActive(true);
+
+        Vector3 portal2Pos = sansPortal2.transform.position;
+        sansPortal2.transform.SetParent(null);
+        sansPortal2.transform.position = portal2Pos;
+
         sansPortal2.transform.position = targetPosition;
         sansPortal2.SetActive(true);
-        this.UseHab();
+        UseHab();
     }
 
     public override void UseHab(){

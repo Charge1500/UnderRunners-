@@ -18,7 +18,9 @@ public class FreezeTrap : Traps
             player.transform.position = transform.position;
 
             player.TakeDamage(1);
+            player.isUsingHab=true;
             yield return new WaitForSeconds(0.8f);
+            player.isUsingHab=false;
             Destroy(gameObject);
             turnOf.NextTurn();
 

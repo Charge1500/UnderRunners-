@@ -14,6 +14,7 @@ public class TurnOf : MonoBehaviour
     public TextMeshProUGUI speed;
     public TextMeshProUGUI coldown;
     public TextMeshProUGUI puntuation;
+    public Image imageDialog;
     //---------------------------------
     private Pencil pencil;
     public Button habButton;
@@ -28,6 +29,7 @@ public class TurnOf : MonoBehaviour
     public bool gameEnded = false;
     public bool isWaitingForAbilityClick = false;
     public GameObject winScreen;
+    public Image winnerImage;
     public TextMeshProUGUI winPlayer;
     public Animator floweyAnimator;
     // Cursor personalizado
@@ -37,7 +39,7 @@ public class TurnOf : MonoBehaviour
     // Cámara
     public Camera mainCamera;
     public float cameraFollowSpeed = 5f;
-    public float cameraZoom = 10f;
+    public float cameraZoom = 1f;
     private float originalCameraZoom;
 
     void Awake()
@@ -154,6 +156,7 @@ public class TurnOf : MonoBehaviour
         }
         if(turns[currentTurnIndex].puntuation==puntuationToWin){       
             winScreen.SetActive(true);
+            winnerImage.sprite = turns[currentTurnIndex].imageWinner;
             gameEnded=true;
             winPlayer.text = $"{turns[currentTurnIndex].playerName} wins!";
         }
@@ -206,6 +209,7 @@ public class TurnOf : MonoBehaviour
 
     public void UpdateUI(){
         image.sprite = turns[currentTurnIndex].image;
+        imageDialog.sprite = turns[currentTurnIndex].imageDialogDefault;
         playerName.text = turns[currentTurnIndex].playerName;
         health.text = turns[currentTurnIndex].currentHealth.ToString();
         attack.text = turns[currentTurnIndex].currentAttack.ToString();

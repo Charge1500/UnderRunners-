@@ -222,6 +222,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b42cfd51e9cc6b14bbf48bb16884d21e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  imageWinner: {fileID: 8288426215254106694, guid: d76ad62c9ea580d438fa6f2d177c74c5, type: 3}
+  imageDialogDefault: {fileID: 6792097739280333964, guid: 9b660a1176d4ec4449de0e3214e37f9d, type: 3}
   image: {fileID: 2675477969471990315, guid: b6b8b9d347da7ef4d9ac5cf2891ebd79, type: 3}
   playerName: Toriel
   health: 8
@@ -243,6 +245,7 @@ MonoBehaviour:
   turnOf: {fileID: 0}
   respawnPoint: {x: 0, y: 0}
   playersToAttack: []
+  friskCopy: 0
   torielHealing: {fileID: 995949771665052702}
 --- !u!50 &8134166521140453746
 Rigidbody2D:

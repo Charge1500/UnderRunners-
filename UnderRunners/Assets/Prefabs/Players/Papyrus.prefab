@@ -369,6 +369,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 293a72ee4d7334546bfe38bd0b09eca7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  imageWinner: {fileID: -5601288537653584524, guid: 544014c7c4f3fad4ab355d32f20f4235, type: 3}
+  imageDialogDefault: {fileID: -5399114739106623056, guid: 516b13060f17de44a81345a46658f600, type: 3}
   image: {fileID: -2547561312945845874, guid: eac747f9d389dbc4ba34028cebfed98a, type: 3}
   playerName: Papyrus
   health: 7

@@ -27,7 +27,7 @@ public class GameData : MonoBehaviour
     {
         selectedPlayers = null; // Reinicia jugadores seleccionados
         turnTime =10;           // Reinicia el tiempo de turno
-        ptsToWin=10;
+        ptsToWin=3;
     }
 
 }

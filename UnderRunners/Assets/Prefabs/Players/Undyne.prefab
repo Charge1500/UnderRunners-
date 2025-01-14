@@ -134,6 +134,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89362c32898be6746946d9200eaa4630, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  imageWinner: {fileID: 1510568704640916199, guid: 93fe387bac1312a43897a61725421aca, type: 3}
+  imageDialogDefault: {fileID: 1990790379379433150, guid: 51266b3570e1a994995ce654cc955c0b, type: 3}
   image: {fileID: -978402373541674857, guid: 2f566f2a3714fcc4fa3136f4f312ad23, type: 3}
   playerName: Undyne
   health: 4
@@ -155,6 +157,7 @@ MonoBehaviour:
   turnOf: {fileID: 0}
   respawnPoint: {x: 0, y: 0}
   playersToAttack: []
+  friskCopy: 0
   undyneSpear: {fileID: 2373078672524013543}
 --- !u!50 &-1494718253628712652
 Rigidbody2D:
