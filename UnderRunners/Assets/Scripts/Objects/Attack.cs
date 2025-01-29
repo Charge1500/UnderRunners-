@@ -8,9 +8,7 @@ public class Attack : Objects
     protected override void OnConsumed(GameObject player){
         Player getPlayer = player.GetComponent<Player>();
         if(getPlayer.currentAttack+attack <=12 && getPlayer.currentAttack+attack >=1){
-            getPlayer.currentAttack+= attack;
-           
+            getPlayer.currentAttack+= attack;   
         }
-        Destroy(gameObject);
     }
 }

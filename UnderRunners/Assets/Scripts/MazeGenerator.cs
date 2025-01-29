@@ -8,8 +8,14 @@ public class MazeGenerator : MonoBehaviour
     public int width = 0;
     private int[,] maze;
 
+    void Start(){
+        width=GameData.Instance.size;
+        height=GameData.Instance.size;
+    }
     public void InitializeMaze()
     {
+        width+=(width % 2 == 0) ? 1 : 0;
+        height+=(height % 2 == 0) ? 1 : 0;
         maze = new int[width, height];
         InitialMaze();
         maze[1, 1] = 0;

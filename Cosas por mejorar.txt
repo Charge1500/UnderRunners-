@@ -1,7 +1,0 @@
--Generacion del laberinto iterando
--Generacion de trampas y objetos que no se destruyan sino que se desactiven temporalmente
--Opciones
--Organizar COdigo
--Cambiar estadistica de jugadores
--Sonidos
--Dialogos

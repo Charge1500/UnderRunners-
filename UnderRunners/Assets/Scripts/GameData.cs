@@ -9,6 +9,7 @@ public class GameData : MonoBehaviour
     public GameObject[] selectedPlayers;
     public int turnTime;
     public int ptsToWin;
+    public int size;
 
     private void Awake()
     {
@@ -28,6 +29,7 @@ public class GameData : MonoBehaviour
         selectedPlayers = null; // Reinicia jugadores seleccionados
         turnTime =10;           // Reinicia el tiempo de turno
         ptsToWin=3;
+        size=15;
     }
 
 }

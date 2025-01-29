@@ -1,0 +1,670 @@
+fileFormatVersion: 2
+guid: dfb4812b23fcdd4429a05e1dab6ca926
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6726095909713599575
+    second: PC Computer - Undertale - Reward Tiers Explanation_0
+  - first:
+      213: -4333523534132279801
+    second: PC Computer - Undertale - Reward Tiers Explanation_1
+  - first:
+      213: -5580339380158548844
+    second: PC Computer - Undertale - Reward Tiers Explanation_2
+  - first:
+      213: -5310016276210612423
+    second: PC Computer - Undertale - Reward Tiers Explanation_3
+  - first:
+      213: -7883719202715735599
+    second: PC Computer - Undertale - Reward Tiers Explanation_4
+  - first:
+      213: -8808908611734268936
+    second: PC Computer - Undertale - Reward Tiers Explanation_5
+  - first:
+      213: 599872380251179317
+    second: PC Computer - Undertale - Reward Tiers Explanation_6
+  - first:
+      213: 1739697333151789428
+    second: PC Computer - Undertale - Reward Tiers Explanation_7
+  - first:
+      213: -4178932955775257995
+    second: PC Computer - Undertale - Reward Tiers Explanation_8
+  - first:
+      213: 8718231611101541632
+    second: PC Computer - Undertale - Reward Tiers Explanation_9
+  - first:
+      213: -1203584968515885917
+    second: PC Computer - Undertale - Reward Tiers Explanation_10
+  - first:
+      213: 3997791510777919777
+    second: PC Computer - Undertale - Reward Tiers Explanation_11
+  - first:
+      213: -4498132020368761305
+    second: PC Computer - Undertale - Reward Tiers Explanation_12
+  - first:
+      213: 5944215439664104033
+    second: PC Computer - Undertale - Reward Tiers Explanation_13
+  - first:
+      213: 7284546373258166179
+    second: PC Computer - Undertale - Reward Tiers Explanation_14
+  - first:
+      213: -3128723697594341699
+    second: PC Computer - Undertale - Reward Tiers Explanation_15
+  - first:
+      213: -579446319087402548
+    second: PC Computer - Undertale - Reward Tiers Explanation_16
+  - first:
+      213: 3585132961261909579
+    second: PC Computer - Undertale - Reward Tiers Explanation_17
+  - first:
+      213: 3545954624667194118
+    second: PC Computer - Undertale - Reward Tiers Explanation_18
+  - first:
+      213: 9196537075232120894
+    second: PC Computer - Undertale - Reward Tiers Explanation_19
+  - first:
+      213: 6234807410256679091
+    second: PC Computer - Undertale - Reward Tiers Explanation_20
+  - first:
+      213: -7322927730626391279
+    second: PC Computer - Undertale - Reward Tiers Explanation_21
+  - first:
+      213: -3134474812714417658
+    second: PC Computer - Undertale - Reward Tiers Explanation_22
+  - first:
+      213: 7895776765804960787
+    second: PC Computer - Undertale - Reward Tiers Explanation_23
+  - first:
+      213: 5875542439261074531
+    second: PC Computer - Undertale - Reward Tiers Explanation_24
+  - first:
+      213: 6770680429338251703
+    second: PC Computer - Undertale - Reward Tiers Explanation_25
+  - first:
+      213: 8746925089134596623
+    second: PC Computer - Undertale - Reward Tiers Explanation_26
+  - first:
+      213: -6474960240017952478
+    second: PC Computer - Undertale - Reward Tiers Explanation_27
+  - first:
+      213: -6866199503715713921
+    second: PC Computer - Undertale - Reward Tiers Explanation_28
+  - first:
+      213: 3648683423063296825
+    second: PC Computer - Undertale - Reward Tiers Explanation_29
+  - first:
+      213: -2464597332877308545
+    second: PC Computer - Undertale - Reward Tiers Explanation_30
+  - first:
+      213: -7934031414518218029
+    second: PC Computer - Undertale - Reward Tiers Explanation_31
+  - first:
+      213: 8982438934689139503
+    second: PC Computer - Undertale - Reward Tiers Explanation_32
+  - first:
+      213: -2779236678304302244
+    second: PC Computer - Undertale - Reward Tiers Explanation_33
+  - first:
+      213: 591205207137896711
+    second: PC Computer - Undertale - Reward Tiers Explanation_34
+  - first:
+      213: 4841996066081417670
+    second: PC Computer - Undertale - Reward Tiers Explanation_35
+  - first:
+      213: 273720103278004517
+    second: PC Computer - Undertale - Reward Tiers Explanation_36
+  - first:
+      213: 3186957707760336869
+    second: PC Computer - Undertale - Reward Tiers Explanation_37
+  - first:
+      213: 6929341666234292117
+    second: PC Computer - Undertale - Reward Tiers Explanation_38
+  - first:
+      213: 4058609780294719480
+    second: PC Computer - Undertale - Reward Tiers Explanation_39
+  - first:
+      213: -5593122583638689053
+    second: PC Computer - Undertale - Reward Tiers Explanation_40
+  - first:
+      213: -6868267752704187112
+    second: PC Computer - Undertale - Reward Tiers Explanation_41
+  - first:
+      213: -8426631055368749291
+    second: PC Computer - Undertale - Reward Tiers Explanation_42
+  - first:
+      213: -1052621927497398899
+    second: PC Computer - Undertale - Reward Tiers Explanation_43
+  - first:
+      213: 2251865854052567318
+    second: PC Computer - Undertale - Reward Tiers Explanation_44
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a32050186b18a2a0800000000000000
+      internalID: -6726095909713599575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9e335a727679290800000000000000
+      internalID: -7883719202715735599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 237
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f313ba0a4870c580800000000000000
+      internalID: -8808908611734268936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005f94985716df870800000000000000
+      internalID: 8718231611101541632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e1c1572cc6391c0800000000000000
+      internalID: -4498132020368761305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 156
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1624295d2781e7250800000000000000
+      internalID: 5944215439664104033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 157
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afb9efc458e71560800000000000000
+      internalID: 7284546373258166179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1436094a465f7f0800000000000000
+      internalID: -579446319087402548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 117
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b467f84fe63f0c130800000000000000
+      internalID: 3585132961261909579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113182c070cbf5a90800000000000000
+      internalID: -7322927730626391279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d20adcf678a4e190800000000000000
+      internalID: -7934031414518218029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 39
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bc8cebe9808ac70800000000000000
+      internalID: 8982438934689139503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 39
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7946c7714135830800000000000000
+      internalID: 4058609780294719480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_40
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 39
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea3001d4ac3162b0800000000000000
+      internalID: -5593122583638689053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815ebc95ed20fa0a0800000000000000
+      internalID: -6868267752704187112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f787b83b79e0b80800000000000000
+      internalID: -8426631055368749291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d850bb81fe55461f0800000000000000
+      internalID: -1052621927497398899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Reward Tiers Explanation_44
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61982a8301c304f10800000000000000
+      internalID: 2251865854052567318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 30b7b262b62e5ea488d1e9ef2ebc690d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Undertale - Reward Tiers Explanation_0: -6726095909713599575
+      PC Computer - Undertale - Reward Tiers Explanation_1: -4333523534132279801
+      PC Computer - Undertale - Reward Tiers Explanation_10: -1203584968515885917
+      PC Computer - Undertale - Reward Tiers Explanation_11: 3997791510777919777
+      PC Computer - Undertale - Reward Tiers Explanation_12: -4498132020368761305
+      PC Computer - Undertale - Reward Tiers Explanation_13: 5944215439664104033
+      PC Computer - Undertale - Reward Tiers Explanation_14: 7284546373258166179
+      PC Computer - Undertale - Reward Tiers Explanation_15: -3128723697594341699
+      PC Computer - Undertale - Reward Tiers Explanation_16: -579446319087402548
+      PC Computer - Undertale - Reward Tiers Explanation_17: 3585132961261909579
+      PC Computer - Undertale - Reward Tiers Explanation_18: 3545954624667194118
+      PC Computer - Undertale - Reward Tiers Explanation_19: 9196537075232120894
+      PC Computer - Undertale - Reward Tiers Explanation_2: -5580339380158548844
+      PC Computer - Undertale - Reward Tiers Explanation_20: 6234807410256679091
+      PC Computer - Undertale - Reward Tiers Explanation_21: -7322927730626391279
+      PC Computer - Undertale - Reward Tiers Explanation_22: -3134474812714417658
+      PC Computer - Undertale - Reward Tiers Explanation_23: 7895776765804960787
+      PC Computer - Undertale - Reward Tiers Explanation_24: 5875542439261074531
+      PC Computer - Undertale - Reward Tiers Explanation_25: 6770680429338251703
+      PC Computer - Undertale - Reward Tiers Explanation_26: 8746925089134596623
+      PC Computer - Undertale - Reward Tiers Explanation_27: -6474960240017952478
+      PC Computer - Undertale - Reward Tiers Explanation_28: -6866199503715713921
+      PC Computer - Undertale - Reward Tiers Explanation_29: 3648683423063296825
+      PC Computer - Undertale - Reward Tiers Explanation_3: -5310016276210612423
+      PC Computer - Undertale - Reward Tiers Explanation_30: -2464597332877308545
+      PC Computer - Undertale - Reward Tiers Explanation_31: -7934031414518218029
+      PC Computer - Undertale - Reward Tiers Explanation_32: 8982438934689139503
+      PC Computer - Undertale - Reward Tiers Explanation_33: -2779236678304302244
+      PC Computer - Undertale - Reward Tiers Explanation_34: 591205207137896711
+      PC Computer - Undertale - Reward Tiers Explanation_35: 4841996066081417670
+      PC Computer - Undertale - Reward Tiers Explanation_36: 273720103278004517
+      PC Computer - Undertale - Reward Tiers Explanation_37: 3186957707760336869
+      PC Computer - Undertale - Reward Tiers Explanation_38: 6929341666234292117
+      PC Computer - Undertale - Reward Tiers Explanation_39: 4058609780294719480
+      PC Computer - Undertale - Reward Tiers Explanation_4: -7883719202715735599
+      PC Computer - Undertale - Reward Tiers Explanation_40: -5593122583638689053
+      PC Computer - Undertale - Reward Tiers Explanation_41: -6868267752704187112
+      PC Computer - Undertale - Reward Tiers Explanation_42: -8426631055368749291
+      PC Computer - Undertale - Reward Tiers Explanation_43: -1052621927497398899
+      PC Computer - Undertale - Reward Tiers Explanation_44: 2251865854052567318
+      PC Computer - Undertale - Reward Tiers Explanation_5: -8808908611734268936
+      PC Computer - Undertale - Reward Tiers Explanation_6: 599872380251179317
+      PC Computer - Undertale - Reward Tiers Explanation_7: 1739697333151789428
+      PC Computer - Undertale - Reward Tiers Explanation_8: -4178932955775257995
+      PC Computer - Undertale - Reward Tiers Explanation_9: 8718231611101541632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

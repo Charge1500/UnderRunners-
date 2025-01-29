@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FriskHab : MonoBehaviour
+public class FriskHab : Habs
 {
     public Player frisk;
     public GameObject copyFrisk;

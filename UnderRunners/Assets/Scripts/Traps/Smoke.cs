@@ -8,7 +8,10 @@ public class Smoke : Traps
 
     void Start()
     {
+        position=transform.position;
         mazeGenerator = GetComponentInParent<MazeGenerator>();
+        soundEffectManager = GetComponentInParent<SoundEffectManager>();
+        audioSource=soundEffectManager.audioSource;
     }
    public void IsPlayerInside(){
         if(isPlayerInside==true){
@@ -20,8 +23,5 @@ public class Smoke : Traps
             player.transform.position = new Vector3(x,y,0);
         }
 
-    }
-    public void DestroyObject(){
-        Destroy(gameObject);
     }
 }

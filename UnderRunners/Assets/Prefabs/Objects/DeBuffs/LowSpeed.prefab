@@ -122,6 +122,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   turnOf: {fileID: 0}
+  soundEffectManager: {fileID: 0}
+  audioClips:
+  - {fileID: 8300000, guid: 8bf5a146bb8b83d40b5ac0d1716ddd1f, type: 3}
+  audioSource: {fileID: 0}
   speed: 0.5
 --- !u!58 &4490646299684509407
 CircleCollider2D:

@@ -185,6 +185,7 @@ GameObject:
   - component: {fileID: 6954556835640168025}
   - component: {fileID: 3084725988002222042}
   - component: {fileID: 7806760025290036576}
+  - component: {fileID: 2053488948977270307}
   m_Layer: 6
   m_Name: Alphys
   m_TagString: Player
@@ -282,13 +283,27 @@ MonoBehaviour:
   currentAttack: 0
   coldown: 3
   currentColdown: 0
+  dialogStartTurn: "\xA1Oh, cielos, m-mi turno! \xA1Voy a hacer todo lo posible!"
+  dialogAttack: "\xA1Aqu\xED va ...! \xA1Prep\xE1rate para mi s\xFAper ataque!"
+  dialogDamage: "\xA1Ah! \xA1Eso doli\xF3 m\xE1s de lo que esperaba...!"
+  dialogHab: "Eh, uh, e-espero que esto funcione... \xA1Onda electromagn\xE9tica!
+    Oh, y-yeah..."
+  dialogHeal: Uh, g-gracias... m-me siento un poco mejor ahora...
+  dialogFoundRuby: "\xA1Oh, d-dios m\xEDo! \xA1Lo tengo! \xA1No puedo creerlo!"
+  dialogImages:
+  - {fileID: 2290578171921929365, guid: 2aec5ddcf1bb8554faf480ed24abe00b, type: 3}
+  - {fileID: -7432236359850156636, guid: 2aec5ddcf1bb8554faf480ed24abe00b, type: 3}
+  - {fileID: -2847236373996254176, guid: 2aec5ddcf1bb8554faf480ed24abe00b, type: 3}
+  - {fileID: 3378467618510563219, guid: 2aec5ddcf1bb8554faf480ed24abe00b, type: 3}
+  - {fileID: -639471309657946716, guid: 2aec5ddcf1bb8554faf480ed24abe00b, type: 3}
+  - {fileID: 40245585198002110, guid: 2aec5ddcf1bb8554faf480ed24abe00b, type: 3}
   hasRuby: 0
   isTurn: 0
   isUsingHab: 0
   habDuration: 1
   stun: 0
   puntuation: 0
-  speedMovement: 4
+  speedMovement: 2
   currentSpeed: 0
   sr: {fileID: 0}
   animator: {fileID: 0}
@@ -296,6 +311,12 @@ MonoBehaviour:
   respawnPoint: {x: 0, y: 0}
   playersToAttack: []
   friskCopy: 0
+  audioSource: {fileID: 0}
+  audioClips:
+  - {fileID: 8300000, guid: 894de11fe5b2ae342a0b90c91513dc60, type: 3}
+  - {fileID: 8300000, guid: 257e781080feb1343adf2905ac6a0bc3, type: 3}
+  - {fileID: 8300000, guid: b7d8032d19f6d834cbf15a4966a0ff33, type: 3}
+  - {fileID: 8300000, guid: c7d633f4592bfa94d8380009fb95a862, type: 3}
   stunWave: {fileID: 2762345517293615245}
 --- !u!50 &1743481772224993476
 Rigidbody2D:
@@ -428,3 +449,99 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: -0.017942905, y: 0.2421875}
   m_Radius: 0.525681
+--- !u!82 &2053488948977270307
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7423906450571799244}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

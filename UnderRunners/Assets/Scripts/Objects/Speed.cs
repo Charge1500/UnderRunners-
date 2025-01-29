@@ -11,6 +11,5 @@ public class Speed : Objects
         if(getPlayer.currentSpeed*speed<=7){
             getPlayer.currentSpeed = Mathf.CeilToInt(getPlayer.currentSpeed * speed);
         }
-        Destroy(gameObject);
     }
 }

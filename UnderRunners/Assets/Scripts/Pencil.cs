@@ -161,29 +161,29 @@ public class Pencil : MonoBehaviour
     public void GenerateTrapsAndConsumables()
     { 
         List<(int, int)> paths = mazeGenerator.Paths();
-            int width = mazeGenerator.width;
-            int height = mazeGenerator.height;
-            if(paths.Contains((width/2,height/2))){
-                InstantiateRuby(new Vector3(width/2,height/2,0));
-                paths.Remove((width/2,height/2));
-                rubyRespawnPoint=new Vector3(width/2,height/2,0);
-            } else if(paths.Contains((width/2+1,height/2))){
-                InstantiateRuby(new Vector3(width/2+1,height/2,0));
-                paths.Remove((width/2+1,height/2));
-                rubyRespawnPoint=new Vector3(width/2+1,height/2,0);
-            } else if(paths.Contains((width/2,height/2+1))){
-                InstantiateRuby(new Vector3(width/2,height/2+1,0));
-                paths.Remove((width/2,height/2+1));
-                rubyRespawnPoint=new Vector3(width/2,height/2+1,0);
-            } else if(paths.Contains((width/2-1,height/2))){
-                InstantiateRuby(new Vector3(width/2-1,height/2,0));
-                paths.Remove((width/2-1,height/2));
-                rubyRespawnPoint=new Vector3(width/2-1,height/2,0);
-            } else{
-                InstantiateRuby(new Vector3(width/2,height/2-1,0));
-                paths.Remove((width/2,height/2-1));
-                rubyRespawnPoint=new Vector3(width/2,height/2-1,0);
-            }
+        int width = mazeGenerator.width;
+        int height = mazeGenerator.height;
+        if(paths.Contains((width/2,height/2))){
+            InstantiateRuby(new Vector3(width/2,height/2,0));
+            paths.Remove((width/2,height/2));
+            rubyRespawnPoint=new Vector3(width/2,height/2,0);
+        } else if(paths.Contains((width/2+1,height/2))){
+            InstantiateRuby(new Vector3(width/2+1,height/2,0));
+            paths.Remove((width/2+1,height/2));
+            rubyRespawnPoint=new Vector3(width/2+1,height/2,0);
+        } else if(paths.Contains((width/2,height/2+1))){
+            InstantiateRuby(new Vector3(width/2,height/2+1,0));
+            paths.Remove((width/2,height/2+1));
+            rubyRespawnPoint=new Vector3(width/2,height/2+1,0);
+        } else if(paths.Contains((width/2-1,height/2))){
+            InstantiateRuby(new Vector3(width/2-1,height/2,0));
+            paths.Remove((width/2-1,height/2));
+            rubyRespawnPoint=new Vector3(width/2-1,height/2,0);
+        } else{
+            InstantiateRuby(new Vector3(width/2,height/2-1,0));
+            paths.Remove((width/2,height/2-1));
+            rubyRespawnPoint=new Vector3(width/2,height/2-1,0);
+        }
         List<(int, int)> deletedPaths = new List<(int, int)>();
         bool wasOcuped=false;
         

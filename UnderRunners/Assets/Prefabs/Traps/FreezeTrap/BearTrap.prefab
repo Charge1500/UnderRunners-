@@ -160,3 +160,8 @@ MonoBehaviour:
   isPlayerInside: 0
   animator: {fileID: 0}
   playerCollider: {fileID: 0}
+  position: {x: 0, y: 0, z: 0}
+  soundEffectManager: {fileID: 0}
+  audioSource: {fileID: 0}
+  clips:
+  - {fileID: 8300000, guid: b4f74a40efb0b7842971847cca79f5a0, type: 3}

@@ -7,7 +7,7 @@ using TMPro;
 public class Info : MonoBehaviour
 {
     public InfoObjects info;
-    public string infoTextString;
+    protected string infoTextString;
 
     void Awake(){
         info=GetComponentInParent<InfoObjects>();

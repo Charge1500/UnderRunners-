@@ -18,6 +18,15 @@ public class Player : MonoBehaviour
     public int coldown;
     public int currentColdown;
     private Color originalColor;
+    //Dialog Texts
+    public string dialogStartTurn;
+    public string dialogAttack;
+    public string dialogDamage;
+    public string dialogHab;
+    public string dialogHeal;
+    public string dialogFoundRuby;
+    //Dialog Images
+    public Sprite[] dialogImages;
     //-----------------
     public bool hasRuby = false;
     public bool isTurn = false;
@@ -42,11 +51,16 @@ public class Player : MonoBehaviour
     //Attack
     public List<Player> playersToAttack = new List<Player>();
     public bool friskCopy=false;
+    //AudioSource
+    public AudioSource audioSource;
+    public AudioClip[] audioClips;
+    
 
     void Awake(){
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
 
         originalColor = sr.color;
         currentHealth=health;
@@ -96,7 +110,7 @@ public class Player : MonoBehaviour
                 _movement.Normalize();
             }
 
-            _movement *= currentSpeed * Time.deltaTime;
+            _movement *= currentSpeed * Time.deltaTime*0.3f;
         }
         else
         {
@@ -119,9 +133,12 @@ public class Player : MonoBehaviour
     public virtual void TakeDamage(int damage)
     {
         if(!isUsingHab){
+            if(isTurn){
+                turnOf.UpdateDialogText(dialogDamage,2);
+            }
             currentHealth -= damage;
             if(currentHealth < 0) currentHealth=0;
-            turnOf.UpdateUI();
+                turnOf.UpdateUI();
             if (currentHealth <= 0)
             {
                 StartCoroutine(Die());
@@ -133,26 +150,34 @@ public class Player : MonoBehaviour
 
     private IEnumerator DamageEffect()
     {
+        audioSource.PlayOneShot(audioClips[0]);
         sr.color = Color.red;
+        bool wasTurn = isTurn;
         isTurn=false;
         isUsingHab=true;
         yield return new WaitForSeconds(0.5f);
-        isTurn=true;
+        if(wasTurn){
+            isTurn=true;
+        }
         isUsingHab=false;
         sr.color = originalColor;
     }
 
     private IEnumerator Die()
     {
+        audioSource.PlayOneShot(audioClips[1]);
+        if(puntuation>0){
+            puntuation--;
+        }
         sr.color = originalColor;
         stun=false;
         bool wasTurn=isTurn;
         isTurn=false;
         animator.SetBool("ExcludeDead",false);
         animator.SetTrigger("Dead"); 
-        isUsingHab=true;
+        isUsingHab=(wasTurn) ? true : false;
         yield return new WaitForSeconds(0.6f);
-        isUsingHab=false;
+        isUsingHab=(wasTurn) ? false : false;
         if(wasTurn){
             turnOf.NextTurn();
         }
@@ -167,6 +192,7 @@ public class Player : MonoBehaviour
 
     public void Respawn()
     { 
+        RestoreOriginalStats();
         transform.position = respawnPoint;
         currentHealth = health;
         turnOf.UpdateUI();
@@ -200,24 +226,24 @@ public class Player : MonoBehaviour
         isUsingHab = true;
         animator.SetBool("IsWalking", false);
         animator.SetInteger("WalkDirection", 1); // Abajo
+        rb.constraints = RigidbodyConstraints2D.FreezeAll; // Congela todo
         yield return new WaitForSeconds(habDuration); // Tiempo que tarda la habilidad en ejecutarse
+        rb.constraints = RigidbodyConstraints2D.FreezeRotation;
         isUsingHab = false; // Reactiva el movimiento
     }
 
     private void OnTriggerEnter2D(Collider2D someone){
-        if (someone.CompareTag("Player")){   
+        if (someone.CompareTag("Player") && !isUsingHab && turnOf.oneAttack){ 
             Player player = someone.GetComponent<Player>();
             if (!playersToAttack.Contains(player) && player.playerName!=playerName){}
             {
                 playersToAttack.Add(player);
-                turnOf.attackButton.interactable = true;
             }
         }
-        if (someone.CompareTag("FriskCopy")){ 
-            Debug.Log("DETECTADO");   
+        if (someone.CompareTag("FriskCopy") && !isUsingHab && turnOf.oneAttack){  
             friskCopy=true;
-            turnOf.attackButton.interactable = true;
         }
+        turnOf.attackButton.interactable=(playersToAttack.Count > 0||friskCopy) && turnOf.oneAttack;
     }
 
     private void OnTriggerExit2D(Collider2D someone){
@@ -226,13 +252,14 @@ public class Player : MonoBehaviour
             if (playersToAttack.Contains(player))
             {
                 playersToAttack.Remove(player);
-                turnOf.attackButton.interactable = playersToAttack.Count > 0;
             }
         }
         if (someone.CompareTag("FriskCopy")){  
-            Debug.Log("DETECTADO Salida");  
             friskCopy=false;
-            turnOf.attackButton.interactable = friskCopy || playersToAttack.Count > 0;
         }
+        turnOf.attackButton.interactable=(playersToAttack.Count > 0||friskCopy) && turnOf.oneAttack;
+    }
+    public void HabSound(){
+        audioSource.PlayOneShot(audioClips[3]);
     }
 }

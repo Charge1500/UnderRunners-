@@ -9,6 +9,6 @@ public class FriskInfo : SelectionCharacterSelected
     this.health=6;
     this.attack=4;
     this.speed=4;
-    this.description="FRISK : es el protagonista de \"Undertale\", un niño(a) valiente y determinado que cae en el mundo subterráneo. A lo largo de su aventura, Frisk muestra empatía y puede optar por resolver conflictos de manera pacífica o luchar si es necesario. Sus decisiones moldean su destino y las relaciones que forja con los habitantes del subsuelo.";
+    this.description="Frisk crea una réplica exacta de sí mismo que engaña a los enemigos en el campo de batalla. Si algún jugador, incluyendo Frisk, ataca esta copia, el ataque se refleja automáticamente, haciendo que el atacante sufra el mismo daño. Esta habilidad no solo protege a Frisk, sino que también vuelve a sus enemigos vulnerables a sus propios ataques.(Tenga cuidado de activarlo y colocarlo encima de un muro)";
     }
 }

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SansHab : MonoBehaviour
+public class SansHab : Habs
 {
     public GameObject sansPortal1;
     public GameObject sansPortal2;

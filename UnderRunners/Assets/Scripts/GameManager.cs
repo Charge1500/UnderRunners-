@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     private TurnOf turnOf;
     public GameObject menuPanel;
     public GameObject resumir;
+    public AudioClip track;
 
     void Awake()
     {
@@ -27,8 +28,6 @@ public class GameManager : MonoBehaviour
     {
         // Inicializar el laberinto
         mazeGenerator.InitializeMaze();
-        mazeGenerator.GenerateMaze(1, 1);
-        mazeGenerator.OpenPaths();
 
         // Llamar a Pencil para dibujar
         pencil.DrawMaze();
@@ -41,6 +40,16 @@ public class GameManager : MonoBehaviour
     }
 
     void Update(){
+        if(Input.GetKeyDown(KeyCode.Q)){
+            turnOf.Attack();
+        }
+        if(Input.GetKeyDown(KeyCode.E)){
+            if(!turnOf.isWaitingForAbilityClick){
+                turnOf.turns[turnOf.currentTurnIndex].ActiveHab();
+            }else if(turnOf.isWaitingForAbilityClick){
+                turnOf.isWaitingForAbilityClick=false;
+            }
+        }
         if (Input.GetKeyDown(KeyCode.Escape)){
             menuPanel.SetActive(!menuPanel.activeSelf);
         }
@@ -50,6 +59,11 @@ public class GameManager : MonoBehaviour
             EventSystem.current.SetSelectedGameObject(resumir);
         } else { 
             Time.timeScale = 1f; // Reanuda el juego 
+        }
+        if(turnOf.endTurnScreen.activeSelf){
+           if(Input.GetKeyDown(KeyCode.Return)){
+                Aceptar();
+            }
         }
         if(turnOf.gameEnded){
             Time.timeScale = 0f;
@@ -61,7 +75,8 @@ public class GameManager : MonoBehaviour
         menuPanel.SetActive(false);
     }
     public void Reiniciar(){
-        UnityEngine.SceneManagement.SceneManager.LoadScene("SampleScene");
+        UnityEngine.SceneManagement.SceneManager.LoadScene("UnderMaze");
+        MusicManager.Instance.ChangeTrack(track);
     }
 
     public void Menu(){
@@ -71,6 +86,10 @@ public class GameManager : MonoBehaviour
     public void Salir(){
         Application.Quit();
     }
+
+    public void Aceptar(){
+        Time.timeScale = 1f; 
+        turnOf.endTurnScreen.SetActive(false);
+        turnOf.NextNextTurn();
+    }
 }
-
-

@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: 516b13060f17de44a81345a46658f600
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7387239365020904740
+    second: PC Computer - Undertale - Papyrus (1)_0
+  - first:
+      213: 8816982040594649334
+    second: PC Computer - Undertale - Papyrus (1)_1
+  - first:
+      213: -3837512942803948332
+    second: PC Computer - Undertale - Papyrus (1)_2
+  - first:
+      213: -9190104443425897531
+    second: PC Computer - Undertale - Papyrus (1)_3
+  - first:
+      213: -8486575011910687938
+    second: PC Computer - Undertale - Papyrus (1)_4
+  - first:
+      213: 7369385590217464025
+    second: PC Computer - Undertale - Papyrus (1)_5
+  - first:
+      213: 3030053899142463556
+    second: PC Computer - Undertale - Papyrus (1)_6
+  - first:
+      213: 4969430572432941287
+    second: PC Computer - Undertale - Papyrus (1)_7
+  - first:
+      213: 7109031355261988473
+    second: PC Computer - Undertale - Papyrus (1)_8
+  - first:
+      213: 518889313463120376
+    second: PC Computer - Undertale - Papyrus (1)_9
+  - first:
+      213: 7724440818248401188
+    second: PC Computer - Undertale - Papyrus (1)_10
+  - first:
+      213: 8082353362097899083
+    second: PC Computer - Undertale - Papyrus (1)_11
+  - first:
+      213: -7538353219533669555
+    second: PC Computer - Undertale - Papyrus (1)_12
+  - first:
+      213: 4221941047062894452
+    second: PC Computer - Undertale - Papyrus (1)_13
+  - first:
+      213: 4969207079727714117
+    second: PC Computer - Undertale - Papyrus (1)_14
+  - first:
+      213: 7928007810971372100
+    second: PC Computer - Undertale - Papyrus (1)_15
+  - first:
+      213: -4620500965107503328
+    second: PC Computer - Undertale - Papyrus (1)_16
+  - first:
+      213: 3343857467555781982
+    second: PC Computer - Undertale - Papyrus (1)_17
+  - first:
+      213: -7047721259833543003
+    second: PC Computer - Undertale - Papyrus (1)_18
+  - first:
+      213: -992354352316465330
+    second: PC Computer - Undertale - Papyrus (1)_19
+  - first:
+      213: -1936079016994177290
+    second: PC Computer - Undertale - Papyrus (1)_20
+  - first:
+      213: -7004665242619583275
+    second: PC Computer - Undertale - Papyrus (1)_21
+  - first:
+      213: 1381625952270392672
+    second: PC Computer - Undertale - Papyrus (1)_22
+  - first:
+      213: -2748004885325739117
+    second: PC Computer - Undertale - Papyrus (1)_23
+  - first:
+      213: -6725398676897408085
+    second: PC Computer - Undertale - Papyrus (1)_24
+  - first:
+      213: 2489455997188926283
+    second: PC Computer - Undertale - Papyrus (1)_25
+  - first:
+      213: -171776997276013177
+    second: PC Computer - Undertale - Papyrus (1)_26
+  - first:
+      213: 1783246686424253261
+    second: PC Computer - Undertale - Papyrus (1)_27
+  - first:
+      213: 1986670453084072212
+    second: PC Computer - Undertale - Papyrus (1)_28
+  - first:
+      213: -3767774919742702818
+    second: PC Computer - Undertale - Papyrus (1)_29
+  - first:
+      213: -8662425967884200649
+    second: PC Computer - Undertale - Papyrus (1)_30
+  - first:
+      213: -3087146842484814871
+    second: PC Computer - Undertale - Papyrus (1)_31
+  - first:
+      213: -5399114739106623056
+    second: PC Computer - Undertale - Papyrus (1)_32
+  - first:
+      213: 4623085406588243630
+    second: PC Computer - Undertale - Papyrus (1)_33
+  - first:
+      213: 3697271237634197392
+    second: PC Computer - Undertale - Papyrus (1)_34
+  - first:
+      213: 1816097854027497001
+    second: PC Computer - Undertale - Papyrus (1)_35
+  - first:
+      213: 8351958241332336907
+    second: PC Computer - Undertale - Papyrus (1)_36
+  - first:
+      213: -3057561100133653041
+    second: PC Computer - Undertale - Papyrus (1)_37
+  - first:
+      213: 8505027272224992466
+    second: PC Computer - Undertale - Papyrus (1)_38
+  - first:
+      213: 5794860239125484794
+    second: PC Computer - Undertale - Papyrus (1)_39
+  - first:
+      213: 7254337474150654179
+    second: PC Computer - Undertale - Papyrus (1)_40
+  - first:
+      213: 6530141531005843625
+    second: PC Computer - Undertale - Papyrus (1)_41
+  - first:
+      213: -7916248295477330383
+    second: PC Computer - Undertale - Papyrus (1)_42
+  - first:
+      213: 220564701559688344
+    second: PC Computer - Undertale - Papyrus (1)_43
+  - first:
+      213: 4784068855752432706
+    second: PC Computer - Undertale - Papyrus (1)_44
+  - first:
+      213: -4839195543849820745
+    second: PC Computer - Undertale - Papyrus (1)_45
+  - first:
+      213: 575145672721307771
+    second: PC Computer - Undertale - Papyrus (1)_46
+  - first:
+      213: -8271548573746361232
+    second: PC Computer - Undertale - Papyrus (1)_47
+  - first:
+      213: 8264450959277398641
+    second: PC Computer - Undertale - Papyrus (1)_48
+  - first:
+      213: 607205769113591010
+    second: PC Computer - Undertale - Papyrus (1)_49
+  - first:
+      213: -865282860340179596
+    second: PC Computer - Undertale - Papyrus (1)_50
+  - first:
+      213: -6964444023003091192
+    second: PC Computer - Undertale - Papyrus (1)_51
+  - first:
+      213: -9153729151594273071
+    second: PC Computer - Undertale - Papyrus (1)_52
+  - first:
+      213: 4668236461324932722
+    second: PC Computer - Undertale - Papyrus (1)_53
+  - first:
+      213: -3923406961684877669
+    second: PC Computer - Undertale - Papyrus (1)_54
+  - first:
+      213: -922937981696570832
+    second: PC Computer - Undertale - Papyrus (1)_55
+  - first:
+      213: 1720394624411621710
+    second: PC Computer - Undertale - Papyrus (1)_56
+  - first:
+      213: -848809636900181818
+    second: PC Computer - Undertale - Papyrus (1)_57
+  - first:
+      213: 5076402918733110368
+    second: PC Computer - Undertale - Papyrus (1)_58
+  - first:
+      213: -4961160959255339564
+    second: PC Computer - Undertale - Papyrus (1)_59
+  - first:
+      213: -5860955413558421778
+    second: PC Computer - Undertale - Papyrus (1)_60
+  - first:
+      213: -2884636995653657621
+    second: PC Computer - Undertale - Papyrus (1)_61
+  - first:
+      213: -5976515137690094437
+    second: PC Computer - Undertale - Papyrus (1)_62
+  - first:
+      213: 8730999139303170484
+    second: PC Computer - Undertale - Papyrus (1)_63
+  - first:
+      213: 6702578959718937912
+    second: PC Computer - Undertale - Papyrus (1)_64
+  - first:
+      213: -6897702529165234592
+    second: PC Computer - Undertale - Papyrus (1)_65
+  - first:
+      213: -6268873850630848456
+    second: PC Computer - Undertale - Papyrus (1)_66
+  - first:
+      213: 1554722365282131988
+    second: PC Computer - Undertale - Papyrus (1)_67
+  - first:
+      213: -3722572686699199056
+    second: PC Computer - Undertale - Papyrus (1)_68
+  - first:
+      213: 8159602902861045580
+    second: PC Computer - Undertale - Papyrus (1)_69
+  - first:
+      213: -5091808947741862273
+    second: PC Computer - Undertale - Papyrus (1)_70
+  - first:
+      213: -8598583515009272822
+    second: PC Computer - Undertale - Papyrus (1)_71
+  - first:
+      213: -6520286230641589223
+    second: PC Computer - Undertale - Papyrus (1)_72
+  - first:
+      213: -2914899787210209060
+    second: PC Computer - Undertale - Papyrus (1)_73
+  - first:
+      213: -8494138654623227402
+    second: PC Computer - Undertale - Papyrus (1)_74
+  - first:
+      213: 5965098318542141438
+    second: PC Computer - Undertale - Papyrus (1)_75
+  - first:
+      213: -8701084988377848433
+    second: PC Computer - Undertale - Papyrus (1)_76
+  - first:
+      213: 5117750659538279535
+    second: PC Computer - Undertale - Papyrus (1)_77
+  - first:
+      213: 7943663830794998174
+    second: PC Computer - Undertale - Papyrus (1)_78
+  - first:
+      213: -7861443349738600459
+    second: PC Computer - Undertale - Papyrus (1)_79
+  - first:
+      213: -659188908797739380
+    second: PC Computer - Undertale - Papyrus (1)_80
+  - first:
+      213: 3949082294471218791
+    second: PC Computer - Undertale - Papyrus (1)_81
+  - first:
+      213: 1251664413240625551
+    second: PC Computer - Undertale - Papyrus (1)_82
+  - first:
+      213: 5776002250367274885
+    second: PC Computer - Undertale - Papyrus (1)_83
+  - first:
+      213: 6786613202942200481
+    second: PC Computer - Undertale - Papyrus (1)_84
+  - first:
+      213: -8949958902769948129
+    second: PC Computer - Undertale - Papyrus (1)_85
+  - first:
+      213: -8521706262355708251
+    second: PC Computer - Undertale - Papyrus (1)_86
+  - first:
+      213: -1795399465828066677
+    second: PC Computer - Undertale - Papyrus (1)_87
+  - first:
+      213: -5576294705800961555
+    second: PC Computer - Undertale - Papyrus (1)_88
+  - first:
+      213: -4745109823296543763
+    second: PC Computer - Undertale - Papyrus (1)_89
+  - first:
+      213: 7225729779727864855
+    second: PC Computer - Undertale - Papyrus (1)_90
+  - first:
+      213: 1022713000569204236
+    second: PC Computer - Undertale - Papyrus (1)_91
+  - first:
+      213: 5339864827116785054
+    second: PC Computer - Undertale - Papyrus (1)_92
+  - first:
+      213: 3380006389813042303
+    second: PC Computer - Undertale - Papyrus (1)_93
+  - first:
+      213: 1870075653588335719
+    second: PC Computer - Undertale - Papyrus (1)_94
+  - first:
+      213: -4589473254151254772
+    second: PC Computer - Undertale - Papyrus (1)_95
+  - first:
+      213: -2648795503067399212
+    second: PC Computer - Undertale - Papyrus (1)_96
+  - first:
+      213: -1538733825783608036
+    second: PC Computer - Undertale - Papyrus (1)_97
+  - first:
+      213: -3898112165002972384
+    second: PC Computer - Undertale - Papyrus (1)_98
+  - first:
+      213: -4432846245491707490
+    second: PC Computer - Undertale - Papyrus (1)_99
+  - first:
+      213: -3318277433785533827
+    second: PC Computer - Undertale - Papyrus (1)_100
+  - first:
+      213: 3664486034043599641
+    second: PC Computer - Undertale - Papyrus (1)_101
+  - first:
+      213: 5421502808249828145
+    second: PC Computer - Undertale - Papyrus (1)_102
+  - first:
+      213: -2262521213006504771
+    second: PC Computer - Undertale - Papyrus (1)_103
+  - first:
+      213: 962141688546314715
+    second: PC Computer - Undertale - Papyrus (1)_104
+  - first:
+      213: -624796721082855960
+    second: PC Computer - Undertale - Papyrus (1)_105
+  - first:
+      213: -6742962915781923870
+    second: PC Computer - Undertale - Papyrus (1)_106
+  - first:
+      213: 5468196646668888126
+    second: PC Computer - Undertale - Papyrus (1)_107
+  - first:
+      213: -4050034050165387532
+    second: PC Computer - Undertale - Papyrus (1)_108
+  - first:
+      213: -5261887127217591793
+    second: PC Computer - Undertale - Papyrus (1)_109
+  - first:
+      213: 8891372329384340220
+    second: PC Computer - Undertale - Papyrus (1)_110
+  - first:
+      213: -7475582944691738264
+    second: PC Computer - Undertale - Papyrus (1)_111
+  - first:
+      213: -6068096159967059749
+    second: PC Computer - Undertale - Papyrus (1)_112
+  - first:
+      213: 3623084310345034802
+    second: PC Computer - Undertale - Papyrus (1)_113
+  - first:
+      213: -5267116730121903294
+    second: PC Computer - Undertale - Papyrus (1)_114
+  - first:
+      213: -3753219014144727876
+    second: PC Computer - Undertale - Papyrus (1)_115
+  - first:
+      213: -3799971303597836952
+    second: PC Computer - Undertale - Papyrus (1)_116
+  - first:
+      213: -2808127029760527387
+    second: PC Computer - Undertale - Papyrus (1)_117
+  - first:
+      213: -5261751594303701700
+    second: PC Computer - Undertale - Papyrus (1)_118
+  - first:
+      213: -5261449243404793406
+    second: PC Computer - Undertale - Papyrus (1)_119
+  - first:
+      213: -771134117453287153
+    second: PC Computer - Undertale - Papyrus (1)_120
+  - first:
+      213: 580693514670590466
+    second: PC Computer - Undertale - Papyrus (1)_121
+  - first:
+      213: -8875006928876210704
+    second: PC Computer - Undertale - Papyrus (1)_122
+  - first:
+      213: 1620446838963547422
+    second: PC Computer - Undertale - Papyrus (1)_123
+  - first:
+      213: -6132765213307522271
+    second: PC Computer - Undertale - Papyrus (1)_124
+  - first:
+      213: -3387332594777819578
+    second: PC Computer - Undertale - Papyrus (1)_125
+  - first:
+      213: -3488901983379660281
+    second: PC Computer - Undertale - Papyrus (1)_126
+  - first:
+      213: -4343770640491882688
+    second: PC Computer - Undertale - Papyrus (1)_127
+  - first:
+      213: -2352459036447486580
+    second: PC Computer - Undertale - Papyrus (1)_128
+  - first:
+      213: -1817448875801014428
+    second: PC Computer - Undertale - Papyrus (1)_129
+  - first:
+      213: -1589380028660983097
+    second: PC Computer - Undertale - Papyrus (1)_130
+  - first:
+      213: 5671638807977196106
+    second: PC Computer - Undertale - Papyrus (1)_131
+  - first:
+      213: 280915561816323725
+    second: PC Computer - Undertale - Papyrus (1)_132
+  - first:
+      213: -5693497213725804436
+    second: PC Computer - Undertale - Papyrus (1)_133
+  - first:
+      213: 9208563106730747501
+    second: PC Computer - Undertale - Papyrus (1)_134
+  - first:
+      213: 7793334827344077948
+    second: PC Computer - Undertale - Papyrus (1)_135
+  - first:
+      213: -482998872419599890
+    second: PC Computer - Undertale - Papyrus (1)_136
+  - first:
+      213: -6314143442617811888
+    second: PC Computer - Undertale - Papyrus (1)_137
+  - first:
+      213: -1456444589540363551
+    second: PC Computer - Undertale - Papyrus (1)_138
+  - first:
+      213: -2944183206908969044
+    second: PC Computer - Undertale - Papyrus (1)_139
+  - first:
+      213: -5895528581538375421
+    second: PC Computer - Undertale - Papyrus (1)_140
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 237
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b159f120cd7215b0800000000000000
+      internalID: -5399114739106623056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 237
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae0cf1eeaf782040800000000000000
+      internalID: 4623085406588243630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 238
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09928915cd18e370800000000000000
+      internalID: 8351958241332336907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 238
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dceaf51e3de70670800000000000000
+      internalID: 8505027272224992466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 238
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8f0a0df19bf9a50800000000000000
+      internalID: 6530141531005843625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_43
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 238
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c847e6d6a9f0300800000000000000
+      internalID: 220564701559688344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 169
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4102ff201cb739510800000000000000
+      internalID: 1554722365282131988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_68
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 169
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b509be4dd3c65cc0800000000000000
+      internalID: -3722572686699199056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_70
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 170
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76d0b55db24659b0800000000000000
+      internalID: -5091808947741862273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 170
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04b750b9d1bba880800000000000000
+      internalID: -8598583515009272822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_73
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 170
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8497b56123c87d0800000000000000
+      internalID: -2914899787210209060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_74
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 170
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1a442c5e1ce1a80800000000000000
+      internalID: -8494138654623227402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133838a641c0d3b40800000000000000
+      internalID: 5421502808249828145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_103
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 101
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc16f1b1f8e990e0800000000000000
+      internalID: -2262521213006504771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_106
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 101
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebaf2f24fe2c62a0800000000000000
+      internalID: -6742962915781923870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_107
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 101
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e386eaed0efe2eb40800000000000000
+      internalID: 5468196646668888126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_108
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 101
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fec7a74d736bc7c0800000000000000
+      internalID: -4050034050165387532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_116
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8657f548b3ac34bc0800000000000000
+      internalID: -3799971303597836952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Papyrus (1)_117
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e373f238578709d0800000000000000
+      internalID: -2808127029760527387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e28a358c6f2bcf548b6e6b0b3ce3c7fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Undertale - Papyrus (1)_0: 7387239365020904740
+      PC Computer - Undertale - Papyrus (1)_1: 8816982040594649334
+      PC Computer - Undertale - Papyrus (1)_10: 7724440818248401188
+      PC Computer - Undertale - Papyrus (1)_100: -3318277433785533827
+      PC Computer - Undertale - Papyrus (1)_101: 3664486034043599641
+      PC Computer - Undertale - Papyrus (1)_102: 5421502808249828145
+      PC Computer - Undertale - Papyrus (1)_103: -2262521213006504771
+      PC Computer - Undertale - Papyrus (1)_104: 962141688546314715
+      PC Computer - Undertale - Papyrus (1)_105: -624796721082855960
+      PC Computer - Undertale - Papyrus (1)_106: -6742962915781923870
+      PC Computer - Undertale - Papyrus (1)_107: 5468196646668888126
+      PC Computer - Undertale - Papyrus (1)_108: -4050034050165387532
+      PC Computer - Undertale - Papyrus (1)_109: -5261887127217591793
+      PC Computer - Undertale - Papyrus (1)_11: 8082353362097899083
+      PC Computer - Undertale - Papyrus (1)_110: 8891372329384340220
+      PC Computer - Undertale - Papyrus (1)_111: -7475582944691738264
+      PC Computer - Undertale - Papyrus (1)_112: -6068096159967059749
+      PC Computer - Undertale - Papyrus (1)_113: 3623084310345034802
+      PC Computer - Undertale - Papyrus (1)_114: -5267116730121903294
+      PC Computer - Undertale - Papyrus (1)_115: -3753219014144727876
+      PC Computer - Undertale - Papyrus (1)_116: -3799971303597836952
+      PC Computer - Undertale - Papyrus (1)_117: -2808127029760527387
+      PC Computer - Undertale - Papyrus (1)_118: -5261751594303701700
+      PC Computer - Undertale - Papyrus (1)_119: -5261449243404793406
+      PC Computer - Undertale - Papyrus (1)_12: -7538353219533669555
+      PC Computer - Undertale - Papyrus (1)_120: -771134117453287153
+      PC Computer - Undertale - Papyrus (1)_121: 580693514670590466
+      PC Computer - Undertale - Papyrus (1)_122: -8875006928876210704
+      PC Computer - Undertale - Papyrus (1)_123: 1620446838963547422
+      PC Computer - Undertale - Papyrus (1)_124: -6132765213307522271
+      PC Computer - Undertale - Papyrus (1)_125: -3387332594777819578
+      PC Computer - Undertale - Papyrus (1)_126: -3488901983379660281
+      PC Computer - Undertale - Papyrus (1)_127: -4343770640491882688
+      PC Computer - Undertale - Papyrus (1)_128: -2352459036447486580
+      PC Computer - Undertale - Papyrus (1)_129: -1817448875801014428
+      PC Computer - Undertale - Papyrus (1)_13: 4221941047062894452
+      PC Computer - Undertale - Papyrus (1)_130: -1589380028660983097
+      PC Computer - Undertale - Papyrus (1)_131: 5671638807977196106
+      PC Computer - Undertale - Papyrus (1)_132: 280915561816323725
+      PC Computer - Undertale - Papyrus (1)_133: -5693497213725804436
+      PC Computer - Undertale - Papyrus (1)_134: 9208563106730747501
+      PC Computer - Undertale - Papyrus (1)_135: 7793334827344077948
+      PC Computer - Undertale - Papyrus (1)_136: -482998872419599890
+      PC Computer - Undertale - Papyrus (1)_137: -6314143442617811888
+      PC Computer - Undertale - Papyrus (1)_138: -1456444589540363551
+      PC Computer - Undertale - Papyrus (1)_139: -2944183206908969044
+      PC Computer - Undertale - Papyrus (1)_14: 4969207079727714117
+      PC Computer - Undertale - Papyrus (1)_140: -5895528581538375421
+      PC Computer - Undertale - Papyrus (1)_15: 7928007810971372100
+      PC Computer - Undertale - Papyrus (1)_16: -4620500965107503328
+      PC Computer - Undertale - Papyrus (1)_17: 3343857467555781982
+      PC Computer - Undertale - Papyrus (1)_18: -7047721259833543003
+      PC Computer - Undertale - Papyrus (1)_19: -992354352316465330
+      PC Computer - Undertale - Papyrus (1)_2: -3837512942803948332
+      PC Computer - Undertale - Papyrus (1)_20: -1936079016994177290
+      PC Computer - Undertale - Papyrus (1)_21: -7004665242619583275
+      PC Computer - Undertale - Papyrus (1)_22: 1381625952270392672
+      PC Computer - Undertale - Papyrus (1)_23: -2748004885325739117
+      PC Computer - Undertale - Papyrus (1)_24: -6725398676897408085
+      PC Computer - Undertale - Papyrus (1)_25: 2489455997188926283
+      PC Computer - Undertale - Papyrus (1)_26: -171776997276013177
+      PC Computer - Undertale - Papyrus (1)_27: 1783246686424253261
+      PC Computer - Undertale - Papyrus (1)_28: 1986670453084072212
+      PC Computer - Undertale - Papyrus (1)_29: -3767774919742702818
+      PC Computer - Undertale - Papyrus (1)_3: -9190104443425897531
+      PC Computer - Undertale - Papyrus (1)_30: -8662425967884200649
+      PC Computer - Undertale - Papyrus (1)_31: -3087146842484814871
+      PC Computer - Undertale - Papyrus (1)_32: -5399114739106623056
+      PC Computer - Undertale - Papyrus (1)_33: 4623085406588243630
+      PC Computer - Undertale - Papyrus (1)_34: 3697271237634197392
+      PC Computer - Undertale - Papyrus (1)_35: 1816097854027497001
+      PC Computer - Undertale - Papyrus (1)_36: 8351958241332336907
+      PC Computer - Undertale - Papyrus (1)_37: -3057561100133653041
+      PC Computer - Undertale - Papyrus (1)_38: 8505027272224992466
+      PC Computer - Undertale - Papyrus (1)_39: 5794860239125484794
+      PC Computer - Undertale - Papyrus (1)_4: -8486575011910687938
+      PC Computer - Undertale - Papyrus (1)_40: 7254337474150654179
+      PC Computer - Undertale - Papyrus (1)_41: 6530141531005843625
+      PC Computer - Undertale - Papyrus (1)_42: -7916248295477330383
+      PC Computer - Undertale - Papyrus (1)_43: 220564701559688344
+      PC Computer - Undertale - Papyrus (1)_44: 4784068855752432706
+      PC Computer - Undertale - Papyrus (1)_45: -4839195543849820745
+      PC Computer - Undertale - Papyrus (1)_46: 575145672721307771
+      PC Computer - Undertale - Papyrus (1)_47: -8271548573746361232
+      PC Computer - Undertale - Papyrus (1)_48: 8264450959277398641
+      PC Computer - Undertale - Papyrus (1)_49: 607205769113591010
+      PC Computer - Undertale - Papyrus (1)_5: 7369385590217464025
+      PC Computer - Undertale - Papyrus (1)_50: -865282860340179596
+      PC Computer - Undertale - Papyrus (1)_51: -6964444023003091192
+      PC Computer - Undertale - Papyrus (1)_52: -9153729151594273071
+      PC Computer - Undertale - Papyrus (1)_53: 4668236461324932722
+      PC Computer - Undertale - Papyrus (1)_54: -3923406961684877669
+      PC Computer - Undertale - Papyrus (1)_55: -922937981696570832
+      PC Computer - Undertale - Papyrus (1)_56: 1720394624411621710
+      PC Computer - Undertale - Papyrus (1)_57: -848809636900181818
+      PC Computer - Undertale - Papyrus (1)_58: 5076402918733110368
+      PC Computer - Undertale - Papyrus (1)_59: -4961160959255339564
+      PC Computer - Undertale - Papyrus (1)_6: 3030053899142463556
+      PC Computer - Undertale - Papyrus (1)_60: -5860955413558421778
+      PC Computer - Undertale - Papyrus (1)_61: -2884636995653657621
+      PC Computer - Undertale - Papyrus (1)_62: -5976515137690094437
+      PC Computer - Undertale - Papyrus (1)_63: 8730999139303170484
+      PC Computer - Undertale - Papyrus (1)_64: 6702578959718937912
+      PC Computer - Undertale - Papyrus (1)_65: -6897702529165234592
+      PC Computer - Undertale - Papyrus (1)_66: -6268873850630848456
+      PC Computer - Undertale - Papyrus (1)_67: 1554722365282131988
+      PC Computer - Undertale - Papyrus (1)_68: -3722572686699199056
+      PC Computer - Undertale - Papyrus (1)_69: 8159602902861045580
+      PC Computer - Undertale - Papyrus (1)_7: 4969430572432941287
+      PC Computer - Undertale - Papyrus (1)_70: -5091808947741862273
+      PC Computer - Undertale - Papyrus (1)_71: -8598583515009272822
+      PC Computer - Undertale - Papyrus (1)_72: -6520286230641589223
+      PC Computer - Undertale - Papyrus (1)_73: -2914899787210209060
+      PC Computer - Undertale - Papyrus (1)_74: -8494138654623227402
+      PC Computer - Undertale - Papyrus (1)_75: 5965098318542141438
+      PC Computer - Undertale - Papyrus (1)_76: -8701084988377848433
+      PC Computer - Undertale - Papyrus (1)_77: 5117750659538279535
+      PC Computer - Undertale - Papyrus (1)_78: 7943663830794998174
+      PC Computer - Undertale - Papyrus (1)_79: -7861443349738600459
+      PC Computer - Undertale - Papyrus (1)_8: 7109031355261988473
+      PC Computer - Undertale - Papyrus (1)_80: -659188908797739380
+      PC Computer - Undertale - Papyrus (1)_81: 3949082294471218791
+      PC Computer - Undertale - Papyrus (1)_82: 1251664413240625551
+      PC Computer - Undertale - Papyrus (1)_83: 5776002250367274885
+      PC Computer - Undertale - Papyrus (1)_84: 6786613202942200481
+      PC Computer - Undertale - Papyrus (1)_85: -8949958902769948129
+      PC Computer - Undertale - Papyrus (1)_86: -8521706262355708251
+      PC Computer - Undertale - Papyrus (1)_87: -1795399465828066677
+      PC Computer - Undertale - Papyrus (1)_88: -5576294705800961555
+      PC Computer - Undertale - Papyrus (1)_89: -4745109823296543763
+      PC Computer - Undertale - Papyrus (1)_9: 518889313463120376
+      PC Computer - Undertale - Papyrus (1)_90: 7225729779727864855
+      PC Computer - Undertale - Papyrus (1)_91: 1022713000569204236
+      PC Computer - Undertale - Papyrus (1)_92: 5339864827116785054
+      PC Computer - Undertale - Papyrus (1)_93: 3380006389813042303
+      PC Computer - Undertale - Papyrus (1)_94: 1870075653588335719
+      PC Computer - Undertale - Papyrus (1)_95: -4589473254151254772
+      PC Computer - Undertale - Papyrus (1)_96: -2648795503067399212
+      PC Computer - Undertale - Papyrus (1)_97: -1538733825783608036
+      PC Computer - Undertale - Papyrus (1)_98: -3898112165002972384
+      PC Computer - Undertale - Papyrus (1)_99: -4432846245491707490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

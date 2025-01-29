@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: bb233df5c52a46741ad0db446fb74e27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5645212100953453789
+    second: PC Computer - Undertale - Sans Chat Icons_0
+  - first:
+      213: -3396319008036377410
+    second: PC Computer - Undertale - Sans Chat Icons_1
+  - first:
+      213: 534247126115714828
+    second: PC Computer - Undertale - Sans Chat Icons_2
+  - first:
+      213: 7356644684702742011
+    second: PC Computer - Undertale - Sans Chat Icons_3
+  - first:
+      213: -5494989564256585497
+    second: PC Computer - Undertale - Sans Chat Icons_4
+  - first:
+      213: -201556422577077440
+    second: PC Computer - Undertale - Sans Chat Icons_5
+  - first:
+      213: -3206013794914009121
+    second: PC Computer - Undertale - Sans Chat Icons_6
+  - first:
+      213: -4206435284836801475
+    second: PC Computer - Undertale - Sans Chat Icons_7
+  - first:
+      213: -7251041544729476115
+    second: PC Computer - Undertale - Sans Chat Icons_8
+  - first:
+      213: 1431679001982945960
+    second: PC Computer - Undertale - Sans Chat Icons_9
+  - first:
+      213: 1872457317916244718
+    second: PC Computer - Undertale - Sans Chat Icons_10
+  - first:
+      213: -8747128716819798591
+    second: PC Computer - Undertale - Sans Chat Icons_11
+  - first:
+      213: 7027641456737434118
+    second: PC Computer - Undertale - Sans Chat Icons_12
+  - first:
+      213: 4038905138007958454
+    second: PC Computer - Undertale - Sans Chat Icons_13
+  - first:
+      213: -8061305955856314750
+    second: PC Computer - Undertale - Sans Chat Icons_14
+  - first:
+      213: 7762876867536097883
+    second: PC Computer - Undertale - Sans Chat Icons_15
+  - first:
+      213: 304666694970612280
+    second: PC Computer - Undertale - Sans Chat Icons_16
+  - first:
+      213: -2482068736708621954
+    second: PC Computer - Undertale - Sans Chat Icons_17
+  - first:
+      213: 7078740046059289215
+    second: PC Computer - Undertale - Sans Chat Icons_18
+  - first:
+      213: 3555328329085233824
+    second: PC Computer - Undertale - Sans Chat Icons_19
+  - first:
+      213: -4092946310628823106
+    second: PC Computer - Undertale - Sans Chat Icons_20
+  - first:
+      213: 6190317848768811900
+    second: PC Computer - Undertale - Sans Chat Icons_21
+  - first:
+      213: -6609756179904708148
+    second: PC Computer - Undertale - Sans Chat Icons_22
+  - first:
+      213: -7413907804677934038
+    second: PC Computer - Undertale - Sans Chat Icons_23
+  - first:
+      213: 5895585217814858012
+    second: PC Computer - Undertale - Sans Chat Icons_24
+  - first:
+      213: -3321026671936589146
+    second: PC Computer - Undertale - Sans Chat Icons_25
+  - first:
+      213: -4816574372153218053
+    second: PC Computer - Undertale - Sans Chat Icons_26
+  - first:
+      213: -6517859437246989797
+    second: PC Computer - Undertale - Sans Chat Icons_27
+  - first:
+      213: -2377822235567323151
+    second: PC Computer - Undertale - Sans Chat Icons_28
+  - first:
+      213: -6524695139305141211
+    second: PC Computer - Undertale - Sans Chat Icons_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Sans Chat Icons_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd431170f72d75e40800000000000000
+      internalID: 5645212100953453789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Sans Chat Icons_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 22
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07866e3ee60a6700800000000000000
+      internalID: 534247126115714828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Sans Chat Icons_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 22
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8f102ea10edb3b0800000000000000
+      internalID: -5494989564256585497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Sans Chat Icons_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 22
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0434816608de33df0800000000000000
+      internalID: -201556422577077440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Sans Chat Icons_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 22
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3422a4256dbf95c0800000000000000
+      internalID: -4206435284836801475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Sans Chat Icons_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 22
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3cccaf1202f5b90800000000000000
+      internalID: -7251041544729476115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Sans Chat Icons_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 22
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa449987785ed310800000000000000
+      internalID: 1431679001982945960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5adac4ecd80c0014e819a2e9eee34366
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Undertale - Sans Chat Icons_0: 5645212100953453789
+      PC Computer - Undertale - Sans Chat Icons_1: -3396319008036377410
+      PC Computer - Undertale - Sans Chat Icons_10: 1872457317916244718
+      PC Computer - Undertale - Sans Chat Icons_11: -8747128716819798591
+      PC Computer - Undertale - Sans Chat Icons_12: 7027641456737434118
+      PC Computer - Undertale - Sans Chat Icons_13: 4038905138007958454
+      PC Computer - Undertale - Sans Chat Icons_14: -8061305955856314750
+      PC Computer - Undertale - Sans Chat Icons_15: 7762876867536097883
+      PC Computer - Undertale - Sans Chat Icons_16: 304666694970612280
+      PC Computer - Undertale - Sans Chat Icons_17: -2482068736708621954
+      PC Computer - Undertale - Sans Chat Icons_18: 7078740046059289215
+      PC Computer - Undertale - Sans Chat Icons_19: 3555328329085233824
+      PC Computer - Undertale - Sans Chat Icons_2: 534247126115714828
+      PC Computer - Undertale - Sans Chat Icons_20: -4092946310628823106
+      PC Computer - Undertale - Sans Chat Icons_21: 6190317848768811900
+      PC Computer - Undertale - Sans Chat Icons_22: -6609756179904708148
+      PC Computer - Undertale - Sans Chat Icons_23: -7413907804677934038
+      PC Computer - Undertale - Sans Chat Icons_24: 5895585217814858012
+      PC Computer - Undertale - Sans Chat Icons_25: -3321026671936589146
+      PC Computer - Undertale - Sans Chat Icons_26: -4816574372153218053
+      PC Computer - Undertale - Sans Chat Icons_27: -6517859437246989797
+      PC Computer - Undertale - Sans Chat Icons_28: -2377822235567323151
+      PC Computer - Undertale - Sans Chat Icons_29: -6524695139305141211
+      PC Computer - Undertale - Sans Chat Icons_3: 7356644684702742011
+      PC Computer - Undertale - Sans Chat Icons_4: -5494989564256585497
+      PC Computer - Undertale - Sans Chat Icons_5: -201556422577077440
+      PC Computer - Undertale - Sans Chat Icons_6: -3206013794914009121
+      PC Computer - Undertale - Sans Chat Icons_7: -4206435284836801475
+      PC Computer - Undertale - Sans Chat Icons_8: -7251041544729476115
+      PC Computer - Undertale - Sans Chat Icons_9: 1431679001982945960
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -10,6 +10,5 @@ public class TimeObject : Objects
     {
         TurnOf turnOf = GetComponentInParent<TurnOf>();; // Encontrar el gestor de turnos en la escena
         turnOf.IncreaseTurnTime(additionalTurnTime); // Aumentar el tiempo del turno
-        Destroy(gameObject);
     }
 }

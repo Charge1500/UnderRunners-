@@ -8,6 +8,8 @@ public class FreezeTrap : Traps
 
     void Start(){
         turnOf = GetComponentInParent<TurnOf>();
+        soundEffectManager = GetComponentInParent<SoundEffectManager>();
+        audioSource=soundEffectManager.audioSource;
     }
 
     public IEnumerator IsPlayerInside(){
@@ -20,10 +22,9 @@ public class FreezeTrap : Traps
             player.TakeDamage(1);
             player.isUsingHab=true;
             yield return new WaitForSeconds(0.8f);
-            player.isUsingHab=false;
-            Destroy(gameObject);
             turnOf.NextTurn();
-
+            player.isUsingHab=false;
+            animator.SetTrigger("Off");
         } else{
             yield return new WaitForSeconds(0.8f);
             animator.SetTrigger("Off");

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PapyrusHab : MonoBehaviour
+public class PapyrusHab : Habs
 {
     public Player papyrus;
     public GameObject habEffect;

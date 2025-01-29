@@ -17,8 +17,5 @@ public class PushTrap : Traps
         }
     }
 
-    public void DestroyObject()
-    {
-        Destroy(gameObject);
-    }
+    
 }

@@ -11,7 +11,7 @@ public class SelectionCharacterSelected : MonoBehaviour, ISelectHandler, IDesele
     public int health;
     public int attack;
     public int speed;
-    public string description;
+    protected string description;
     public TextMeshProUGUI textHealth;
     public TextMeshProUGUI textAttack;
     public TextMeshProUGUI textSpeed;

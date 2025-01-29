@@ -73,8 +73,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -362245535
-  m_SortingLayer: 4
+  m_SortingLayerID: -876645245
+  m_SortingLayer: 1
   m_SortingOrder: 10
   m_Sprite: {fileID: -9102071406222992516, guid: aff74f0ea09fb5043ab6e0ec97643843, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -159,13 +159,14 @@ GameObject:
   - component: {fileID: 80068024075907313}
   - component: {fileID: 3221923985384808869}
   - component: {fileID: 8820371492800054481}
+  - component: {fileID: 8348979531257060174}
   m_Layer: 0
   m_Name: HabEffectAppear
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &5250659711945347642
 Transform:
   m_ObjectHideFlags: 0
@@ -267,6 +268,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edb6cb2aa36702a479845ae482cfe0d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &8348979531257060174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8116862322104751558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4f9bd0d49407524fa321497b8e458be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8472155932908450555
 GameObject:
   m_ObjectHideFlags: 0
@@ -282,6 +295,7 @@ GameObject:
   - component: {fileID: 4679154229312908559}
   - component: {fileID: 4897009625318844493}
   - component: {fileID: 111127148058231178}
+  - component: {fileID: 8385956648419720915}
   m_Layer: 6
   m_Name: Papyrus
   m_TagString: Player
@@ -379,6 +393,22 @@ MonoBehaviour:
   currentAttack: 0
   coldown: 4
   currentColdown: 0
+  dialogStartTurn: "\xA1Es el gran Papyrus! \xA1Prep\xE1rense para mi incre\xEDble
+    turno!"
+  dialogAttack: "\xA1NYEH HEH HEH! \xA1Siente la fuerza del gran Papyrus!"
+  dialogDamage: "\xA1Oh no! \xA1Eso no es nada para el fabuloso Papyrus!"
+  dialogHab: "\xA1ATRAS! \xA1El gran Papyrus ha levantado un muro impenetrable! \xA1Nadie
+    puede pasar!"
+  dialogHeal: "\xA1WOWIE! \xA1Me siento revitalizado! \xA1Gracias!"
+  dialogFoundRuby: "\xA1Lo encontr\xE9! \xA1Con esto, la victoria est\xE1 asegurada
+    para Papyrus!"
+  dialogImages:
+  - {fileID: -5399114739106623056, guid: 516b13060f17de44a81345a46658f600, type: 3}
+  - {fileID: 8351958241332336907, guid: 516b13060f17de44a81345a46658f600, type: 3}
+  - {fileID: 5421502808249828145, guid: 516b13060f17de44a81345a46658f600, type: 3}
+  - {fileID: 1554722365282131988, guid: 516b13060f17de44a81345a46658f600, type: 3}
+  - {fileID: -8598583515009272822, guid: 516b13060f17de44a81345a46658f600, type: 3}
+  - {fileID: -2914899787210209060, guid: 516b13060f17de44a81345a46658f600, type: 3}
   hasRuby: 0
   isTurn: 0
   isUsingHab: 0
@@ -393,6 +423,12 @@ MonoBehaviour:
   respawnPoint: {x: 0, y: 0}
   playersToAttack: []
   friskCopy: 0
+  audioSource: {fileID: 0}
+  audioClips:
+  - {fileID: 8300000, guid: 894de11fe5b2ae342a0b90c91513dc60, type: 3}
+  - {fileID: 8300000, guid: 257e781080feb1343adf2905ac6a0bc3, type: 3}
+  - {fileID: 8300000, guid: b7d8032d19f6d834cbf15a4966a0ff33, type: 3}
+  - {fileID: 8300000, guid: e6ee6b70c9cef7f4c9f31be6666fdab5, type: 3}
   papyrusWall: {fileID: 3532780277147389911}
 --- !u!50 &7331754845657738457
 Rigidbody2D:
@@ -525,3 +561,99 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: -0.010766029, y: 0.24558888}
   m_Radius: 0.51472867
+--- !u!82 &8385956648419720915
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8472155932908450555}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

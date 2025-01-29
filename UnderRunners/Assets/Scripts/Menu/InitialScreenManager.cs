@@ -12,15 +12,22 @@ public class InitialScreenManager : MonoBehaviour
     public float transitionDuration = 1f; // Duración de la transición
 
     private bool transitioning = false;
+    private AudioSource audioSource;   
+    public AudioClip initialSong;
+    public AudioClip newSong;
 
     void Start(){
         Time.timeScale = 1f;
+        audioSource=GetComponent<AudioSource>();
+        MusicManager.Instance.ChangeTrack(initialSong);
     }
     void Update()
     {
         if (!transitioning && Input.anyKeyDown)
         {
+            audioSource.Play();
             StartCoroutine(TransitionToMenu());
+            MusicManager.Instance.ChangeTrack(newSong);
         }
     }
 

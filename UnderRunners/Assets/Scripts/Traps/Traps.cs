@@ -8,9 +8,19 @@ public class Traps : MonoBehaviour
     // Animator
     public Animator animator;
     public Collider2D playerCollider;
+    public Vector3 position;
 
+    public SoundEffectManager soundEffectManager;
+    public AudioSource audioSource;
+    public AudioClip[] clips;
     void Awake(){
         animator = GetComponent<Animator>();
+    }
+
+    void Start(){
+        position=transform.position;
+        soundEffectManager = GetComponentInParent<SoundEffectManager>();
+        audioSource=soundEffectManager.audioSource;
     }
 
     void OnTriggerEnter2D(Collider2D someone)
@@ -27,6 +37,7 @@ public class Traps : MonoBehaviour
              isPlayerInside=true;
              playerCollider=someone;  
             }
+            
         }
     }
     void OnTriggerExit2D(Collider2D someone)
@@ -42,5 +53,21 @@ public class Traps : MonoBehaviour
             isPlayerInside=false;  
             }
         }
+    }
+
+    public IEnumerator Wait(){
+        yield return new WaitForSeconds(3f);
+        transform.localScale=new Vector3(1,1,0);
+        transform.position=position;
+    }
+    public void Desactivate()
+    {
+        transform.position=new Vector3(-100,0,0);
+        transform.localScale=new Vector3(0,0,0);
+        StartCoroutine(Wait());
+    }
+
+    public void AudioClip1(){
+        audioSource.PlayOneShot(clips[0]);
     }
 }

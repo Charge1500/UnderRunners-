@@ -617,11 +617,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "ASGORE Dreemurr es el rey del subsuelo en \"Undertale\". Como
-    gobernante, Asgore se enfrenta al doloroso deber de recolectar las almas humanas
-    necesarias para romper la barrera que separa el subsuelo del mundo exterior.
-    Su historia es una mezcla de fuerza y vulnerabilidad, marcada por la p\xE9rdida
-    y el deseo de proteger a su pueblo."
 --- !u!1001 &63686581
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1005,11 +1000,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "FRISK : es el protagonista de \"Undertale\", un ni\xF1o(a) valiente
-    y determinado que cae en el mundo subterr\xE1neo. A lo largo de su aventura,
-    Frisk muestra empat\xEDa y puede optar por resolver conflictos de manera pac\xEDfica
-    o luchar si es necesario. Sus decisiones moldean su destino y las relaciones
-    que forja con los habitantes del subsuelo."
 --- !u!1 &72831922
 GameObject:
   m_ObjectHideFlags: 0
@@ -1034,8 +1024,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 72831922}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15, y: 5, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 21.647987, y: -15.932514, z: -1.2838175}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1047,7 +1037,7 @@ Transform:
   - {fileID: 807361579}
   - {fileID: 1557077838}
   - {fileID: 1272108889}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 292168290}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &73578835
 PrefabInstance:
@@ -1618,11 +1608,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En lo profundo del laberinto, una trampa ardiente
-    espera a los incautos. Al acercarse, la trampa se activa y lanza una r\xE1faga
-    de fuego, causando 1 punto de da\xF1o a cualquier desafortunado que se encuentre
-    en su camino.\nEfecto: Al activarse, la trampa suelta una r\xE1faga de fuego
-    que inflige 1 punto de da\xF1o al jugador."
 --- !u!1001 &106900282
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2885,10 +2870,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, una trampa
-    de bomba se disfraza astutamente como un objeto que da vida. Al acercarse, el
-    jugador debe decidir si recogerlo o no, ya que al activarse, la bomba explota
-    causando da\xF1o."
 --- !u!1001 &255794947
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3321,6 +3302,8 @@ GameObject:
   m_Component:
   - component: {fileID: 292168290}
   - component: {fileID: 292168289}
+  - component: {fileID: 292168292}
+  - component: {fileID: 292168291}
   m_Layer: 0
   m_Name: MiniGameManager
   m_TagString: Untagged
@@ -3337,7 +3320,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 292168288}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1beeb699d90edae45bb61a955c4a4bac, type: 3}
+  m_Script: {fileID: 11500000, guid: 707953808edf6334c9ccd8d6335d3bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 9145815751328367194}
@@ -3345,7 +3328,7 @@ MonoBehaviour:
   resumir: {fileID: 279986343}
   mainCamera: {fileID: 44220035}
   cameraFollowSpeed: 5
-  cameraZoom: 2
+  cameraZoom: 1.5
 --- !u!4 &292168290
 Transform:
   m_ObjectHideFlags: 0
@@ -3358,9 +3341,125 @@ Transform:
   m_LocalPosition: {x: -6.6479883, y: 20.932514, z: 1.2838175}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1716503929}
+  - {fileID: 782263464}
+  - {fileID: 298908746}
+  - {fileID: 1180914414}
+  - {fileID: 1664417638}
+  - {fileID: 72831923}
+  - {fileID: 1663161658}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &292168291
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 292168288}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &292168292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 292168288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae33236230f6b194094f8a167c157bec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioSource: {fileID: 292168291}
 --- !u!1001 &298391232
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3447,8 +3546,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 298908745}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3, y: 5, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.647988, y: -15.932514, z: -1.2838175}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3460,7 +3559,7 @@ Transform:
   - {fileID: 2012502964}
   - {fileID: 465861646}
   - {fileID: 831312227}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 292168290}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &301554020
 PrefabInstance:
@@ -6324,10 +6423,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, un jarr\xF3n
-    m\xE1gico espera a los aventureros valientes. Al recogerlo, el jugador recibe
-    un aumento en el tiempo de su turno, permiti\xE9ndole actuar durante 5 segundos
-    adicionales."
 --- !u!58 &497710762
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -6776,12 +6871,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Chara es uno de los personajes m\xE1s complejos de Undertale.
-    Conocido como el primer humano en caer en el subsuelo.Chara fue adoptado por
-    la familia Dreemurr despu\xE9s de caer en el subsuelo. Se convirti\xF3 en el
-    mejor amigo de Asriel Dreemurr. Juntos, Chara y Asriel idearon un plan para romper
-    la barrera que separa a los monstruos de los humanos, pero el plan termin\xF3
-    en tragedia."
 --- !u!1001 &557696551
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7124,10 +7213,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, una trampa
-    de rayo espera a los aventureros desprevenidos. Al acercarse, la trampa se activa
-    y lanza un rayo el\xE9ctrico, causando 2 puntos de da\xF1o a cualquier jugador
-    que se encuentre en su camino."
 --- !u!58 &573929340
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -7573,8 +7658,8 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 279986342}
   - {fileID: 141384944}
+  - {fileID: 279986342}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -8113,9 +8198,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: Oculta en las sombras del laberinto, una trampa
-    para osos espera a los aventureros desprevenidos. Al acercarse, la trampa se
-    activa y atrapa al jugador, causando 1 punto de da\xF1o y finalizando su turno."
 --- !u!58 &628755840
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -8375,7 +8457,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: Objetos
 --- !u!58 &664463364
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -9542,8 +9623,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 782263463}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6, y: -3, z: 0.06528887}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 12.647988, y: -23.932514, z: -1.2185286}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9718,7 +9799,7 @@ Transform:
   - {fileID: 1762707790}
   - {fileID: 990448104}
   - {fileID: 2070051504}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 292168290}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &785274204
 PrefabInstance:
@@ -11055,13 +11136,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "UNDYNE : es la capitana de la guardia real en \"Undertale\". Es
-    una guerrera poderosa y apasionada, conocida por su valent\xEDa y su feroz lealtad
-    hacia Asgore y el subsuelo. Con una apariencia de pez antropom\xF3rfico, Undyne
-    es una experta en combate y en el uso de lanzas m\xE1gicas. A pesar de su naturaleza
-    agresiva en la batalla, Undyne tiene un coraz\xF3n generoso y valora profundamente
-    la amistad y la justicia. Su determinaci\xF3n y esp\xEDritu indomable la convierten
-    en una figura formidable y admirable."
 --- !u!1001 &911125832
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13690,7 +13764,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: Trampas
 --- !u!58 &1131541845
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -13826,10 +13899,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, una trampa
-    de telara\xF1a espera a los aventureros desprevenidos. Al acercarse, el jugador
-    queda atrapado en la telara\xF1a, ralentizando su movimiento y dificultando su
-    avance."
 --- !u!58 &1131918431
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -14027,10 +14096,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, un barril
-    explosivo espera a los aventureros desprevenidos. Al acercarse, el barril se
-    activa y explota, causando un da\xF1o significativo a cualquier jugador que se
-    encuentre en su radio de explosi\xF3n."
 --- !u!58 &1170186780
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -14267,8 +14332,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1180914413}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.7279081, y: 2.6362238, z: -2.2610905}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 10.375896, y: -18.296291, z: -3.544908}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -14279,7 +14344,7 @@ Transform:
   - {fileID: 167181586}
   - {fileID: 1069407485}
   - {fileID: 1493030924}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 292168290}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1181514849
 GameObject:
@@ -14328,7 +14393,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: Personajes
 --- !u!58 &1181514852
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -15076,13 +15140,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "TORIEL : es la guardiana amable del Ruinas y una de las primeras
-    amigas que Frisk encuentra en \"Undertale\". Como ex-reina del subsuelo, Toriel
-    es una cabra antropom\xF3rfica cari\xF1osa y protectora, conocida por su hospitalidad
-    y su habilidad para hornear deliciosas tartas de caramelo y canela. A pesar de
-    su apariencia maternal, Toriel es fuerte y determinada, siempre dispuesta a proteger
-    a aquellos bajo su cuidado. Su historia est\xE1 marcada por su deseo de mantener
-    a los ni\xF1os humanos a salvo y su lucha con el dolor del pasado."
 --- !u!1001 &1234769356
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16984,10 +17041,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, un pergamino
-    m\xE1gico espera a los aventureros valientes. Al leerlo, el personaje se vuelve
-    m\xE1s peque\xF1o, lo que reduce su vida pero aumenta su velocidad de movimiento,
-    permiti\xE9ndole esquivar trampas y enemigos con mayor facilidad."
 --- !u!58 &1397353286
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -18375,13 +18428,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "SANS : es un esqueleto relajado y sarc\xE1stico en \"Undertale\".
-    Hermano mayor de Papyrus, Sans es conocido por su actitud despreocupada y su
-    habilidad para hacer bromas con juegos de palabras. A pesar de su apariencia
-    perezosa, Sans es incre\xEDblemente perceptivo y guarda varios secretos sobre
-    el mundo subterr\xE1neo y el flujo del tiempo. Su car\xE1cter enigm\xE1tico y
-    su humor distintivo lo convierten en uno de los personajes m\xE1s intrigantes
-    y queridos del juego."
 --- !u!1001 &1479994582
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18929,9 +18975,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, una espada
-    rota yace olvidada. Al recogerla, el jugador experimenta una disminuci\xF3n en
-    su poder de ataque debido a la condici\xF3n deteriorada de la espada."
 --- !u!58 &1526404750
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -19279,13 +19322,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "PAPYRUS : es un esqueleto alto y energ\xE9tico en \"Undertale\".
-    Como hermano menor de Sans, Papyrus es optimista, entusiasta y tiene una gran
-    pasi\xF3n por ser un guardia real. Aunque sus habilidades de combate pueden ser
-    inusuales, su dedicaci\xF3n y determinaci\xF3n son inquebrantables. Papyrus es
-    conocido por su amor por los espaguetis y su personalidad carism\xE1tica y amigable,
-    siempre tratando de hacer amigos en lugar de enemigos. Su ingenuidad y buen coraz\xF3n
-    lo convierten en un personaje encantador y entra\xF1able."
 --- !u!1001 &1551997043
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20099,10 +20135,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, unas botas
-    m\xE1gicas esperan a los aventureros valientes. Al equiparlas, el jugador experimenta
-    un aumento en su velocidad de movimiento, permiti\xE9ndole desplazarse m\xE1s
-    r\xE1pidamente por el laberinto."
 --- !u!58 &1619436719
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -20362,9 +20394,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, un hongo m\xE1gico
-    espera a los aventureros valientes. Al consumirlo, el personaje crece en tama\xF1o,
-    aumentando su ataque y vida, pero a costa de moverse m\xE1s lentamente."
 --- !u!58 &1649399094
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -20740,8 +20769,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1663161656}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.0130544, y: -2.3088448, z: 2.2084002}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.661043, y: -23.24136, z: 0.9245827}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -20751,7 +20780,7 @@ Transform:
   - {fileID: 945027183}
   - {fileID: 228240077}
   - {fileID: 503712229}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 292168290}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1664417637
 GameObject:
@@ -20777,8 +20806,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1664417637}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9, y: 3, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 15.647988, y: -17.932514, z: -1.2838175}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -20790,7 +20819,7 @@ Transform:
   - {fileID: 1263531696}
   - {fileID: 1270256804}
   - {fileID: 194584993}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 292168290}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1669116001
 PrefabInstance:
@@ -20901,13 +20930,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "ALPHYS : es la cient\xEDfica real del subsuelo en \"Undertale\",
-    conocida por su brillantez y su pasi\xF3n por la tecnolog\xEDa y la ciencia.
-    A pesar de su inteligencia, Alphys es insegura y lucha con la ansiedad social.
-    Es una dinosaurio amarilla que ha creado numerosos inventos y tiene un fuerte
-    inter\xE9s por la cultura pop, especialmente por los anime. Su historia est\xE1
-    marcada por su deseo de hacer el bien y su lucha interna para enfrentar sus miedos
-    y errores del pasado."
 --- !u!58 &1669296652
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -21392,8 +21414,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1716503928}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.096945, y: -0.14855854, z: 4.4907913}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.744933, y: -21.081072, z: 3.2069738}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -21526,7 +21548,7 @@ Transform:
   - {fileID: 1315693477}
   - {fileID: 662865442}
   - {fileID: 605692559}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 292168290}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1719184333
 PrefabInstance:
@@ -23010,10 +23032,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, unas patas
-    de rana m\xE1gicas esperan a los aventureros valientes. Al equiparlas, el jugador
-    experimenta una reducci\xF3n en su velocidad de movimiento debido a la naturaleza
-    resbaladiza de las patas."
 --- !u!58 &1873527693
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -25260,9 +25278,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, un objeto
-    especial espera a los aventureros valientes. Al recogerlo, el jugador recibe
-    un aumento en su vida, permiti\xE9ndole continuar su viaje con m\xE1s resistencia."
 --- !u!58 &2045331770
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -25460,10 +25475,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, un objeto
-    especial espera a los aventureros valientes. Al recogerlo, el jugador recibe
-    un aumento temporal en su poder de ataque, permiti\xE9ndole enfrentar a los enemigos
-    con mayor fuerza."
 --- !u!58 &2067182453
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -25909,10 +25920,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: En las profundidades del laberinto, una trampa
-    de humo espera a los aventureros desprevenidos. Al acercarse, la trampa se activa
-    y libera una nube de humo denso, teletransportando al jugador a un lugar aleatorio
-    del mapa."
 --- !u!58 &2104154360
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -26157,10 +26164,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info: {fileID: 0}
-  infoTextString: "Descripci\xF3n: Oculta en las sombras del laberinto, una trampa
-    de pinchos espera a los aventureros desprevenidos. Al acercarse, los pinchos
-    se disparan desde el suelo, causando 1 punto de da\xF1o a cualquier jugador que
-    se encuentre en su camino."
 --- !u!58 &2118518222
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -26614,13 +26617,6 @@ SceneRoots:
   m_Roots:
   - {fileID: 44220036}
   - {fileID: 292168290}
-  - {fileID: 1716503929}
-  - {fileID: 782263464}
-  - {fileID: 298908746}
-  - {fileID: 1180914414}
-  - {fileID: 1664417638}
-  - {fileID: 72831923}
   - {fileID: 9145815751328367193}
   - {fileID: 596653711}
   - {fileID: 1117956944}
-  - {fileID: 1663161658}

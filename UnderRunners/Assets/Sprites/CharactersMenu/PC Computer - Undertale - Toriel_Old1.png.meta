@@ -1,0 +1,985 @@
+fileFormatVersion: 2
+guid: fb0b4abd7ddefa749b4523d85c22eff2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7777812299129866848
+    second: PC Computer - Undertale - Toriel_Old1_0
+  - first:
+      213: -3620547561452222411
+    second: PC Computer - Undertale - Toriel_Old1_1
+  - first:
+      213: 6408807964540566073
+    second: PC Computer - Undertale - Toriel_Old1_2
+  - first:
+      213: -682527086347102015
+    second: PC Computer - Undertale - Toriel_Old1_3
+  - first:
+      213: 3511317194874297290
+    second: PC Computer - Undertale - Toriel_Old1_4
+  - first:
+      213: -2936261539689078572
+    second: PC Computer - Undertale - Toriel_Old1_5
+  - first:
+      213: 9135173024533144675
+    second: PC Computer - Undertale - Toriel_Old1_6
+  - first:
+      213: -2675906873346499321
+    second: PC Computer - Undertale - Toriel_Old1_7
+  - first:
+      213: -2069746034991314147
+    second: PC Computer - Undertale - Toriel_Old1_8
+  - first:
+      213: 574922743210366238
+    second: PC Computer - Undertale - Toriel_Old1_9
+  - first:
+      213: -2239463616307255950
+    second: PC Computer - Undertale - Toriel_Old1_10
+  - first:
+      213: -8213895632654865297
+    second: PC Computer - Undertale - Toriel_Old1_11
+  - first:
+      213: 1910054082849630859
+    second: PC Computer - Undertale - Toriel_Old1_12
+  - first:
+      213: 3342510955771858001
+    second: PC Computer - Undertale - Toriel_Old1_13
+  - first:
+      213: -8852080660760167799
+    second: PC Computer - Undertale - Toriel_Old1_14
+  - first:
+      213: -1786597888772167129
+    second: PC Computer - Undertale - Toriel_Old1_15
+  - first:
+      213: -6654007368551439663
+    second: PC Computer - Undertale - Toriel_Old1_16
+  - first:
+      213: -1630378254716649229
+    second: PC Computer - Undertale - Toriel_Old1_17
+  - first:
+      213: -2834209804458536394
+    second: PC Computer - Undertale - Toriel_Old1_18
+  - first:
+      213: -4768022020739611254
+    second: PC Computer - Undertale - Toriel_Old1_19
+  - first:
+      213: -3708033615378196744
+    second: PC Computer - Undertale - Toriel_Old1_20
+  - first:
+      213: 3832978414182258319
+    second: PC Computer - Undertale - Toriel_Old1_21
+  - first:
+      213: 8225046164539487850
+    second: PC Computer - Undertale - Toriel_Old1_22
+  - first:
+      213: -5977582024620981878
+    second: PC Computer - Undertale - Toriel_Old1_23
+  - first:
+      213: -6179331259903631575
+    second: PC Computer - Undertale - Toriel_Old1_24
+  - first:
+      213: 2100581921189295136
+    second: PC Computer - Undertale - Toriel_Old1_25
+  - first:
+      213: 173563553472861587
+    second: PC Computer - Undertale - Toriel_Old1_26
+  - first:
+      213: 119672694036794415
+    second: PC Computer - Undertale - Toriel_Old1_27
+  - first:
+      213: -2891747929578870454
+    second: PC Computer - Undertale - Toriel_Old1_28
+  - first:
+      213: 2622660853082600737
+    second: PC Computer - Undertale - Toriel_Old1_29
+  - first:
+      213: 2792209443232079345
+    second: PC Computer - Undertale - Toriel_Old1_30
+  - first:
+      213: 3351058294892799256
+    second: PC Computer - Undertale - Toriel_Old1_31
+  - first:
+      213: 6941184970333585675
+    second: PC Computer - Undertale - Toriel_Old1_32
+  - first:
+      213: -8162207062227540229
+    second: PC Computer - Undertale - Toriel_Old1_33
+  - first:
+      213: 739466051996470488
+    second: PC Computer - Undertale - Toriel_Old1_34
+  - first:
+      213: -7479198626499219559
+    second: PC Computer - Undertale - Toriel_Old1_35
+  - first:
+      213: 3494911228450191283
+    second: PC Computer - Undertale - Toriel_Old1_36
+  - first:
+      213: -5291095474000332041
+    second: PC Computer - Undertale - Toriel_Old1_37
+  - first:
+      213: 451777728172445836
+    second: PC Computer - Undertale - Toriel_Old1_38
+  - first:
+      213: 5950698773179069963
+    second: PC Computer - Undertale - Toriel_Old1_39
+  - first:
+      213: -1972384085307818599
+    second: PC Computer - Undertale - Toriel_Old1_40
+  - first:
+      213: 3431237152657666913
+    second: PC Computer - Undertale - Toriel_Old1_41
+  - first:
+      213: 6408318002385684806
+    second: PC Computer - Undertale - Toriel_Old1_42
+  - first:
+      213: -6356289953503265686
+    second: PC Computer - Undertale - Toriel_Old1_43
+  - first:
+      213: -5481367884976506865
+    second: PC Computer - Undertale - Toriel_Old1_44
+  - first:
+      213: -4817890184866224332
+    second: PC Computer - Undertale - Toriel_Old1_45
+  - first:
+      213: 1218208230561465359
+    second: PC Computer - Undertale - Toriel_Old1_46
+  - first:
+      213: 630451304254370613
+    second: PC Computer - Undertale - Toriel_Old1_47
+  - first:
+      213: -1779867459303609782
+    second: PC Computer - Undertale - Toriel_Old1_48
+  - first:
+      213: 5376543310152054329
+    second: PC Computer - Undertale - Toriel_Old1_49
+  - first:
+      213: 866811693717374499
+    second: PC Computer - Undertale - Toriel_Old1_50
+  - first:
+      213: -1801951628932308146
+    second: PC Computer - Undertale - Toriel_Old1_51
+  - first:
+      213: -7643019762299992673
+    second: PC Computer - Undertale - Toriel_Old1_52
+  - first:
+      213: 2266240248427373409
+    second: PC Computer - Undertale - Toriel_Old1_53
+  - first:
+      213: -177001448842031500
+    second: PC Computer - Undertale - Toriel_Old1_54
+  - first:
+      213: -1648119632363999068
+    second: PC Computer - Undertale - Toriel_Old1_55
+  - first:
+      213: 2853191288999506867
+    second: PC Computer - Undertale - Toriel_Old1_56
+  - first:
+      213: 912262021975357179
+    second: PC Computer - Undertale - Toriel_Old1_57
+  - first:
+      213: 1781441303358824326
+    second: PC Computer - Undertale - Toriel_Old1_58
+  - first:
+      213: -304372355628303470
+    second: PC Computer - Undertale - Toriel_Old1_59
+  - first:
+      213: 7735060089452990018
+    second: PC Computer - Undertale - Toriel_Old1_60
+  - first:
+      213: -50277365129825680
+    second: PC Computer - Undertale - Toriel_Old1_61
+  - first:
+      213: -5069982153502590355
+    second: PC Computer - Undertale - Toriel_Old1_62
+  - first:
+      213: 564552925697149496
+    second: PC Computer - Undertale - Toriel_Old1_63
+  - first:
+      213: -8713420685662869957
+    second: PC Computer - Undertale - Toriel_Old1_64
+  - first:
+      213: 7848881426606488354
+    second: PC Computer - Undertale - Toriel_Old1_65
+  - first:
+      213: -6280564400705796240
+    second: PC Computer - Undertale - Toriel_Old1_66
+  - first:
+      213: -4152292639784726513
+    second: PC Computer - Undertale - Toriel_Old1_67
+  - first:
+      213: 7556128440742731064
+    second: PC Computer - Undertale - Toriel_Old1_68
+  - first:
+      213: 771695793907236301
+    second: PC Computer - Undertale - Toriel_Old1_69
+  - first:
+      213: -3694799356899570933
+    second: PC Computer - Undertale - Toriel_Old1_70
+  - first:
+      213: 8833658304644466119
+    second: PC Computer - Undertale - Toriel_Old1_71
+  - first:
+      213: 8956114813219781507
+    second: PC Computer - Undertale - Toriel_Old1_72
+  - first:
+      213: -252313444500013310
+    second: PC Computer - Undertale - Toriel_Old1_73
+  - first:
+      213: 679837029978746076
+    second: PC Computer - Undertale - Toriel_Old1_74
+  - first:
+      213: 5425268408539701242
+    second: PC Computer - Undertale - Toriel_Old1_75
+  - first:
+      213: -2958078042299018793
+    second: PC Computer - Undertale - Toriel_Old1_76
+  - first:
+      213: -6032079579929084996
+    second: PC Computer - Undertale - Toriel_Old1_77
+  - first:
+      213: -304931483923748167
+    second: PC Computer - Undertale - Toriel_Old1_78
+  - first:
+      213: -4592790252765965603
+    second: PC Computer - Undertale - Toriel_Old1_79
+  - first:
+      213: -4095854161874336910
+    second: PC Computer - Undertale - Toriel_Old1_80
+  - first:
+      213: -7144271366403046234
+    second: PC Computer - Undertale - Toriel_Old1_81
+  - first:
+      213: -2247013547650020051
+    second: PC Computer - Undertale - Toriel_Old1_82
+  - first:
+      213: 6458974222211039367
+    second: PC Computer - Undertale - Toriel_Old1_83
+  - first:
+      213: 6047017571569818517
+    second: PC Computer - Undertale - Toriel_Old1_84
+  - first:
+      213: 2721323193676320423
+    second: PC Computer - Undertale - Toriel_Old1_85
+  - first:
+      213: -4463576913789731255
+    second: PC Computer - Undertale - Toriel_Old1_86
+  - first:
+      213: -2171089634730898954
+    second: PC Computer - Undertale - Toriel_Old1_87
+  - first:
+      213: -5147958580557617977
+    second: PC Computer - Undertale - Toriel_Old1_88
+  - first:
+      213: -1494144587275977405
+    second: PC Computer - Undertale - Toriel_Old1_89
+  - first:
+      213: 8841474429007296360
+    second: PC Computer - Undertale - Toriel_Old1_90
+  - first:
+      213: -8622998378585132333
+    second: PC Computer - Undertale - Toriel_Old1_91
+  - first:
+      213: 7454214475376143809
+    second: PC Computer - Undertale - Toriel_Old1_92
+  - first:
+      213: 3303433246863502605
+    second: PC Computer - Undertale - Toriel_Old1_93
+  - first:
+      213: -5099655445133687943
+    second: PC Computer - Undertale - Toriel_Old1_94
+  - first:
+      213: 8100206256865287663
+    second: PC Computer - Undertale - Toriel_Old1_95
+  - first:
+      213: 3721896396449915419
+    second: PC Computer - Undertale - Toriel_Old1_96
+  - first:
+      213: 5953361660064745839
+    second: PC Computer - Undertale - Toriel_Old1_97
+  - first:
+      213: -2781119834844636993
+    second: PC Computer - Undertale - Toriel_Old1_98
+  - first:
+      213: -6453314437686831175
+    second: PC Computer - Undertale - Toriel_Old1_99
+  - first:
+      213: 6668076364557074674
+    second: PC Computer - Undertale - Toriel_Old1_100
+  - first:
+      213: -7713626444732201484
+    second: PC Computer - Undertale - Toriel_Old1_101
+  - first:
+      213: 2407351213316179348
+    second: PC Computer - Undertale - Toriel_Old1_102
+  - first:
+      213: -5491233220938838430
+    second: PC Computer - Undertale - Toriel_Old1_103
+  - first:
+      213: 5136372921874206997
+    second: PC Computer - Undertale - Toriel_Old1_104
+  - first:
+      213: 8136196959483486929
+    second: PC Computer - Undertale - Toriel_Old1_105
+  - first:
+      213: -6097540229393750119
+    second: PC Computer - Undertale - Toriel_Old1_106
+  - first:
+      213: 5767817752651148780
+    second: PC Computer - Undertale - Toriel_Old1_107
+  - first:
+      213: 6333801836208996746
+    second: PC Computer - Undertale - Toriel_Old1_108
+  - first:
+      213: 3362315021113697285
+    second: PC Computer - Undertale - Toriel_Old1_109
+  - first:
+      213: 2511620333986864072
+    second: PC Computer - Undertale - Toriel_Old1_110
+  - first:
+      213: 2722015979315586552
+    second: PC Computer - Undertale - Toriel_Old1_111
+  - first:
+      213: 4937830220708122237
+    second: PC Computer - Undertale - Toriel_Old1_112
+  - first:
+      213: 6765319139931526852
+    second: PC Computer - Undertale - Toriel_Old1_113
+  - first:
+      213: -231396945001949265
+    second: PC Computer - Undertale - Toriel_Old1_114
+  - first:
+      213: -1106997007928060994
+    second: PC Computer - Undertale - Toriel_Old1_115
+  - first:
+      213: 3982414501642439225
+    second: PC Computer - Undertale - Toriel_Old1_116
+  - first:
+      213: -2369762351863658118
+    second: PC Computer - Undertale - Toriel_Old1_117
+  - first:
+      213: 7021050147767959528
+    second: PC Computer - Undertale - Toriel_Old1_118
+  - first:
+      213: -1057865586937095588
+    second: PC Computer - Undertale - Toriel_Old1_119
+  - first:
+      213: 2056898922292575020
+    second: PC Computer - Undertale - Toriel_Old1_120
+  - first:
+      213: 6943864867414040425
+    second: PC Computer - Undertale - Toriel_Old1_121
+  - first:
+      213: -6100351661437123923
+    second: PC Computer - Undertale - Toriel_Old1_122
+  - first:
+      213: 4414872807649707291
+    second: PC Computer - Undertale - Toriel_Old1_123
+  - first:
+      213: -2256704522130899454
+    second: PC Computer - Undertale - Toriel_Old1_124
+  - first:
+      213: -8479140066789662603
+    second: PC Computer - Undertale - Toriel_Old1_125
+  - first:
+      213: -1917391105149186156
+    second: PC Computer - Undertale - Toriel_Old1_126
+  - first:
+      213: 5522855238566742977
+    second: PC Computer - Undertale - Toriel_Old1_127
+  - first:
+      213: -1763872210450413593
+    second: PC Computer - Undertale - Toriel_Old1_128
+  - first:
+      213: 6779536933842885962
+    second: PC Computer - Undertale - Toriel_Old1_129
+  - first:
+      213: 8462287461754992917
+    second: PC Computer - Undertale - Toriel_Old1_130
+  - first:
+      213: -4105245009865247593
+    second: PC Computer - Undertale - Toriel_Old1_131
+  - first:
+      213: 6425876192266418539
+    second: PC Computer - Undertale - Toriel_Old1_132
+  - first:
+      213: -8972333193766086596
+    second: PC Computer - Undertale - Toriel_Old1_133
+  - first:
+      213: -2776135013256496663
+    second: PC Computer - Undertale - Toriel_Old1_134
+  - first:
+      213: 8111157008863765593
+    second: PC Computer - Undertale - Toriel_Old1_135
+  - first:
+      213: -7747003150723737861
+    second: PC Computer - Undertale - Toriel_Old1_136
+  - first:
+      213: 7917591299365401351
+    second: PC Computer - Undertale - Toriel_Old1_137
+  - first:
+      213: 1870433732341573682
+    second: PC Computer - Undertale - Toriel_Old1_138
+  - first:
+      213: 7736564302306165176
+    second: PC Computer - Undertale - Toriel_Old1_139
+  - first:
+      213: -2986598716613725657
+    second: PC Computer - Undertale - Toriel_Old1_140
+  - first:
+      213: -1945465172067853648
+    second: PC Computer - Undertale - Toriel_Old1_141
+  - first:
+      213: 392598418298493709
+    second: PC Computer - Undertale - Toriel_Old1_142
+  - first:
+      213: 4293372269380948791
+    second: PC Computer - Undertale - Toriel_Old1_143
+  - first:
+      213: -4917191496717315234
+    second: PC Computer - Undertale - Toriel_Old1_144
+  - first:
+      213: 7651664608972867539
+    second: PC Computer - Undertale - Toriel_Old1_145
+  - first:
+      213: 3315932859809041060
+    second: PC Computer - Undertale - Toriel_Old1_146
+  - first:
+      213: 2904265882984307441
+    second: PC Computer - Undertale - Toriel_Old1_147
+  - first:
+      213: 8684713828322512506
+    second: PC Computer - Undertale - Toriel_Old1_148
+  - first:
+      213: 1037195941953811911
+    second: PC Computer - Undertale - Toriel_Old1_149
+  - first:
+      213: -7308656626731336276
+    second: PC Computer - Undertale - Toriel_Old1_150
+  - first:
+      213: 2434143296137535380
+    second: PC Computer - Undertale - Toriel_Old1_151
+  - first:
+      213: -255173728127551898
+    second: PC Computer - Undertale - Toriel_Old1_152
+  - first:
+      213: -7509768864662122217
+    second: PC Computer - Undertale - Toriel_Old1_153
+  - first:
+      213: 5988249022611879827
+    second: PC Computer - Undertale - Toriel_Old1_154
+  - first:
+      213: 416148019861992859
+    second: PC Computer - Undertale - Toriel_Old1_155
+  - first:
+      213: -1008738805130437465
+    second: PC Computer - Undertale - Toriel_Old1_156
+  - first:
+      213: 6417332284085165688
+    second: PC Computer - Undertale - Toriel_Old1_157
+  - first:
+      213: -8162943105172840201
+    second: PC Computer - Undertale - Toriel_Old1_158
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 245
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a533bc2ce8af0490800000000000000
+      internalID: -7777812299129866848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 245
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c207e3058237c34fafbbae6fdabf88a
+      internalID: -3620547561452222411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 159
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3a2c11afa220f42be40be6446513dc
+      internalID: 6408807964540566073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 159
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf7ab8777994ce42b069e8ec4ed0cc0
+      internalID: -682527086347102015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 158
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b0bd2c17559cc48930397338d12b25
+      internalID: 3511317194874297290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 157
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc36739b3a212f4a9177b9d2a7d6450
+      internalID: -2936261539689078572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 158
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02322eb3cdfdd2344b1b3b12b10f16c7
+      internalID: 9135173024533144675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 159
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc37b8b42f3059d41ae388843db87ae8
+      internalID: -2675906873346499321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 80
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06036b6acbd2a014eaff4609ee7a7b57
+      internalID: -2069746034991314147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 81
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa5496afd4f0fd4d863a05de29e5643
+      internalID: 574922743210366238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 516
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d2be4ebb334ae4daa4fdbfe2f007fd
+      internalID: -83237347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 518
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27d512726162434bb35e8246d76dc56
+      internalID: 105447401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 519
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848bc933c205ae648b6a5b8cf7042147
+      internalID: -1176244253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 517
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8af0187d2a176e4396984b12e2256b7
+      internalID: -527437661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 322
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69497a05aee6afa4b97bf84587c351e9
+      internalID: 1171507851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 322
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacde77bae562c84a9dcc89c571f38d9
+      internalID: 2052468203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 322
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dcdc61763d7d44db286b01d3e9fb32
+      internalID: 45924578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Toriel_Old1_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 322
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b49502cd76944949b83ff1a82bb0951
+      internalID: -1479072457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f3248ad8ab3618a4a8882db047c5e0c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Undertale - Toriel_Old1_0: -7777812299129866848
+      PC Computer - Undertale - Toriel_Old1_1: -3620547561452222411
+      PC Computer - Undertale - Toriel_Old1_10: -83237347
+      PC Computer - Undertale - Toriel_Old1_11: 105447401
+      PC Computer - Undertale - Toriel_Old1_12: -1176244253
+      PC Computer - Undertale - Toriel_Old1_13: -527437661
+      PC Computer - Undertale - Toriel_Old1_14: 1171507851
+      PC Computer - Undertale - Toriel_Old1_15: 2052468203
+      PC Computer - Undertale - Toriel_Old1_16: 45924578
+      PC Computer - Undertale - Toriel_Old1_17: -1479072457
+      PC Computer - Undertale - Toriel_Old1_2: 6408807964540566073
+      PC Computer - Undertale - Toriel_Old1_3: -682527086347102015
+      PC Computer - Undertale - Toriel_Old1_4: 3511317194874297290
+      PC Computer - Undertale - Toriel_Old1_5: -2936261539689078572
+      PC Computer - Undertale - Toriel_Old1_6: 9135173024533144675
+      PC Computer - Undertale - Toriel_Old1_7: -2675906873346499321
+      PC Computer - Undertale - Toriel_Old1_8: -2069746034991314147
+      PC Computer - Undertale - Toriel_Old1_9: 574922743210366238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

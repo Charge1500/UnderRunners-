@@ -161,6 +161,11 @@ MonoBehaviour:
   isPlayerInside: 0
   animator: {fileID: 0}
   playerCollider: {fileID: 0}
+  position: {x: 0, y: 0, z: 0}
+  soundEffectManager: {fileID: 0}
+  audioSource: {fileID: 0}
+  clips:
+  - {fileID: 8300000, guid: 8659d8bff6548e640b58b40c6173c5dd, type: 3}
 --- !u!58 &233770956950361467
 CircleCollider2D:
   m_ObjectHideFlags: 0

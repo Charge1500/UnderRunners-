@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5046125752675665560}
   - component: {fileID: 1497113113601257042}
   - component: {fileID: 5669226016243460077}
+  - component: {fileID: 3795622759862151716}
   m_Layer: 0
   m_Name: TorielHab
   m_TagString: Untagged
@@ -72,9 +73,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -362245535
-  m_SortingLayer: 4
-  m_SortingOrder: 0
+  m_SortingLayerID: 1419127903
+  m_SortingLayer: 5
+  m_SortingOrder: -10
   m_Sprite: {fileID: -2549948086473000274, guid: 191a995aac0edfa48b112e64dca0cf07, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -120,6 +121,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edb6cb2aa36702a479845ae482cfe0d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &3795622759862151716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 995949771665052702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4f9bd0d49407524fa321497b8e458be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7516092455168309630
 GameObject:
   m_ObjectHideFlags: 0
@@ -135,6 +148,7 @@ GameObject:
   - component: {fileID: 1564822060082356708}
   - component: {fileID: 8038949521742420423}
   - component: {fileID: 1794551783331750304}
+  - component: {fileID: 8202089801071571118}
   m_Layer: 6
   m_Name: Toriel
   m_TagString: Player
@@ -232,6 +246,19 @@ MonoBehaviour:
   currentAttack: 0
   coldown: 2
   currentColdown: 0
+  dialogStartTurn: "Es mi turno. Har\xE9 todo lo posible para avanzar."
+  dialogAttack: "Perd\xF3name, pero esto es necesario."
+  dialogDamage: "\xA1Oh, eso doli\xF3... pero debo seguir adelante!"
+  dialogHab: "Un momento para m\xED... Un t\xE9 c\xE1lido har\xE1 maravillas."
+  dialogHeal: Gracias, me siento mejor ahora.
+  dialogFoundRuby: He encontrado lo que necesitaba.
+  dialogImages:
+  - {fileID: 6792097739280333964, guid: 9b660a1176d4ec4449de0e3214e37f9d, type: 3}
+  - {fileID: -495024989728700945, guid: 9b660a1176d4ec4449de0e3214e37f9d, type: 3}
+  - {fileID: 1558469847818272370, guid: 9b660a1176d4ec4449de0e3214e37f9d, type: 3}
+  - {fileID: 5092018028122312209, guid: 9b660a1176d4ec4449de0e3214e37f9d, type: 3}
+  - {fileID: 8845074164510208091, guid: 9b660a1176d4ec4449de0e3214e37f9d, type: 3}
+  - {fileID: 3909801406083073869, guid: 9b660a1176d4ec4449de0e3214e37f9d, type: 3}
   hasRuby: 0
   isTurn: 0
   isUsingHab: 0
@@ -246,6 +273,12 @@ MonoBehaviour:
   respawnPoint: {x: 0, y: 0}
   playersToAttack: []
   friskCopy: 0
+  audioSource: {fileID: 0}
+  audioClips:
+  - {fileID: 8300000, guid: 894de11fe5b2ae342a0b90c91513dc60, type: 3}
+  - {fileID: 8300000, guid: 257e781080feb1343adf2905ac6a0bc3, type: 3}
+  - {fileID: 8300000, guid: b7d8032d19f6d834cbf15a4966a0ff33, type: 3}
+  - {fileID: 8300000, guid: 44779819cd1182e42ad96f5545fe7138, type: 3}
   torielHealing: {fileID: 995949771665052702}
 --- !u!50 &8134166521140453746
 Rigidbody2D:
@@ -378,3 +411,99 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0.0107655525, y: 0.35959905}
   m_Radius: 0.67180043
+--- !u!82 &8202089801071571118
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7516092455168309630}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
