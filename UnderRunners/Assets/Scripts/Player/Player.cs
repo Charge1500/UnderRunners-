@@ -110,7 +110,7 @@ public class Player : MonoBehaviour
                 _movement.Normalize();
             }
 
-            _movement *= currentSpeed * Time.deltaTime*0.3f;
+            _movement *= currentSpeed * Time.deltaTime*0.6f;
         }
         else
         {
