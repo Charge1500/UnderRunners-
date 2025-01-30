@@ -552,8 +552,7 @@ MonoBehaviour:
     espabila!"
   dialogHab: "\xA1Frisk, pon atenci\xF3n! Esta copia no se mueve, pero cualquiera
     que la toque... \xA1lo va a lamentar!"
-  dialogHeal: "\xA1Frisk, pon atenci\xF3n! Esta copia no se mueve, pero cualquiera
-    que la toque... \xA1lo va a lamentar!"
+  dialogHeal: "\xBFCrees que eso te salvar\xE1? \xA1Qu\xE9 adorable!"
   dialogFoundRuby: "\xA1Por fin, Frisk! Ahora ag\xE1rralo con fuerza y no dejes que
     nadie te lo quite."
   dialogImages:

@@ -63,7 +63,7 @@ public class MenuEmpezar : MonoBehaviour
         textoReglas[2]="En el misterioso mundo subterráneo de Undertale, una antigua leyenda habla de un rubí mágico escondido en el corazón de un peligroso laberinto. Este Rubí, conocido como el \"Corazón de las Almas\", posee un poder inimaginable que sólo se desatará en manos de quien demuestre ser verdaderamente digno.\nLos personajes icónicos de Undertale - Sans, Papyrus, Undyne, Alphys, Toriel y otros - se reúnen para participar en un reto épico. Al enterarse del legendario Rubí, cada uno de ellos está determinado a obtenerlo, no solo para demostrar su valentía y habilidades, sino también para proteger el mundo subterráneo de aquellos con intenciones siniestras.";
         textoReglas[3]="Con trampas traicioneras en cada esquina y objetos misteriosos que pueden cambiar el curso del juego, cada turno es una carrera contra el tiempo y contra los demás jugadores. Solo el más astuto y valiente puede tomar el Rubí del Centro y mantenerlo el tiempo suficiente para desatar su verdadero poder.\n¿Serás tú el héroe que el mundo subterráneo necesita? La batalla por el Corazón de las Almas está a punto de comenzar...";
         textoReglas[4]="Controles(Funcionan las flechas también):\n\nW:Mover hacia arriba\n\nS:Mover hacia abajo\n\nD:Mover hacia la derecha\n\nA:Mover hacia la izquierda\n\n Ataque:E   Habilidad:Q\nMENU en el juego:ESC";
-        textoReglas[5]="Agradecimientos\n...";
+        textoReglas[5]="Agradecimientos:\nLuis Ronaldo Benitez\nJavier Fontes\nAilema Matos\nAbner Abreu\nAdrian Estevez\nKarla Ramirez\n\n\nProyecto creado por:\n Raul Roberto Espinosa Poma";
         audioSource=GetComponent<AudioSource>();
     }
 
